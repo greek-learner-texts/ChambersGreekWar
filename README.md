@@ -1,4 +1,4 @@
-# {{ NAME OF TEXT }}
+# Chamber's The Greek War of Independence
 
 {{ describe what is being done, the process being followed, and who is involved in the work }}
 
@@ -6,15 +6,15 @@ This text is being prepared as part of the [Greek Learner Texts Project](https:/
 
 ## Contributors
 
-* {{ list of people who have contributed to this repo }}
+* Seumas Macdonald
 
 ## Source
 
-{{ indicate original source(s) of text: scans or existing transcriptions }}
+Scan available on Archive.org: https://archive.org/details/in.ernet.dli.2015.13619/page/n1/mode/2up
 
 ## Progress
 
-{{ indicate progress, or remove entire section if done }}
+* Current Work : OCRing text
 
 ## License
 
