@@ -1,2 +1,4 @@
 * the prepared text in our textpart-per-line format with dotted ref
 * can be multiple *.txt files but, if there is an inherent order to the files, this should be reflected in the sort order of the filenames
+
+The Greek text narrative portion of Chambers' reader is composed of 48 sections broken up into "parts" of twelve chapters each. The dot format hierarchy used is `Part.Section.Paragraph.Line`. Zero-values in dot notation indicate headings. 
