@@ -1,6 +1,5 @@
 import glob
 import sys
-import unicodedata
 from greek_normalisation.utils import convert_to_2019, nfc
 from text_validator.main import validate
 from pathlib import Path 
