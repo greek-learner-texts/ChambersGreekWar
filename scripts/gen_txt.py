@@ -19,8 +19,8 @@ def parse_md(md_filename):
                     section_index += 1
                     paragraph_index = 1 # reset 
                     line_dict[str(section_index).rjust(2,'0') + '.00.00'] = line
-                elif (line[0:2] == '##'): # ignore part headings
-                    pass
+                elif (line[0:2] == '##' or line == ''): # ignore part headings, extra blank lines
+                    continue
                 elif (line[0:1] == '#'): # handle book title
                     line_dict['00.00.00'] = line
                 else: # parsing logic for paragraphs - should be only thing left
@@ -28,7 +28,7 @@ def parse_md(md_filename):
                     sentence_index = 1
                     for sentence in sentences:
                         if (sentence == ''):
-                            pass
+                            break
                         else:
                             sentence = sentence.strip() + '.' # add back periods
                             key = str(section_index).rjust(2,'0')+ '.' + str(paragraph_index).rjust(2,'0')+ '.' + str(sentence_index).rjust(2,'0')
