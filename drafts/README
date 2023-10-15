@@ -1,7 +1,8 @@
 Intermediate or helpful checkpoint files can go here. 
 
-The .md file is the original (slightly cleaned) ocr file. Each of the .txt files is one of the 48 sections of the reader awaiting manual review for accuracy. Once reviewed and formatted, the section txt file should be moved to the text/ folder. 
+chambers_ocr.md file is the original (slightly cleaned) ocr file.
+chambers_ocr_sample.md is the first two chapters & used for testing scripts etc. (may not be up to date)
 
 Checklist: 
-- [ ] Paragraph & Line numbering appropriately represents the original text and is in the correct format
+- [x] Paragraph & Line numbering appropriately represents the original text and is in the correct format
 - [ ] Spelling, accentuation, and punctuation have been updated to match the original text.
