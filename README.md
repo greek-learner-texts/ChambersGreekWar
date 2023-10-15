@@ -22,7 +22,7 @@ A cleaner scan can be found in the orig folder.
 
 The Greek text narrative portion of Chambers' reader is composed of 48 sections broken up into "parts" of twelve chapters each. The dot format hierarchy used is `Section.Paragraph.Line`. Zero-values in dot notation indicate headings. Parts are _not_ currently tracked in the files themselves but can be considered additional metadata. Section titles should be included in the format of `XX.00.00`. 
 
-Cleanup and formatting is in progress. For ease of tracking, each of the 48 sections is prepared separately, but these will eventually be combined into a single .txt file in the text/ folder. 
+Cleanup and formatting is in progress.
 
 ### To-Do
 

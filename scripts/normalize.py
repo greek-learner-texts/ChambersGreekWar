@@ -19,7 +19,9 @@ chambers_path = Path(__file__).parent.parent
 files_dir = (chambers_path / 'text\\').resolve()
 files_list = glob.glob(str(files_dir) + '*.txt')
 
-for file in files_list:
-    normalize_file(file)
+normalize_file("C:/Users/Sarah McCuan/Documents/projects/ChambersGreekWar/drafts/chambers_ocr.md")
 
-print(validate((chambers_path / 'text-validator.toml').resolve(), files_list))
+# for file in files_list:
+#     normalize_file(file)
+
+# print(validate((chambers_path / 'text-validator.toml').resolve(), files_list))
