@@ -25,4 +25,5 @@ TOKEN_REGEXES = [
     # each whitespace-separated token must match one of these regexes
     "\\d+\\.\\d+$",
     "[«(]*[\u0370-\u03FF\u1F00-\u1FFF]+\u2019?[.,:;»)·]*$",
+    "^(\\d{2}\\.){2}\\d{2}$",
 ]
