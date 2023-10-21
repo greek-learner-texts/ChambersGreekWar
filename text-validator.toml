@@ -1,5 +1,5 @@
 ["text_validator.plugins.whitespace"]
-CHECK_CRLF = true
+CHECK_CRLF = false
 CHECK_TABS = true
 CHECK_TRAILING_WHITESPACE = true
 CHECK_NO_EOF_NEWLINE = true
@@ -8,7 +8,7 @@ CHECK_NO_EOF_NEWLINE = true
 CONFIRM_UTF_8_NFC = true
 
 ["text_validator.plugins.ref_line_format"]
-REF_REGEX = "\\d+\\.\\d+$"
+REF_REGEX = "^(\\d{2}\\.){2}\\d{2}$"
 
 ["text_validator.plugins.characters"]
 REPLACE_CHARS = [
@@ -23,6 +23,6 @@ REPLACE_CHARS = [
 ]
 TOKEN_REGEXES = [
     # each whitespace-separated token must match one of these regexes
-    "\\d+\\.\\d+$",
+    "^(\\d{2}\\.){2}\\d{2}$",
     "[«(]*[\u0370-\u03FF\u1F00-\u1FFF]+\u2019?[.,:;»)·]*$",
 ]

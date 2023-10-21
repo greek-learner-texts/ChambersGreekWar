@@ -18,7 +18,11 @@ A cleaner scan can be found in the orig folder.
 
 ### Current Work: 
 
-* formatting OCR text for the Greek narrative portion
+* reviewing & formatting OCR text for the Greek narrative portion
+
+The Greek text narrative portion of Chambers' reader is composed of 48 sections broken up into "parts" of twelve chapters each. The dot format hierarchy used is `Section.Paragraph.Line`. Zero-values in dot notation indicate headings. Parts are _not_ currently tracked in the files themselves but can be considered additional metadata. Section titles should be included in the format of `XX.00.00`. 
+
+Cleanup and formatting is in progress.
 
 ### To-Do
 

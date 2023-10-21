@@ -1,1 +1,8 @@
 Intermediate or helpful checkpoint files can go here. 
+
+chambers_ocr.md file is the original (slightly cleaned) ocr file.
+chambers_ocr_sample.md is the first two chapters & used for testing scripts etc. (may not be up to date)
+
+Checklist: 
+- [x] Paragraph & Line numbering appropriately represents the original text and is in the correct format
+- [ ] Spelling, accentuation, and punctuation have been updated to match the original text.
