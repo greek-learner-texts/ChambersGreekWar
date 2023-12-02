@@ -1,7 +1,5 @@
 # Chamber's The Greek War of Independence
 
-Conversion from the open archive.org pdf file to textpart-per-line formatting with the eventual goal of building a reader and/or other resources.  
-
 This text is being prepared as part of the [Greek Learner Texts Project](https://greek-learner-texts.org/).
 
 ## Contributors
@@ -16,19 +14,35 @@ A cleaner scan can be found in the orig folder.
 
 ## Progress
 
+- OCR complete
+- First review of OCR & correction is complete
+
 ### Current Work: 
 
-* reviewing & formatting OCR text for the Greek narrative portion
+* Collating & formatting supplementary material: endnotes, vocabulary, lemmatization, etc. 
 
-The Greek text narrative portion of Chambers' reader is composed of 48 sections broken up into "parts" of twelve chapters each. The dot format hierarchy used is `Section.Paragraph.Line`. Zero-values in dot notation indicate headings. Parts are _not_ currently tracked in the files themselves but can be considered additional metadata. Section titles should be included in the format of `XX.00.00`. 
+### Changes & Contributions: 
 
-Cleanup and formatting is in progress.
+Proofreading of the core text is extremely welcome!!! 
+
+To submit changes:
+- Edit the source markdown in `drafts/chambers_ocr.md`.
+- Run `scripts/normalize.py` and `scripts/gen_txt.py` to create the GTLP-formatted text files.
+- Run `scripts/validate.py` to validate the GLTP format. 
+- Run `build-html.py` to build the static site html.
+- Open a PR! 
+
+If that sounds difficult, just open an issue in the project and I'll try to make the changes asap. 
 
 ### To-Do
 
 * OCR & cleanup work on endnotes & other material 
 * Formatting 
 * Lemmatization
+
+### Notes on the project so far
+
+The Greek text narrative portion of Chambers' reader is composed of 48 chapters broken up into "parts" of twelve chapters each. The GLTP dot format hierarchy used is `Chapter.Paragraph.Line`. Zero-values in dot notation indicate headings. Parts are _not_ currently tracked in the files themselves but can be considered additional metadata. Chapter titles are included in the format of `XX.00.00`. 
 
 ## License
 
