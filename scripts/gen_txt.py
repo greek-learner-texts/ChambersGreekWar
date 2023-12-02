@@ -16,12 +16,14 @@ def parse_md_with_headers(md_filename):
             for line in raw_txt.splitlines():
                 line = line.strip()
                 if (line[0:3] == '###'): # section headings
+                    line = line[4:len(line)]
                     section_index += 1
                     paragraph_index = 1 # reset 
                     line_dict[str(section_index).rjust(2,'0') + '.00.00'] = line
                 elif (line[0:2] == '##' or line == ''): # ignore part headings, extra blank lines
                     continue
                 elif (line[0:1] == '#'): # handle book title
+                    line = line[2:len(line)]
                     line_dict['00.00.00'] = line
                 else: # parsing logic for paragraphs - should be only thing left
                     sentences = line.split('.')
@@ -106,7 +108,7 @@ chambers_path = Path(__file__).parent.parent
 md_file_path = (chambers_path / 'drafts\\chambers_ocr.md').resolve()
 
 no_headers_txt_file_path = (chambers_path / 'text\\chambers.txt').resolve()
-headers_txt_file_path = (chambers_path / 'drafts\\chambers_ocr.txt').resolve()
+headers_txt_file_path = (chambers_path / 'text\\chambers_w_headers.txt').resolve()
 
 gen_txt_no_headers(md_file_path, no_headers_txt_file_path)
 gen_txt_with_headers(md_file_path, headers_txt_file_path)
