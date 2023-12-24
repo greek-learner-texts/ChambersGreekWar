@@ -79,59 +79,56 @@ Pres. Ind. of εἶναι, εἰμί ; of λύειν, λύω, [REF].
 25. τε ... καί ... καί. Introd. Note A. (iii.).
 
 ## Section 2. 
-τὸ δῶρον, p. 143 ; Neut. of στενός, μικρός, p. 145 ; δόξα, p. 142; ὅδε, p. 146.
-1.  κarà την ȧρxýv at the beginning.
-ὅδε this is declined like the Article with de added; when it is used with nouns, the Article must also be used immediately before the noun ; ὁ πόλεμος ὅδε οι ὅδε ὁ πόλεμος this war. For exception, see 5, 4 n.
-1.  οἱ μέν oi δέ.—Introd. Note B. (viii.).
-...
-1.  karà kwμas åteixíorovs in unfortified villages.
-Compound adjectives (a-reixoros un-walled) have no separate form for the Fem. Cf. παραθαλάσσιος, πολυάνθρωπος.
-1.  oi de κáτw but those on the coast, the Article with an adverb forming the equivalent of a noun.-Introd. Note B. (ix.).
-99 66 
-κάτω properly down. The Greeks spoke of "going down to the coast, up into the interior," and "on the high seas," just as we do; the coast is regarded as the lowest point.
-1.  Tòv Tλelotov Toû Bíov the greater part of their livelihood; the adjective is made to agree in gender with the noun in the (partitive) Genitive.
-2.  mapabaλáσoios sc. yn.-Introd. Note B. (ix.).
-3.  vaνrike oxλw with a crowd of sailors; with and by are expressed in Greek by the Dative, corresponding with the Latin (instrumental) Ablative.
-4.  oi ev Ty μeooyeía.-Introd. Note B. (iv.).
-5.  τούς τε ἄλλους to pay tithes of their produce and other taxes; the English order is the reverse of the Greek order.
-NOTES TO PAGES 4, 5 
-1.  Sσre with Ind. introduces a Consecutive Clause, so that. 29. δι' ἁρπαγῆς, see l. 3 n.
-63 
-1.  ὥσπερ κλέπται as Clephts. The Clephts (lit. robbers) were those Greeks, who in defiance of the Turkish authorities carried on a predatory warfare from the hills. Many of them were popular heroes, and their existence helped to keep alive the patriotism of the Greeks.
-Tà Tây TоúρKwv the property of the Turks.-Introd. Note B. (ix.). Page 5, 1. Tŵν πρiv piλwv, see 3, 11.
-1.
-Kívduvos.-Introd. Note B. (v.).
-οὕτω δή in this way. δή only emphasises οὕτω, which sums up what precedes. For omission of conjunction, see Introd. Note A. (ii.).
-Section 3. deσtóτns, p. 143.
-1. dúo airía aide these two causes. If a numeral is used, ὅδε does not require the Article to be inserted with the noun, contrary to the rule given on 4, 12.
-TOÙS VπηKÓοvs subject peoples (in general). The Article denotes a whole class.-Introd. Note B. (vii.).
-1. ἡ τιμωρία τῶν ἀδικιῶν vengeance for their wrongs.
-2. após against.
-3. dia ráde for the following reasons.
-For the omission of a con
-junction in the following sentence, see Introd. Note A. (ii.).
-πρŵтоν μέν is answered by ἔπειτα in l. 16.—Introd. Note A. (iv.). 10. or that introduces a noun-clause, after verbs of thinking, knowing, feeling, seeing, saying, etc.
-avroi (they) themselves, cf. 3, 3 n.
-1.  exovσi Tous deσπóras á§vvérovs lit. they have their masters ignorant, i.e., the masters they have are ignorant. ἀξυνέτους is 8 predicated adjective, and so has no Article. This is the common idiom with ἔχειν.
-• 
-1.  ἄδικα πάσχουσιν ὑπό lit. suffer unjust things by, ie., suffer unjustly at the hands of. iró with Gen. is the ordinary way of expressing the Agent after Passive Verbs (Lat. ab with Abl.); it is also used, as here, with Intransitive Verbs which have a Passive meaning, are unjustly treated by.
-2.  oioi reioí lit. are such as to, i.e., are able to; so oióv r' éotív it is possible. Te in early Greek was added to Relative words, e.g., Sote, and in such cases means nothing at all.
-• 
-· 
-δίκην λαμβάνειν παρά to take vengeance on, lit. to get punishment from. napú with Gen. meaning from is only used of persons. 19. οὐδέν dikalov the judges do not care at all either for the laws or for justice. In Greek two negatives only strengthen one another, provided that the second one is compound. rò díkalov justice. -Introd. Note B. (ix.).
-64 
-1.  μετὰ δώρων . fluence of bribes.
-NOTES TO PAGES 5, 6 
-• 
-they decide cases with gifts, i.e., under the in
-1.  εἰσί is understood with ἔμπειροι δέ from the previous clause. In general if a word or group of words is required with two clauses, it is inserted in the first clause and understood in the second.
-2.  OUTW. See 1 2 n.
-• 
-Page 6, 1. &v of which; the Rel. Pron. ős, 7, 8, is declined in its other cases like the Article with a rough breathing instead of τ, p. 146.
-τὰ μὲν 
-ék dè Tŵv.—Introd. Note B. (viii.). pépe. Neut. Plurals in Greek take a Singular Verb. This arose from an original use of the Neut. Plur. as a singular collective noun.
-1. ἀθάνατον. See 4, 19 n.
-Section 4. Past Imperfect of εἶναι, ή; of λύειν, ἔλυον, p. 147. Syllabic Augment, p. 147; Strong Aorist, p. 148.
+
+τὸ δῶρον, [REF] ; Neut. of στενός, μικρός, [REF]; δόξα, [REF]; ὅδε, [REF].
+
+1. κατὰ τήν ἀρχήν *at the beginning*.
+2. ὅδε this is declined like the Article with δε added; when it is used with nouns, the Article must also be used immediately before the noun; ὁ πόλεμος ὅδε or ὅδε ὁ πόλεμος *this war*. For exception, see [REF] *n*.
+3. οἱ μέν ... οἱ δέ. Introd. Note B. (viii.).
+4. κατὰ κώμας ἀτειχίστους *in unfortified villages*. Compound adjectives (ἀ-τείχιστος *un-walled*) have no separate form for the Fem. *Cf*. παραθαλάσσιος, πολυάνθρωπος [REF].
+5. οἱ δὲ κάτω *but those on the coast*, the Article with an adverb forming the equivalent of a noun. Introd. Note B. (ix.).
+6. κάτω properly *down*. The Greeks spoke of "going *down* to the coast," "*up* into the interior," and "on the *high* seas," just as we do; the coast is regarded as the lowest point.
+7. τὸν πλεῖστον τοῦ βίου *the greater part of their livelihood*; the adjective is made to agree in gender with the noun in the (partitive) Genitive.
+8. ἡ παραθαλάσσιος sc. γῆ. Introd. Note B. (ix.).
+9. ναυτικῷ ὄχλῳ *with a crowd of sailors*; *with* and *by* are expressed in Greek by the Dative, corresponding with the Latin (instrumental) Ablative.
+10. οἱ ἐν τῇ μεσογείᾳ. Introd. Note B. (iv.).
+11. τούς τε ἄλλους... *to pay tithes of their produce and other taxes*; the English order is the reverse of the Greek order.
+12. ὥστε with Ind. introduces a Consecutive Clause, *so that*.
+13. δι' ἁρπαγῆς, see [REF] *n*.
+14. ὥσπερ κλέπται *as Clephts*. The Clephts (lit. robbers) were those Greeks, who in defiance of the Turkish authorities carried on a predatory warfare from the hills. Many of them were popular heroes, and their existence helped to keep alive the patriotism of the Greeks.
+15. τὰ τῶν Τούρκων *the property of the Turks*. Introd. Note B. (ix.).
+16. τῶν πρὶν φίλων, see [REF].
+17. ὁ κίνδυνος. Introd. Note B. (v.).
+18. οὕτω δή *in this way*. δή only emphasises οὕτω, which sums up what precedes. For omission of conjunction, see Introd. Note A. (ii.).
+
+## Section 3.
+
+δεσπότης, [REF].
+
+1. δύο αἰτίαι αἵδε *these two causes*. If a numeral is used, ὅδε does not require the Article to be inserted with the noun, contrary to the rule given on [REF].
+2. τοὺς ὑπηκόους *subject peoples* (in general). The Article denotes a whole class. Introd. Note B. (vii.).
+3. ἡ τιμωρία τῶν ἀδικιῶν *vengeance for their wrongs*.
+4. πρός *against*.
+5. διὰ τάδε *for the following reasons*. For the omission of a conjunction in the following sentence, see Introd. Note A. (ii.).
+6. πρῶτον μέν is answered by ἔπειτα in [REF]. Introd. Note A. (iv.).
+7. ὅτι *that* introduces a noun-clause, after verbs of thinking, knowing, feeling, seeing, saying, etc.
+8. αὐτοί *(they) themselves*, cf. [REF] *n*.
+9. έχουσι τούς δεσπότας ἀξυνέτους lit. *they have their masters ignorant*, i.e., *the masters they have are ignorant*. ἀξυνέτους is a predicated adjective, and so has no Article. This is the common idiom with ἔχειν
+10. ἄδικα πάσχουσιν ὑπό... lit. *suffer unjust things by*, ie., *suffer unjustly at the hands of*. ὑπό with Gen. is the ordinary way of expressing the Agent after Passive Verbs (Lat. *ab* with Abl.); it is also used, as here, with Intransitive Verbs which have a Passive meaning, *are unjustly treated by*.
+11. οἷοι τ' εἰσί lit. *are such as to*, i.e., *are able to*; so οἷόν τ' ἐστίν *it is possible*. τε in early Greek was added to Relative words, e.g., ὥστε, and in such cases means nothing at all.
+12. δίκην λαμβάνειν παρά... *to take vengeance on*, lit. *to get punishment from*. παρά with Gen. meaning *from* is only used of persons. 
+13. οὐδέν... δικαίον *the judges do not care at all either for the laws or for justice*. In Greek two negatives only strengthen one another, provided that the second one is compound. τὸ δίκαιον *justice*. Introd. Note B. (ix.).
+14. μετὰ δώρων... *they decide cases with gifts*, i.e., *under the influence of bribes*.
+15. εἰσί is understood with ἔμπειροι δέ from the previous clause. In general if a word or group of words is required with two clauses, it is inserted in the first clause and understood in the second.
+16. οὕτω. See [REF] *n*.
+17. ὧν *of which*; the Rel. Pron. ὅς, ἥ, ὅ is declined in its other cases like the Article with a rough breathing instead of τ, [REF].
+18. τὰ μὲν... ἐκ δὲ τῶν. Introd. Note Β. (viii.). 
+19. φέρει. Neut. Plurals in Greek take a Singular Verb. This arose from an original use of the Neut. Plur. as a singular collective noun.
+20. ἀθάνατον. See [REF] *n*.
+
+## Section 4. 
+
+Past Imperfect of εἶναι, ή; of λύειν, ἔλυον, p. 147. Syllabic Augment, p. 147; Strong Aorist, p. 148.
 1. κατά αι, cf. 4, 12.
 • 
 1. τοῖς παρά those along the shore of the Black Sea.-Introd. Note B. (iv.). The name Euxine (hospitable) was given it to avoid the original ill-omened name of "Aĝevos (inhospitable).
