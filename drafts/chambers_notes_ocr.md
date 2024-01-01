@@ -337,504 +337,495 @@ Pass. and Mid. Pres. of λύειν, Ind. λύομαι, Inf. λύεσθαι, P
 
 Pass. and Mid. Pres. of ποιεῖν, Ind. ποιοῦμαι, Inf. ποιεῖσθαι, Part. ποιούμενος, [REFs]; ὄνομα, [REFs]; γένος, [REFs].
 
-1. οἱ ἐκ τῆς περιοικίδος Έλληνες.-Introd. Note B. (iv.).
-2. πεῖραν ποιοῦνται τοῦ τείχους make an attempt on the fort.
-3.  áμúver means to ward off, sc. Tous Toλeμious, the Mid. means to ward off for oneself, hence to defend oneself. Cf. [REFn].
-4.  βουλευομένοις πρὸς deliberating with regard to.
-5.  ὥστε . ¿¿eλÕéîv on condition that the Turks should march out. Cf. [REFn].
-72 
-1.  ἐπὶ τούτῳ 
-NOTES TO PAGES [REF] 
-on this condition they guarantee their lives. 22. ὡς ἀδύνατον ν since it was impossible in any other way. The Acc. is used absolutely (instead of the Gen.) with Impersonal verbs, or Neut. adj. with ov, see 1. 29 eυ πapaoxov there being a favourable opportunity, from Impersonal ev mapéxe there is a favourable opportunity. às is often used with Partic. or Prepositional phrases, to give the motive for the action expressed by the main verb. Cf. [REF].
-1.  vipxe their numbers were not sufficient. Cf. [REFn].
-2.  See 1. 22 n.
-· 
-1.  Καλαμάταν . ἐπολιόρκουν lit. they besieged a place (χωρίον τι) Kalamata, as to its name. Καλαμάταν is in apposition to χωρίον, ὄνομά is Acc. of Respect.
-Page [REF]. σπονδὰς ποιοῦνται 
-= 
-σπένδονται. This periphrasis with 
-= 
-ποιεῖσθαι is extremely common; cf. 1. 7 εὐχὰς ποιοῦνται εὔχονται; 1. 29 λείαν ἐποιοῦντο = ελῄζοντο ; 1. 30 φυγὴν ἐποιοῦντο = ἔφευγον, and other instances in Vocab. 8.v. Toleiv. The Passive is formed by yiyveobai, e.g., ἀρχὴν ποιοῦνται τοῦ πολέμου they begin the war, ἀρχὴ τοῦ πολέμου yiyverai the war is begun. Cf. [REF].
-1. BOTE. See [REFn].
-2. Tŷ Túxn by their good fortune. Instrum. Dat.
-"On the 5th of April, 1821, the Greeks sang their first thanks to God for victory. The ceremony was performed on the banks of the torrent that flows by Kalamata. Twenty-four priests officiated and five thousand armed men stood round. Never was a solemn service of the Orthodox Church celebrated with greater fervour, never did hearts overflow with sincerer devotion to Heaven, nor with warmer gratitude to their church and their God. Patriotic tears poured down the cheeks of rude warriors, and ruthless brigands sobbed like children. All present felt that the event formed an era in the history of their nation."-FINLAY.
-1. às airíovs õvras as being the authors.
-2.  Kará in accordance with.
-3.  ὅτι . . . σελήνη in apposition to λόγος. We might omit ὅτι and put inverted commas.
-Section 15. Pass. and Mid. Ind. Past Imperf. of λvew, éλvóμny, § 183; of ποιεῖν, ἐποιούμην, § 199; Str. Aor. Mid. of γίγνεσθαι, Ind. ἐγενόμην, Inf. γενέσθαι, Part. γενόμενος.
-1.  τῶν 
-• 
-yevouévov of what had happened; the commonest Str. Aor. Mid. are ᾐσθόμην (αἰσθάνομαι perceive), ἀφικόμην (ἀφικνούμαι arrive), ἐπυθόμην (πυνθάνομαι ascertain), έτραπόμην (τρέπομαι turn), ὑπεσχόμην (ὑπισχνούμαι promise).
-1.  Many of these Mussulmans were Greeks by origin; their fore
-NOTES TO PAGES 17-19 
-73 
-fathers had adopted the religion of Mahomet to avoid having to send their children as tribute to Constantinople.
-1.  λeíav éπoloûvтo they plundered. Cf. [REFn].
-Page [REF]. où διὰ μakpov (sc. xpóvov) lit. not at a great interval of time, i.e., soon.
-1. ἔχοντες 
-· 
-.. having the events at Kalamata as examples of all that they too were likely to suffer.
-1. The Greeks at Patras issued a proclamation containing merely these emphatic words,-Peace to the Christians! Respect to the Consuls! Death to the Turks! 
-Lord Byron has translated one of their battle-songs, "Sons of the Greeks, arise!" 
-Section 16. Act. Fut. of Xue, Ind. λvow, Inf. Xvoew, Part. Xvowv, § 181. πόλις, § 37. ευγενής, § 100. ἐκεῖνος, -η, -ο, § 142.
-1.  κai čтi πрóтepov or a little before; xaí corrects the previous statement.
-2.  TOUS Tрокpírovs the Primates; these were Greek officials, appointed by the Turks to act as local magistrates in unimportant cases, and to collect the taxes.
-3.  δι' ὧν . . . ἐπράσσοντο by whose agency they raised the taxes. 16. ås BovλevσovTes to deliberate; the Fut. Partic. expresses purpose as in Latin.
-• 
-• • 
-ἐν ἀξιώματι ἦσαν ὑπό were held in honour by. Cf. [REF]. 18. no@ávovтo... lit. perceived the Greeks that they were preparing, i.e., perceived that the Greeks were preparing.
-1.  ἐσκόπουν ὅπως . . . κωλύσουσι considered how they should prevent. Ind. Question; the tense and mood of the original question "How shall we prevent?" are retained, just as is the case with ori. Cf. [REFn].
-Anvel, Instrum. Dat., by the taking.
-1.  οὐ προυχώρει 
-• 
-matters did not proceed as they wished. 28. ἄριστα ἕξει τὰ πράγματα matters would be best; ἄριστα is an adverb. Cf. [REFn].
-1.  For omission of conjunction see Introd. Note A. (ii.).
-Page [REF]. Ek πapaσкevĤs by arrangement.
-1. προσεποιοῦντο 
-they pretended (a) that a letter had come ..., 
-and (b) that he advised them.
-• 
-For the two different constructions 
-(i.) Acc. and Inf. (ii.) or clause, see [REFn].
-1. μελλόντων 
-• 
-since the government intended to kill them all.
-oi év ápxaîs = ai ȧpxaí, [REF].
-1.  ἐπ ̓ οἴκου means in the direction of home, homewards 1. 1 ἐπὶ τῆς πόλεως: ἐπ ̓ οἶκον 1. 6 means home, implying that you get there. Cf. [REFn].
-74 
-NOTES TO PAGES 19-21 
-Section 17. Act. Weak Aor. of λveiv, Ind. ëλvoa, Inf. Xvoai, Part. λύσας, § 182. βασιλεύς, § 37. μέγας, § 105.
-1.  διὰ τὸ . . . ἔχειν owing to his regarding all alike with suspicion. The Article with the Infin. forms a noun-equivalent. It can be used in any case (Dat. 1. 26; Nom. [REF]) and is especially common after prepositions. The Infin. may have a subject, or object (as rávτas), and may be qualified by any adverbs (as ouoíws) or adverb-equivalents (as év vπovía), just as is the case with any other use of the Infin.
-2.  μéya тi πрâyμa πpáşavra lit. having done some great deed, i.e., by some violent measure.
-3.  τῷ Evλλaßeiv by arresting them. Cf. 1. 20 n.
-• 
-1.  The Chief Dragoman and Secretary were important Turkish officials.
-Page [REF]. rò μǹ vñakovew lit. the not-obeying, i.e., disobedience. See [REFn].
-1. βασιλέως 
-= 
-Σουλτάνου.
-1.  ròv yàp Baoiλéa, Or. Obl. Cf. [REF].
-2.  διὰ To Tηv éoprǹv äyeɩ because of their keeping the festival. See [REFn]. Gregory was arrested on Easter Eve.
-3.  čruxov ronoovres happened to be going to celebrate. Cf. [REF]. 19. Sultan Mahmud II. was called "the Butcher" by the Greeks after this murder. Gregory was 82 years old at the time of his execution. There is no reason to suppose that he was inculpated in the conspiracy. At all events he had solemnly excommunicated Hypsilantes when the news of the insurrection in Roumania reached Constantinople.
-Section 18. γλυκύς, § 102. πολύς, § 105.
-1.  The feelings with which the Jews and Greeks regarded one another may be illustrated by this extract from Gordon: "A band of Jews attended the Pasha's camp voluntarily in the capacity of executioners, allured merely by the pleasure of butchering with clubs the Greek prisoners. One of these execrable savages afterwards boasted that in a single day he had with his own hands slaughtered sixty-four victims.
-"" 
-Page [REF]. Greek priests wear beards, while other Greeks do not, hence it was easy to recognise the body.
-1. ὥσπερ θείᾳ τύχῃ providentially. 13. οὐ χαλεπόν 
-suffered.
-it is not hard to imagine all that the Greeks 
-Section 19. Act. Perf. of Xúew, Ind. λevka, Plup. λeλúкn, Inf. λeλvkévaι, Part. λeλvkós, § 182. Some Perfects end in Oa, ya, da, e.g., ἐλήλυθα (ἔρχομαι come), πέφευγα (φεύγω fee), εἴληφα (λαμβάνω take).
-1.  καταλαμβάνουσι 
-· 
-peλovra find that the people were on the 
-NOTES TO PAGES 21-23 
-75 
-point of holding an assembly. Verbs of finding and sense-perception (perceiving, seeing, knowing) take the Participle instead of the Infinitive. Cf. [REFn].
-1.  is Telow to persuade. Cf. [REFn].
-2.  Teixiopara. The fortresses in the Peloponnese still held by the Turks were Nauplia, Navarino, Modon, Coron, Monemvasia, Patras and Tripolitza.
-Page [REF]. τοὺς νησιώτας καὶ ὅσοι 
-eioiv. Cf. [REFn]. 7. ἀπ' αὐτῶν = ἀπὸ τῶν κινδύνων which will result there from. 8. ὅσα . ἡμαρτήκασι the crimes of the Turks; so ὅσα πεπόνθαμεν 
-our sufferings.
-1.  πάντων ὧν ἐπεπόνθεσαν for all they had suffered. ὧν is attracted into the case of its Antecedent návrov; this attraction occurs when the Relative Pron. would naturally be in the Acc. and its Antecedent is in the Gen. or Dat.
-21 n.
-1.  ἠσθάνοντο 
-ὄντας. Cf. 21, 
-Section 20. Fut. Mid. of Xve, Ind. Xvooμai, Inf. λvoeσbai, Part. λυσόμενος, § 183; of είναι, Ind. ἔσομαι, Inf. ἔσεσθαι, Part. ἐσόμενος, § 266. vaus § 49 (14); voûs § 26.
+1. οἱ ἐκ τῆς περιοικίδος Ἕλληνες. Introd. Note B. (iv.).
+2. πεῖραν ποιοῦνται τοῦ τείχους *make an attempt on the fort*.
+3. ἀμύνειν means to *ward off*, sc. τοὺς πολεμίους, the Mid. means *to ward off for oneself*, hence *to defend oneself*. Cf. [REFn].
+4. βουλευομένοις πρὸς *deliberating with regard to*.
+5. ὥστε... ἐξελθεῖν *on condition that the Turks should march out*. Cf. [REFn].
+6. ἐπὶ τούτῳ... *on this condition they guarantee their lives*.
+7. ὡς ἀδύνατον ὄν... *since it was impossible in any other way*. The Acc. is used absolutely (instead of the Gen.) with Impersonal verbs, or Neut. adj. with ὄν, see [REF] εὖ παρασχόν *there being a favourable opportunity*, from Impersonal δὖ παρέχει *there is a favourable opportunity*. ὡς is often used with Partic. or Prepositional phrases, to give the motive for the action expressed by the main verb. Cf. [REF].
+8. ὑπρχε *their numbers were not sufficient*. Cf. [REFn].
+9.  See [REFn].
+10. Καλαμάταν... ἐπολιόρκουν lit. *they besieged a place* (χωρίον τι) *Kalamata, as to its name*. Καλαμάταν is in apposition to χωρίον, ὄνομά is Acc. of Respect.
+11. σπονδὰς ποιοῦνται = σπένδονται. This periphrasis with ποιεῖσθαι is extremely common; cf. [REF] εὐχὰς ποιοῦνται = εὔχονται; [REF] λείαν ἐποιοῦντο = ελῄζοντο; [REF] φυγὴν ἐποιοῦντο = ἔφευγον, and other instances in Vocab. s.u. ποεῖν. The Passive is formed by γίγνεσθαι, e.g., ἀρχὴν ποιοῦνται τοῦ πολέμου *they begin the war*, ἀρχὴ τοῦ πολέμου γίγνεται *the war is begun*. Cf. [REF].
+12. ὥστε. See [REFn].
+13. τῇ τύχῃ *by their good fortune*. Instrum. Dat.
+14. "On the 5th of April, 1821, the Greeks sang their first thanks to God for victory. The ceremony was performed on the banks of the torrent that flows by Kalamata. Twenty-four priests officiated and five thousand armed men stood round. Never was a solemn service of the Orthodox Church celebrated with greater fervour, never did hearts overflow with sincerer devotion to Heaven, nor with warmer gratitude to their church and their God. Patriotic tears poured down the cheeks of rude warriors, and ruthless brigands sobbed like children. All present felt that the event formed an era in the history of their nation." -FINLAY.
+15. ὡς αἰτίους ὄντας *as being the authors*.
+16. κατά *in accordance with*.
+17. ὅτι... σελήνη in apposition to λόγος. We might omit ὅτι and put inverted commas.
+
+
+### Section 15. 
+
+Pass. and Mid. Ind. Past Imperf. of λύειν, ἐλυόμην, [REFs]; of ποιεῖν, ἐποιούμην, [REFs]; Str. Aor. Mid. of γίγνεσθαι, Ind. ἐγενόμην, Inf. γενέσθαι, Part. γενόμενος.
+
+1. τῶν... γενομένων *of what had happened*; the commonest Str. Aor. Mid. are ᾐσθόμην (αἰσθάνομαι *perceive*), ἀφικόμην (ἀφικνούμαι *arrive*), ἐπυθόμην (πυνθάνομαι *ascertain*), έτραπόμην (τρέπομαι *turn*), ὑπεσχόμην (ὑπισχνούμαι *promise*).
+2. Many of these Mussulmans were Greeks by origin; their forefathers had adopted the religion of Mahomet to avoid having to send their children as tribute to Constantinople.
+3. λείαν ἐποιοῦντο *they plundered*. Cf. [REFn].
+4. οὐ διὰ μακροῦ (sc. χρόνου) lit. *not at a great interval of time*, i.e., *soon*.
+5. ἔχοντες... *having the events at Kalamata as examples of all that they too were likely to suffer*.
+6. The Greeks at Patras issued a proclamation containing merely these emphatic words: Peace to the Christians! Respect to the Consuls! Death to the Turks!
+7. Lord Byron has translated one of their battle-songs, "Sons of the Greeks, arise!"
+
+
+### Section 16.
+
+Act. Fut. of λύειν, Ind. λύσω, Inf. λύσειν, Part. λύσων, [REFs]. πόλις, [REFs]. ευγενής, [REFs]. ἐκεῖνος, -η, -ο, [REFs].
+
+1. καὶ ἔτι πρότερον *or a little before*; καί corrects the previous statement.
+2. τοὺς προκρίτους *the Primates*; these were Greek officials, appointed by the Turks to act as local magistrates in unimportant cases, and to collect the taxes.
+3. δι' ὧν... ἐπράσσοντο *by whose agency they raised the taxes*.
+4. ὡς βουλεύσοντες *to deliberate*; the Fut. Partic. expresses purpose as in Latin.
+5. ἐν ἀξιώματι ἦσαν ὑπό... *were held in honour by....* Cf. [REF]
+6. ᾐσθάνοντο... lit. *perceived the Greeks that they were preparing*, i.e., *perceived that the Greeks were preparing*.
+7. ἐσκόπουν ὅπως... κωλύσουσι *considered how they should prevent*. Ind. Question; the tense and mood of the original question "How shall we prevent?" are retained, just as is the case with ὅτι. Cf. [REFn].
+8. λήψει, Instrum. Dat., *by the taking*.
+9. οὐ προυχώρει... *matters did not proceed as they wished*.
+10. ἄριστα ἕξει τὰ πράγματα *matters would be best*; ἄριστα is an adverb. Cf. [REFn].
+11. For omission of conjunction see Introd. Note A. (ii.).
+12. ἐκ παρασκευῆς *by arrangement*.
+13. προσεποιοῦντο... *they pretended (a) that a letter had come ..., and (b) that he advised them*. For the two different constructions (i.) Acc. and Inf. (ii.) ὅτι clause, see [REFn].
+14. μελλόντων... *since the government intended to kill them all*. οἱ ἐν ἀρχαῖς = αἱ ἀρχαί, [REF].
+15. ἐπ' οἴκου means *in the direction of home*, *homewards* [REF] ἐπὶ τῆς πόλεως: ἐπ̓ οἶκον [REF] means *home*, implying that you get there. Cf. [REFn].
+
+
+### Section 17. 
+
+Act. Weak Aor. of λύειν, Ind. ἔλυσα, Inf. λῦσαι, Part. λύσας, [REFs]. βασιλεύς, [REFs]. μέγας, [REFs].
+
+1. διὰ τὸ... ἔχειν *owing to his regarding all alike with suspicion*. The Article with the Infin. forms a noun-equivalent. It can be used in any case (Dat. [REF]; Nom. [REF]) and is especially common after prepositions. The Infin. may have a subject, or object (as πάντας), and may be qualified by any adverbs (as ὁμοίως) or adverb-equivalents (as ἐν ὑποψίᾳ), just as is the case with any other use of the Infin.
+2. μέγα τι πρᾶγμα πράξαντα lit. *having done some great deed*, i.e., *by some violent measure*.
+3. τῷ... ξυλλαβεῖν *by arresting them*. Cf. [REFn].
+4. The Chief Dragoman and Secretary were important Turkish officials.
+5. τὸ μὴ ὑπακούειν lit. *the not-obeying*, i.e., *disobedience*. See [REFn].
+6. βασιλέως = Σουλτάνου.
+7. τὸν γὰρ βασιλέα, Or. Obl. Cf. [REF].
+8. διὰ τὸ τὴν ἑορτήν ἄγειν *because of their keeping the festival*. See [REFn]. Gregory was arrested on Easter Eve.
+9. ἔτυχον ποιήσοντες *happened to be going to celebrate*. Cf. [REF].
+10. Sultan Mahmud II. was called "the Butcher" by the Greeks after this murder. Gregory was 82 years old at the time of his execution. There is no reason to suppose that he was inculpated in the conspiracy. At all events he had solemnly excommunicated Hypsilantes when the news of the insurrection in Roumania reached Constantinople.
+
+
+### Section 18.
+
+γλυκύς, [REFs]. πολύς, [REFs].
+
+1. The feelings with which the Jews and Greeks regarded one another may be illustrated by this extract from Gordon: "A band of Jews attended the Pasha's camp voluntarily in the capacity of executioners, allured merely by the pleasure of butchering with clubs the Greek prisoners. One of these execrable savages afterwards boasted that in a single day he had with his own hands slaughtered sixty-four victims."
+2. Greek priests wear beards, while other Greeks do not, hence it was easy to recognise the body.
+3. ὥσπερ θείᾳ τύχῃ *providentially*.
+4. οὐ χαλεπόν... *it is not hard to imagine all that the Greeks suffered.*
+
+
+### Section 19.
+
+Act. Perf. of λύειν, Ind. λέλυκα, Plup. ἐλελύκη, Inf. λελυκέναι, Part. λελυκώς, [REFs]. Some Perfects end in θα, γα, φα, e.g., ἐλήλυθα (ἔρχομαι *come*), πέφευγα (φεύγω *flee*), εἴληφα (λαμβάνω *take*).
+
+1. καταλαμβάνουσι μέλλοντα *find that the people were on the point of holding an assembly*. Verbs of finding and sense-perception (perceiving, seeing, knowing) take the Participle instead of the Infinitive. Cf. [REFn].
+2. ὡς πείσων to persuade. Cf. [REFn].
+3. τειχέσματα. The fortresses in the Peloponnese still held by the Turks were Nauplia, Navarino, Modon, Coron, Monemvasia, Patras and Tripolitza.
+4. τοὺς νησιώτας καὶ ὅσοι... εἰσίν. Cf. [REFn].
+5. ἀπ' αὐτῶν = ἀπὸ τῶν κινδύνων *which will result therefrom*.
+6. ὅσα... ἡμαρτήκασι *the crimes of the Turks*; so ὅσα πεπόνθαμεν *our sufferings*.
+7. πάντων ὧν ἐπεπόνθεσαν *for all they had suffered*. ὧν is attracted into the case of its Antecedent πάντων; this attraction occurs when the Relative Pron. would naturally be in the Acc. and its Antecedent is in the Gen. or Dat.
+8. ᾐσθάνοντο... ὄντας. Cf. [REFn].
+
+
+### Section 20.
+
+Fut. Mid. of λύειν, Ind. λύσομαι, Inf. λύσεσθαι, Part. λυσόμενος, [REFs]; of εἶναι, Ind. ἔσομαι, Inf. ἔσεσθαι, Part. ἐσόμενος, [REFs]. ναῦς [REFs]; νοῦς [REFs].
+
 1.  The inhabitants of Psara, Spetza, and Hydra supplied sailors to man the Sultan's fleet, as well as paying a small tribute.
-2.  τὰ δὲ ἄλλα . . in other respects they were free citizens.
-3.  During the wars which followed the French Revolution, the crews often doubled their capital by carrying grain from the Bosphorus to the blockaded towns.
-Page [REF]. dógav Acc. Abs. from Impersonal dokeî it seems good :— since they had determined. Cf. [REFn].
-• 
-• 
-• 
-1. ὅπως ξυλλήψονται to arrest. 9. ἐπιμελησόμενοι ὅπως βοήθειαν to arrange to prevent the Sultan sending help. Verbs of effort, e.g., erueλéîodai, πpáσσeV ἐπιμελεῖσθαι, πράσσειν take pains, pulárσeolau take precautions, take ones with Fut. Ind. ἐπιμελησόμενοι is in the Nom. by sense-construction, ἄριστον εφαίνετο 
-Tλeiv being equivalent to they determined to sail.
-1.  ἐφαίνοντο παρασκευαζόμενοι were clearly making ready; φαίνομαι εἶναι I appear to be ; φαίνομαι ὢν I clearly am.
-Section 21. Weak Aor. Mid. of Ave, Ind. Avσáμny, Inf. λvoaodai, Part. Avoάuevos, § 183.
-χείρ § 49 (24). ἀργυρους, § 93.
-1.  The Turkish guns had a longer range than those of the Greeks, which made the latter unwilling to approach the man-of-war. On the other hand the Turkish gunners were so erratic that Lord Byron 
-76 
-NOTES TO PAGES 23-26 
-remarked on one occasion that they would be more formidable if they did not take aim.
-1.  γνώμην ἐποιήσατο proposed.
-Page [REF]. éyéμoav kλŋparidwv they filled with brushwood. 10. és rò... getting into the small boat they rowed away.
-1.  où yàp hv for it was not possible.
-• 
-1.  διὰ τὸ πpoσéxew owing to the enemy paying attention. Cf. [REFn]. On several other occasions Canaris repeated the exploit here described.
-2.  The Greeks excused these murders on the ground that they were avenging Gregory's execution.
-Section 22. Pass. Weak Aor. of λvew, Ind. ‹λúðŋy, Inf. λvôĥvai, Part. λυθείς, §§ [REF] (3); Fut. Ind. λυθήσομαι, Ιnf. λυθήσεσθαι, Part. λυθησόμενος, § 183.
-1.  TOUTWV.-Introd. Note A. (ii.).
-2.  Demetrius Hypsilantes is thus described by Gordon: "Nature had favoured him more in mind than in his corporeal frame, for his diminutive stature, bald head, awkward carriage, and indistinct utterance, were ill-calculated to win the opinions of those who beheld him. On the other hand it was difficult to know without esteeming him, for even his enemies were forced to confess, that to ardent patriotism he united courage, integrity and humanity, disregarded the allurements of pleasure, and had much goodness of heart, with a steadiness of purpose which at times bordered upon obstinacy." 
-"Colokotrones, like his father, had been a clepht. Tall and athletic, with a profusion of black hair and expressive features, alternately lighted up with boisterous gaiety, or darkened by bursts of passion : among the soldiers he seemed born to command, having just the manners and bearing calculated to gain their confidence." 
-Page [REF]. v. Cf. [REFn].
-1.  τῶν παρόδων 
-ἐσκομισθήσεται to keep watch on the passes to prevent supplies being sent in. Cf. [REFn].
-1.  The camp was situated at Valtetzi, several miles south of Tripolitza.
-2.  The moral effect of this victory in encouraging the Greeks was out of all proportion to the losses actually inflicted on the Turks, which amounted to about 400 men.
-Section 23. ȧvýp, § 49 (1); yvvý, § 49 (5).
-Page [REF]. hy it was possible. Cf. [REF].
-• 
-1.  εἴ τινες · if any were known to them, i.e., they sent to any of those inside whom they knew, 
-NOTES TO PAGES [REF] 
-77 
-1.  ἐπὶ τῷ [REFn].
-• 
-δέxeobai on condition of receiving. Cf. [REFn]; 
-1.  The report that a Turkish army was coming turned out to be false.
-Section 24. Pass. and Mid. Perf. Ind. of Xúeiv, δέλvpai, Plup. ἐλελύμην, Ιnf. λελύσθαι, Part, λελυμένος, § 183.
-Page [REF]. év TO NEOKáσTрo. Navarino had capitulated on 19th Aug. and a dispute arose about searching the Turkish women for jewels which they were supposed to have concealed. "Women wounded with musket balls and sabre cuts rushed to the sea seeking to escape and were deliberately shot. Greeks seized infants from their mothers' breasts and dashed them against the rocks. Children, three and four years old, were hurled living into the sea and left to drown. When the massacre was ended, the dead bodies washed ashore or piled on the beach threatened to cause a pestilence. Phrantzes (a Greek priest) who records these atrocities of his countrymen with shame and indignation, himself hired men to burn the bodies of the victims with the wrecks of some vessels in the harbour."-FINLAY.
-1.  Colokotrones records in his Memoirs that when he rode into the town his horse "from the walls to the palace never touched the earth,” owing to the accumulation of dead bodies.
-2.  τοὺς ἔνδον ἀποκτείνοντες ἐπέπαυντο, lit. murdering the inhabitants they had then desisted.
-3.  εἴ τι παρελέλειπτο 
-they plundered all that had been left. Some of the richest families in Greece to-day owe the foundation of their fortunes to the spoil of Tripolitza.
-1.  "After the Greeks had been in possession of the city for fortyeight hours, they deliberately collected together about 2,000 persons of every age and sex, but principally women and children, and led them to a ravine in the nearest mountain, where they murdered every soul. . . Some prisoners were spared for a short time to bury the bodies of their slaughtered countrymen, which were putrefying by thousands in almost every house and garden. Even this precaution was too long neglected. The air was already tainted with a deadly miasma and a terrible epidemic soon broke out among the Greeks."-FINLAY.
-78 
-NOTES TO PAGES [REF] 
-PART III.
-Section 25. Act. Subj. Pres. of eivai, &, § 266; of λúeiv, dúw, § 181 ; Wk. Aor., λύσω, § 182; Str. Aor. of πάσχειν, πάθω ; Pres. of ποιεῖν, ποιῶ, § 198.
-Regular Compar. of Adj., §§ [REF] and Adverbs, § 173.
-Page [REF]. áμа тô hρi áрxoμένe with the beginning of the spring (see cap). The Partic. is used as in Latin ante urbem conditam: Oépos summer includes spring and autumn, and is used of the whole period during which military operations were carried on in ancient times.
-· 
-· 
-1. ὅπως ἐσαγάγωσιν in order to introduce; όπως (or iva) in order that with the Subj. expresses purpose. The Aor. in the Subj. Optat. and Imperat. moods is not a past tense: the difference between it and the present is not a difference in time but in kind of action ; the present regards the action as continuing, the Aorist regards it simply as occurring. Cf. [REF].
-2. Twν výσwν Kрarnbeir@v, Gen. Abs. expressing a condition, if the islands were conquered.
-3. ἐπικινδυνοτάτην εἶχον. See [REF] κ.
-4.  εὐτυχήσαντες. See Sect. 21.
-5.  avrov than they were. The Gen. of Comparison is used like the Latin Abl. of Comparison; it is a Gen. of Separation, laxuρÓTEρOL aurav meaning stronger starting from them.
-6.  Tois nãσi Evrорwтárny excellently provided with everything. "Celebrated for its fertility and the enchanting aspect of its gardens, Chios carried on a brisk trade in silk and fruit; from thence Constantinople was supplied with oranges, lemons and citrons; but the most valuable production of the country is gum mastic, a substance highly valued by Eastern ladies, who amuse their indolence by chewing it, deriving from that practice as much gratification as their male relations enjoy by inhaling the fumes of tobacco."-GORDON.
-7.  poßoúμevo un пábwσi fearing that they would suffer. The object clauses after words of fearing are introduced by μn lest, followed by the subj.
-8.  Antonius Bournia had previously served in the French army. 20. ἐποτρύνωσι. See l. 3 n.
-Page [REF]. etre perexwo whether they should take part in the war. The subj. is used in Deliberative Questions, as in Latin.
-1.  devov v there was danger lest. Cf. [REFn].
-Section 26. Irreg. Compar. of Adj., §§ 117-119 and Adv., § 175. βελτίων, § 120.
-1.  ως is used for οὕτως in the expressions καὶ ὥs even 80, οὐδ ̓ ὦς not 
-even 80.
-NOTES TO PAGES 30-33 
-79 
-1.  or, or as (1. 21), is used with superlatives of adj. or adv. meaning as much as possible, like Latin quam.
-2.  πрiv 8 égeλeiv before they captured it.
-Page [REF]. Told by much, i.e., far more powerful. 5. ἀσθενέστεροι ἢ ὥστε lit. weaker than so as to weak to defend themselves.
-1.  ǹ as.
-• 
-., i.e., too 
-1.  Karà xiλious a thousand at a time; Distributive use of kará. 14. is eiπeiv. See [REFn].
-2.  éπì dovλeia for slavery, i.e., to be slaves.
+2. τὰ δὲ ἄλλα... *in other respects they were free citizens*.
+3. During the wars which followed the French Revolution, the crews often doubled their capital by carrying grain from the Bosphorus to the blockaded towns.
+4. δόξαν Acc. Abs. from Impersonal δοκεῖ *it seems good*: *since they had determined*. Cf. [REFn].
+5. ὅπως... ξυλλήψονται *to arrest*.
+6. ἐπιμελησόμενοι ὅπως... βοήθειαν *to arrange to prevent the Sultan sending help*. Verbs of effort, e.g., ἐπιμελεῖσθαι, πράσσειν *take pains*, φυλάσσεσθαι *take precautions*, take ὅπως with Fut. Ind. ἐπιμελησόμενοι is in the Nom. by sense-construction, ἄριστον εφαίνετο... πλεῖν being equivalent to *they determined to sail*.
+7. ἐφαίνοντο παρασκευαζόμενοι *were clearly making ready*; φαίνομαι εἶναι *I appear to be*; φαίνομαι ὢν *I clearly am*.
+
+
+### Section 21.
+
+Weak Aor. Mid. of λύειν, Ind. ἐλυσάμην, Inf. λύσασθαι, Part. λυσάμενος, [REFs].
+
+χείρ [REFs]. ἀργυροῦς, [REFs].
+
+1. The Turkish guns had a longer range than those of the Greeks, which made the latter unwilling to approach the man-of-war. On the other hand the Turkish gunners were so erratic that Lord Byron remarked on one occasion that they would be more formidable if they did not take aim.
+2. γνώμην ἐποιήσατο *proposed*.
+3. εγέμισαν κληματίδων *they filled with brushwood*.
+4. ἐς τὸ... *getting into the small boat they rowed away*.
+5. οὐ γὰρ ἦν *for it was not possible*.
+6. διὰ τὸ... προσέχειν *owing to the enemy paying attention*. Cf. [REFn]. On several other occasions Canaris repeated the exploit here described.
+7. The Greeks excused these murders on the ground that they were avenging Gregory's execution.
+
+
+### Section 22.
+Pass. Weak Aor. of λύειν, Ind. ἐλύθην, Inf. λυθῆναι, Part. λυθείς, [REFs]; Fut. Ind. λυθήσομαι, Ιnf. λυθήσεσθαι, Part. λυθησόμενος, [REFs].
+
+1. τούτων. Introd. Note A. (ii.).
+2. Demetrius Hypsilantes is thus described by Gordon: "Nature had favoured him more in mind than in his corporeal frame, for his diminutive stature, bald head, awkward carriage, and indistinct utterance, were ill-calculated to win the opinions of those who beheld him. On the other hand it was difficult to know without esteeming him, for even his enemies were forced to confess, that to ardent patriotism he united courage, integrity and humanity, disregarded the allurements of pleasure, and had much goodness of heart, with a steadiness of purpose which at times bordered upon obstinacy."
+"Colokotrones, like his father, had been a clepht. Tall and athletic, with a profusion of black hair and expressive features, alternately lighted up with boisterous gaiety, or darkened by bursts of passion : among the soldiers he seemed born to command, having just the manners and bearing calculated to gain their confidence."
+3. ὧν. Cf. [REFn].
+4. τῶν παρόδων... ἐσκομισθήσεται *to keep watch on the passes to prevent supplies being sent in*. Cf. [REFn].
+5. The camp was situated at Valtetzi, several miles south of Tripolitza.
+6. The moral effect of this victory in encouraging the Greeks was out of all proportion to the losses actually inflicted on the Turks, which amounted to about 400 men.
+
+
+### Section 23.
+
+ανήρ, [REFs]; γυνή, [REFs].
+
+1. ῆν *it was possible*. Cf. [REF].
+2. εἴ τινες... *if any were known to them*, i.e., *they sent to any of those inside whom they knew*.
+3. ἐπὶ τῷ... δέχεσθαι *on condition of receiving*. Cf. [REFn]; [REFn].
+4. The report that a Turkish army was coming turned out to be false.
+
+
+### Section 24.
+
+Pass. and Mid. Perf. Ind. of λύειν, λέλυμαι, Plup. ἐλελύμην, Ιnf. λελύσθαι, Part, λελυμένος, [REFs].
+
+1. ἐν τῷ Νεοκάστρῳ. Navarino had capitulated on 19th Aug. and a dispute arose about searching the Turkish women for jewels which they were supposed to have concealed. "Women wounded with musket balls and sabre cuts rushed to the sea seeking to escape and were deliberately shot. Greeks seized infants from their mothers' breasts and dashed them against the rocks. Children, three and four years old, were hurled living into the sea and left to drown. When the massacre was ended, the dead bodies washed ashore or piled on the beach threatened to cause a pestilence. Phrantzes (a Greek priest) who records these atrocities of his countrymen with shame and indignation, himself hired men to burn the bodies of the victims with the wrecks of some vessels in the harbour." FINLAY.
+2. Colokotrones records in his Memoirs that when he rode into the town his horse "from the walls to the palace never touched the earth,” owing to the accumulation of dead bodies.
+3. τοὺς ἔνδον ἀποκτείνοντες ἐπέπαυντο, lit. *murdering the inhabitants they had then desisted*.
+4. εἴ τι παρελέλειπτο... they plundered all that had been left. Some of the richest families in Greece to-day owe the foundation of their fortunes to the spoil of Tripolitza.
+5. "After the Greeks had been in possession of the city for fortyeight hours, they deliberately collected together about 2,000 persons of every age and sex, but principally women and children, and led them to a ravine in the nearest mountain, where they murdered every soul. . . Some prisoners were spared for a short time to bury the bodies of their slaughtered countrymen, which were putrefying by thousands in almost every house and garden. Even this precaution was too long neglected. The air was already tainted with a deadly miasma and a terrible epidemic soon broke out among the Greeks." FINLAY.
+
+
+## PART III.
+
+### Section 25.
+
+Act. Subj. Pres. of εἶναι, ὦ, [REFs]; of λύειν, λύω, [REFs]; Wk. Aor., λύσω, [REFs]; Str. Aor. of πάσχειν, πάθω; Pres. of ποιεῖν, ποιῶ, [REFs].
+
+Regular Compar. of Adj., [REFs], [REFs], [REFs] and Adverbs, [REFs].
+
+1. ἅμα τῷ ἦρι ἀρχομένῳ *with the beginning of the spring* (see ἔαρ). The Partic. is used as in Latin *ante urbem conditam*: θέρος *summer* includes spring and autumn, and is used of the whole period during which military operations were carried on in ancient times.
+2. ὅπως... ἐσαγάγωσιν *in order to introduce*; ὅπως (or ἵνα) *in order that* with the Subj. expresses purpose. The Aor. in the Subj. Optat. and Imperat. moods is not a past tense: the difference between it and the present is not a difference in *time* but in *kind* of action; the present regards the action as *continuing*, the Aorist regards it simply as *occurring*. Cf. [REF].
+3. τῶν νήσων κρατηθεισῶν, Gen. Abs. expressing a condition, *if the islands were conquered*.
+4. ἐπικινδυνοτάτην εἶχον. See [REFn].
+5. εὐτυχήσαντες. See Sect. 21.
+6. aqytn *than they were*. The Gen. of Comparison is used like the Latin Abl. of Comparison; it is a Gen. of Separation, ἰσχυρότεροι αὐτῶν meaning *stronger starting from them*.
+7. τοῖς πᾶσιν εὐπορωτάτην *excellently provided with everything*. "Celebrated for its fertility and the enchanting aspect of its gardens, Chios carried on a brisk trade in silk and fruit; from thence Constantinople was supplied with oranges, lemons and citrons; but the most valuable production of the country is gum mastic, a substance highly valued by Eastern ladies, who amuse their indolence by chewing it, deriving from that practice as much gratification as their male relations enjoy by inhaling the fumes of tobacco." GORDON.
+8. φοβούμενοι μὴ πάθωσι *fearing that they would suffer*. The object clauses after words of fearing are introduced by μή *lest*, followed by the subj.
+9.  Antonius Bournia had previously served in the French army.
+10. ἐποτρύνωσι. See [REFn].
+11. εἴτε μετέχωσι *whether they should take part in the war*. The subj. is used in Deliberative Questions, as in Latin.
+12. δεινὸν ἦν *there was danger lest*. Cf. [REFn].
+
+
+### Section 26.
+
+Irreg. Compar. of Adj., [REFs] - [REFs] and Adv., [REFs]. βελτίων, [REFs].
+
+1. ὥς is used for οὕτως in the expressions καὶ ὥs *even so*, οὐδ' ὧς *not even so*.
+2. ὅτι, or ὡς [REF], is used with superlatives of adj. or adv. meaning *as much as possible*, like Latin *quam*.
+3. πρὶν δ' ἐξελεῖν *before they captured it*.
+4. πολλῷ *by much*, i.e., *far more powerful*.
+5. ἀσθενέστεροι ἢ ὥστε... lit. *weaker than so as to...*, i.e., *too weak to defend themselves*.
+6. ᾗ *as*.
+7. κατὰ χιλίους *a thousand at a time*; Distributive use of κατά.
+8. ὡς εἰπεῖν. See [REFn].
+9. ἐπὶ δουλείᾳ *for slavery*, i.e., *to be slaves*.
 It is said that out of 100,000 inhabitants of Chios, nearly a third was massacred, and nearly the half enslaved, only 1,800 were still living on the island in August, 1822.
-Section 27. Act. Optat. Pres. of Ave, Avoyu, § 181; Str. Aor. οἱ πάσχειν, πάθοιμι. Numerals, § 122. εἰς, δύο, τρεῖς, τέσσαρες, of § 123.
-1.  OUтws πρatav fared thus. рáσσew, like "do" in English, with adv. means to fare.
-2.  The Albanian Christians, who lived at Souli, had fought on the side of Ali Pasha of Janina; when Ali was killed (Feb., 1822), they had continued the war with some success under Marcus Botzares, but were now being besieged in the Castle of Kiapha, which is the Acropolis of Souli.
-3.  Tapéxou. After an historic tense (Bouλero) the Optative may be used (instead of the Subj.) in final clauses, and with verbs of fearing.
-4.  γνώμῃ 
-inferior to no one in judgment; ovdevós is Gen. of Compar. See [REFn].
-The corps, 
-Page [REF]. The Philhellenes were officers from various European countries, who had volunteered for service in Greece. consisting of about 100 men, was formed to show the Greeks the value of discipline.
-1. yévos by race. Acc. of Respect. Cf. [REF].
-2.  Gogos had greatly distinguished himself in the previous year by repulsing a Turkish attack on Peta.
-3.  φοβούμενος μή EXOLEV. See [REFn].
-• 
-1.  ei. . . κaðégovor if they should control the administration of affairs.
-2.  oi δέ the Turks. Cf. Introd. Note B. (viii.).
-Section 28. Act. Optat. Weak Aor. of Xúew, Xvoa, § 182.
-• 
-Page [REF]. τὸ πολύ ἐξέλθοιεν bear the brunt of the attack.
-fearing that they would no longer effect anything.
-1.  δείσας 
-80 
-NOTES TO PAGES 33-36 
-1.  Most of the Turkish army had been recruited in Albania.
-2.  When two Rel. clauses, referring to the same antecedent (here Aópov), stand side by side, and the second Relative would be in a different case from the first (here first Rel. is ov and second would be ds), the second Rel. is either omitted (as here), or replaced by a Personal Pronoun. Cf. St. Matt. iii. 12, whose fan is in his hand, and he (not who) will throughly purge his floor.
-3.  ὡς σωτηρίας . as each group had hope of safety.
-Page [REF]. roîs de λonoîs with the rest. Cf. [REFn].
-1. ovdeμiâs éláσowv less than none, i.e., worse than any of the calamities in the war.
-2.  The remnant of the Philhellenes was disbanded shortly afterwards. The following incident is related by Gordon: "At noon on 16th July, as Mavrocordato sat at dinner with his suite at Langada, one of the Greek commanders, examining the shoulder-blade of a sheep according to a method of divination practised in the East, declared that their friends had suffered a bloody defeat; this caused some mirth at the seer's expense, until a horseman, while they were still at table, brought news of the battle of Peta". Two days after the battle Gogos went over to the enemy. Some of the Souliotes continued to fight on the Greek side under M. Botzares. See Sect. 35.
-3.  Corcyra (Corfu) was neutral territory, being under the control of an English High Commissioner.
-Section 29.
-1.  There were no houses in Salamis for the accommodation of these refugees, and the landowners showed their patriotism by exacting rent for the privilege of sleeping under an olive-tree.
-Page [REF]. Bpaxéa eixov had their supplies short, i.e., were short of supplies. Cf. [REFn].
-1. ὅπερ id quod.
-2.  oσov où almost, Lat. modo non.
-3.  äλdoi äλda ëλeyov, Lat. alius alia dicebant.
-Section 30. yw, σú, § 128. Act. Imperat. Mood of eivai, lobi, § 266; of λύειν, Pres. λνε, § 181 ; of ποιεῖν, ποίει, § 198; Wk. Aor. of λύειν, λύσον, § 182; Str. Aor. of πάσχειν, πάθε.
-1.  palóvrov let them learn. The 3rd Pers. Plur. of Imperatives is the same in form as the Gen. Plur. of the Participle.
-2.  ĕxovraι kaì ai vñσo the islands too are in their hands; the Present is used graphically for the Future.
-Page [REF]. τίνα ἐλπίδα ἔχοντες 
-.
-• 
-with what hope or with what 
-NOTES TO PAGES 36-38 
-81 
-purpose? The interrogative rís; who? is declined like the indefinite Tis any one, but accented differently, § 151.
-1. πôs où ßλáßŋ (ẻorí); how is it not a loss? i.e., surely it is injurious.
-2. voμion undeís let no one suppose. Prohibitions are expressed by un (or compounds μndeis, unkéti, k.T.λ.) with (i.) the Aor. Subj. or (ii.) the Pres. Imperat. (1. 24).
-3.  puλáoowμev let us guard. The Subj. supplies the missing 1st Pers. Plur. of the Imperat. as in Latin.
-4.  ávax@povσiv, Participle, when they retreat.
-5.  πάντων μάλιστα most of all.
-6.  πάσχειν = βλάπτεσθαι.
-7.  μηκέτι . . . ἔστε do not be alarmed any longer, 1. 5 n. 25. πρὸς ὑμῶν in your favour.
-8.  Evμßýσerai ημiv will happen to us, i.e., will be achieved by us.
-Section 31. Reflex. Pronouns éavróv, opeîs, § 134; Pass. and Mid. Subj. Pres. of λύειν, λύωμαι, § 183 ; of ποιεῖν, ποιῶμαι, § 199 ; Str. Aor. Μid. of γίγνεσθαι, γένωμαι.
-= 
-Page [REF]. rà opérepa avrâv sua, their own property. opérepos is used (i.) as a Direct Reflexive, referring to the subject of the verb in its own clause, or (ii.) as an Indirect Reflexive, used in a Subordinate clause, and referring to the Subject of the main verb. If avrov is added, it is a Direct Reflexive only.
-1. τοὺς ἑαυτοῦ his own men.
-2.  raúry there.
-3.  opas is an Indirect Reflexive, used in a Subordinate clause and referring to the Subject of the main verb.
-4.  οὐ πολὺς 
-there was not much time and Colokotrones arrived, i.e., it was not long before C. arrived.
-1.  τολμηρότεροι ἑαυτῶν γενόμενοι becoming braver than themselves; a common way in Greek of expressing their courage increased.
-2.  oi ek twv μereάpwv, we should say those on the hills; Greek often accommodates the prepos. to the sense of motion expressed in the verb the men came down from the hills.
-3.  ἀσφάλεια τῆς ἐξόδου come away in safety.
-that Hypsilantes and his men might 
-Page [REF]. On the second occasion, one of the Greeks happened to be asleep when his companions evacuated the fort, and was accidentally left behind. Awakened by the noise of the Turks rushing in to plunder, he seized a large copper cauldron, and, putting it over his head to conceal his features, walked boldly out. The Turks, thinking he was one of themselves carrying off loot, let him pass with a few jokes at his ridiculous appearance.-TRICOUPI.
-6 
-82 
-NOTES TO PAGES 38-40 
-Section 32. doris, § 162. Wk. Aor. Subj. of λúeiv, Pass. λvbw, Mid. λύσωμαι, § 183.
-1. προσεδέχοντο should be προσδεχόμενοι, corresponding with φυλάσσοντες, but such slight irregularities are very common. Cf. ἔμελλε in 1. 23.
+
+
+### Section 27.
+
+Act. Optat. Pres. of λύειν, λύοιμι, [REFs]; Str. Aor. of πάσχειν, πάθοιμι. Numerals, [REFs]. εἰς, δύο, τρεῖς, τέσσαρες, [REFs].
+
+1. οὕτως ἔπραξαν *fared thus*. πράσσειν, like "do" in English, with adv. means *to fare*.
+2. The Albanian Christians, who lived at Souli, had fought on the side of Ali Pasha of Janina; when Ali was killed (Feb., 1822), they had continued the war with some success under Marcus Botzares, but were now being besieged in the Castle of Kiapha, which is the Acropolis of Souli.
+3. παρέχοι. After an historic tense (ἐβούλετο) the Optative may be used (instead of the Subj.) in final clauses, and with verbs of fearing [REF].
+4. γνώμῃ... *inferior to no one in judgment*; οὐδενός is Gen. of Compar. See [REFn].
+5. The Philhellenes were officers from various European countries, who had volunteered for service in Greece. The corps, consisting of about 100 men, was formed to show the Greeks the value of discipline.
+6. γένος *by race*. Acc. of Respect. Cf. [REF].
+7. Gogos had greatly distinguished himself in the previous year by repulsing a Turkish attack on Peta.
+8. φοβούμενος μή... ἔχοιεν. See [REFn].
+9. εἰ... καθέξουσι *if they should control the administration of affairs*.
+10. οἱ δέ *the Turks*. Cf. Introd. Note B. (viii.).
+
+
+### Section 28. Act. Optat. Weak Aor. of λύειν, λύσαιμι, [REFs].
+
+1. τὸ πολύ... ἐξέλθοιεν *bear the brunt of the attack*.
+2. δείσας... *fearing that they would no longer effect anything*.
+3. Most of the Turkish army had been recruited in Albania.
+4.  When two Rel. clauses, referring to the same antecedent (here λόφον), stand side by side, and the second Relative would be in a different case from the first (here first Rel. is ὃν and second would be ὃς), the second Rel. is either omitted (as here), or replaced by a Personal Pronoun. Cf. St. Matt. iii. 12, *whose fan is in his hand, and he* (not *who*) *will throughly purge his floor*.
+5. ὡς σωτηρίας... *as each group had hope of safety*.
+6. τοῖς δὲ λοιποῖς *with the rest*. Cf. [REFn].
+7. οὐδεμιᾶς ἐλάσσων *less than none*, i.e., *worse than any of the calamities in the war*.
+8. The remnant of the Philhellenes was disbanded shortly afterwards. The following incident is related by Gordon: "At noon on 16th July, as Mavrocordato sat at dinner with his suite at Langada, one of the Greek commanders, examining the shoulder-blade of a sheep according to a method of divination practised in the East, declared that their friends had suffered a bloody defeat; this caused some mirth at the seer's expense, until a horseman, while they were still at table, brought news of the battle of Peta". Two days after the battle Gogos went over to the enemy. Some of the Souliotes continued to fight on the Greek side under M. Botzares. See Sect. 35.
+9. Corcyra (Corfu) was neutral territory, being under the control of an English High Commissioner.
+
+
+### Section 29.
+
+1. There were no houses in Salamis for the accommodation of these refugees, and the landowners showed their patriotism by exacting rent for the privilege of sleeping under an olive-tree.
+2. βραχέα εἶχον *had their supplies short*, i.e., *were short of supplies*. Cf. [REFn].
+3. ὅπερ *id quod*.
+4. ὅσον οὐ *almost*, Lat. *modo non*.
+5. ἄλλοι ἄλλα ἔλεγον, Lat. *alius alia dicebant*.
+
+
+### Section 30. 
+
+εγώ, σύ, [REFs]. Act. Imperat. Mood of εἶναι, ἴσθι, [REFs]; of λύειν, Pres. λῦε, [REFs]; of ποιεῖν, ποίει, [REFs]; Wk. Aor. of λύειν, λύσον, [REFs]; Str. Aor. of πάσχειν, πάθε.
+
+1. μαθόντων *let them learn*. The 3rd Pers. Plur. of Imperatives is the same in form as the Gen. Plur. of the Participle.
+2. ἔχονται καὶ αἱ νῆσοι *the islands too are in their hands*; the Present is used graphically for the Future.
+3. τίνα ἐλπίδα ἔχοντες... *with what hope or with what purpose*? The interrogative τίς; *who*? is declined like the indefinite τις *any one*, but accented differently, [REFs].
+4. πῶς οὐ βλάβη (ἐστί); *how is it not a loss*? i.e., *surely it is injurious*.
+5. νομίσῃ μηδείς *let no one suppose*. Prohibitions are expressed by μή (or compounds μηδείς, μηκέτι, κ.τ.λ.) with (i.) the Aor. Subj. or (ii.) the Pres. Imperat. [REF].
+6. φυλάσσομεν *let us guard*. The Subj. supplies the missing 1st Pers. Plur. of the Imperat. as in Latin.
+7. αναχωροῦσιν, Participle, *when they retreat*.
+8. πάντων μάλιστα *most of all*.
+9. πάσχειν = βλάπτεσθαι.
+10. μηκέτι... ἔστε *do not be alarmed any longer*, [REFn].
+11. πρὸς ὑμῶν *in your favour*.
+12. ξυμβήσεται ἡμῖν *will happen to us*, i.e., *will be achieved by us*.
+
+
+### Section 31.
+
+Reflex. Pronouns ἑαυτόν, σφιῖς [REFs]; Pass. and Mid. Subj. Pres. of λύειν, λύωμαι, [REFs]; of ποιεῖν, ποιῶμαι, [REFs]; Str. Aor. Μid. of γίγνεσθαι, γένωμαι.
+
+1. τὰ σφέτερα αὐτῶν = *sua*, *their own property*. σφέτερος is used (i.) as a Direct Reflexive, referring to the subject of the verb in its own clause, or (ii.) as an Indirect Reflexive, used in a Subordinate clause, and referring to the Subject of the main verb. If αὐτῶν is added, it is a Direct Reflexive only.
+2. τοὺς ἑαυτοῦ *his own men*.
+3. ταύτῃ *there*.
+4. σφᾶς is an Indirect Reflexive, used in a Subordinate clause and referring to the Subject of the main verb.
+5. οὐ πολὺς... *there was not much time and Colokotrones arrived*, i.e., *it was not long before C. arrived*.
+6. τολμηρότεροι ἑαυτῶν γενόμενοι *becoming braver than themselves*; a common way in Greek of expressing *their courage increased*.
+7. οἱ ἐκ τῶν μετεώρων, we should say *those on the hills*; Greek often accommodates the prepos. to the sense of motion expressed in the verb the men came down *from* the hills.
+8. ἀσφάλεια τῆς ἐξόδου... *that Hypsilantes and his men might come away in safety*.
+9. On the second occasion, one of the Greeks happened to be asleep when his companions evacuated the fort, and was accidentally left behind. Awakened by the noise of the Turks rushing in to plunder, he seized a large copper cauldron, and, putting it over his head to conceal his features, walked boldly out. The Turks, thinking he was one of themselves carrying off loot, let him pass with a few jokes at his ridiculous appearance. TRICOUPI.
+
+
+### Section 32.
+
+doris, [REFs]. Wk. Aor. Subj. of λύειν, Pass. λυθῶ, Mid. λύσωμαι, [REFs].
+
+1. προσεδέχοντο should be προσδεχόμενοι, corresponding with φυλάσσοντες, but such slight irregularities are very common. Cf. ἔμελλε in [REF].
 2. The Turkish fleet which should have brought supplies sailed away to Patras owing to the Admiral's jealousy of Dramali.
-• 
-1.  τὰ τῶν πολεμίων . seeing the affairs of the enemy in what state they are, i.e., seeing in what state the enemy are.
-For the order of words, by which rà râv Toλeμíov is made the Object of idóvres instead of being placed in the dependent clause as Subject, compare St. Mark i. 24, I know thee who thou art. oris introduces an Indirect Question ; the Direct Question was ἐν τίνι ἐστὶ τὰ τῶν πολεμίων ; in what state are the enemy's affairs? Greek retains the original tense (éori), just as it does in or clauses. See [REFn].
-Dramali's difficulties were much increased owing to the season being singularly dry. Disease broke out among his men, who were living mainly on green grapes and unripe melons.
-1.  οἵτινες 
-ποιήσονται to make an ambuscade : ὅστις with Fut.
-Indic. expresses purpose.
-1.  τὰ χαλεπώτατα . the most difficult points in the pass.
-2.  ποιήσωνται 
-• 
-• 
-κρατήσειαν, after an historic tense, όπως may take the Subj. ([REFn].) or the Optat. ([REFn].); occasionally, as here, both are used: there is no difference in meaning.
-1.  hy it was possible.
-Page [REF]. oжоi тpáñwvrai where to turn; Delib. Subj., see 30, 
-9 n.
-και 
-• • 
-καί 
-• 
-• 
-both . . . and.
-Section 33.
-1.  ἰδὼν 
-2.  τοὐναντίον 
-guarding.
-• 
-πрáyμara seeing the state of affairs. Cf. [REFn].
-the opposite way to that which the enemy were 
-1.  oirives since they; ooris, besides being an Indirect Interrogative Pronoun, is used (i.) to express cause, as here; (ii.) with Fut. Ind. to express purpose, [REFn].; and (iii.) as an Indefinite Rel. Pron. meaning whoever, 1. 19.
-2.  το πολύ 
-= 
-oi rooi the majority.
-Page [REF]. The state of these fugitives is thus described by Gordon : "The famishing soldiers, after eating all their horses, existed on the flesh of their dead comrades, and even fought over their graves", 
-NOTES TO PAGES 40-43 
-83 
-Section 34. Pass. and Mid. Optat. Pres. of Xúeiv, Avoiμnv, § 183; οι ποιεῖν, ποιοίμην, § 199; Str. Aor. Mid. of γίγνεσθαι, γενοίμην.
-1.  These Albanians were Christians, serving as mercenaries to the Turks. They spoke the same dialect and wore the same dress as M. Botzares and his Souliotes.
-2.  For M. Botzares, see [REFn].
-3.  πεῖραν ποιεῖσθαι, see [REF] η.
-4.  ἂν ἐπιφέροιντο they would attack; ἂν gives to the Optative s Potential sense, expressed in English by would, might or could. Page [REF]. öпоi тρáπото where to turn; after an historic tense, the Optat. may be substituted for the Delib. Subj. in Indirect Questions. The original question was roî rparwμela; where are we to turn? Cf. [REF].
-Section 35. Pass. and Mid. Imperat. Pres. of λúeiv, λvov; Wk. Aor. Mid. λῦσαι ; Wk. Aor. Pass. λύθητι, § 183 ; Str. Aor. Mid. of γίγνεσθαι, γένου ; Pres. of ποιεῖν, ποιοῦ, § 199.
-1.  avrov on the spot.
-Page [REF]. oirives since they. Cf. [REFn].
-1.  μn éкπλaynτe do not be alarmed. See [REFn].
-2.  πλήθει ελάσσους inferior in numbers.
-3.  un avopeious ovo if we are not brave; the Neg. is μn (not oỷ), because the Participle expresses a condition.
-4.  πρὸς ἡμῶν on our side. Cf. [REF].
-5.  Teρì rλeiorov moɩîode, lit. regard above very much, i.e., regard as of the greatest importance.
-Section 36. Optat. Pres. of eivai, einv, § 266; Optat. Wk. Aor. Ρass. οἱ λύειν, λυθείην, Μid. λυσαίμην, Fut. λυσοίμην, § 183.
-1.  ei Bovλoμένo poí èori, lit. whether it is to me being willing, i.e., whether I am willing; compare Lat. quibus bellum volentibus erat.
-2.  δέxeσbai Tŷ móλei admit into the city; the Dat. Tóλe is Instrumental, literally, receive with the city; the Instrum. Abl. in Lat. is used similarly with recipere.
-3.  ǎoμevos âv dekaiμŋv I would gladly admit him: we translate the predicated Adjective douevos by an Adverb. Cf. Lat. primus hoc feci, I did it first, and reλevraîos, [REF].
-4.  após in answer to.
-Page [REF]. Tepì râv 'Eλλŋvikov with regard to the Greek War; τὰ  ̔Ελληνικά is the subject of μέλλει. See [REF] η.
-1. Karapaivoivтo are in sight. In a clause introduced by ori (that), the Optat. may be substituted for the original Indicative, if the tense 
-84 
-NOTES TO PAGES [REF] 
-of the main verb is historic (here hλ0). Notice that though the mood is altered, the tense remains the same; the original message was oi Τοῦρκοι καταφαίνονται. Cf. [REF] η.
-1. εἰ ἐλπίζοιεν whether they hoped; ἐλπίζοιεν in the original question was ἐλπίζουσι.
-2.  és rà μádiora in the highest degree. 13. εἶμεν 
-φοβοίμεθα .
-εἴη 
-• 
-ἀναγκασθεῖμεν 
-What were these words in the original statement ? 
-1.  Bovλóuevos if you are willing.
-2.  οὐκ ἴδιον ..the lead he had was not his own.
-ἔχοι.
-Cf. [REFn].
-1.  βουλεύσοιτο, he actually said βουλεύσομαι I'll think about it.
-2.  or sometimes introduces the original words, and is represented 
-in English by inverted commas.
-Toù oivov, Partitive Gen. some wine.
-• 
-1.  ξυνενέγκοι may everything turn out as we wish. The Optat. by itself in a Principal Sentence expresses a wish; hence its 
-name.
-: 
-The Turks subsequently advanced to Anatolicon, a small town situated in the lagoons, about five miles west of Messalonghi. The inhabitants had been accustomed to get their supplies of drinkingwater from the mainland, as there were no springs on the island of this the Turks were aware, and therefore expected to force it to surrender quickly. A Turkish shell, however, happened to fall on the Church of St. Michael, and, breaking through the pavement, disclosed a spring, which not only supplied sufficient water, but encouraged the people to think that a miracle had been performed on their behalf. After about a month the Turks abandoned the siege.
-PART IV.
-Section 37. ripâv, §§ [REF].
-Page [REF]. Tapà yváμny contrary to expectation.
-1. ὅπερ 
-which no one would have believed, if he had been told, before it happened. av is used with the Past Tenses of the Indic. in 
-a Potential sense, expressing might have, would have, could have.
-Cf. [REFn].
-β. τὰ μέν 
-times.
-• 
-Tà de partly.
-partly, or sometimes 
-• • • 
-at other 
-NOTES TO PAGES [REF] 
-85 
-1.  As an instance of Byron's energy, the following story may be quoted. When he was at Cephalonia, a number of workmen engaged in excavating were buried by the fall of a mass of earth. Byron heard of the accident while at dinner, and rushing to the place seized a spade and by his example stimulated the panic-stricken onlookers to set to work. The result was that all the workmen were rescued.
-2.  The Ionian islands, being under the protection of England, were the chief place of refuge for those Greeks who had been driven from their homes by the Turks. Cf. [REFn].
-3.  âs av vaûs whatever ships they had. av, joined to Rel. pronouns or conjunctions, and followed by the Subjunctive, gives an Indefinite Sense, expressed in English by ever.
-Page [REF]. On 30th December Byron and Count Gamba (an Italian) with their baggage and a large sum of money set sail in separate ships. Byron's ship fell in with a Turkish frigate, but succeeded in getting away to some rocky islands called Scrofes, where Byron concealed himself in a cave. Gamba and his ship were captured, but by a curious coincidence the captain of the Turkish frigate had once been saved from death by the Greek skipper, and, in gratitude for this, he pretended that he saw nothing suspicious about the vessel, and let it continue its voyage.
-Section 38. v, Xpĥodai, § 232. Contracted Futures, §§ [REF] (i.).
-1.  See Sections [REF].
-2.  οὔτε ὅθεν κομιοῦνται nor having whence they shall get rations, i.e., not being able to get rations.
-3.  čσTIV OTE sometimes. Cf. 1. 25. čσri in some places.
-4.  The disorder culminated in the following incident: A Souliote, noted for his bravery, came to the armoury with a young son of M. Botzares, and, having no written permission to enter, was stopped by the sentry. He persisted in going in, and the officer on guard ordered him to be arrested; a quarrel ensued, and the Souliote, having received a blow, killed the officer on the spot. In an instant alarm pervaded the town: the Souliotes rose to arms, threatening to storm the armoury and even Byron's house, if their countryman, who had been apprehended, was not set at liberty. The riot was at length appeased, but Byron declared that he would return to the Ionian islands if the Souliotes did not leave Messalonghi.—GORDON.
-Γρασσεν ὅπως 
-1.  ἔπρ 
-• 
-took steps to make the place secure. Verbs 
-of Effort take oπws with Fut. Indic. Cf. [REFn].
-1.  oux egovo oros will not be able to. Cf. 1. 13 n.
-2.  eis is used emphatically with Superlatives, this man of all others, like Lat. unus.
-86 
-NOTES TO PAGES 45-47 
-1.  tŵv ka✪ ¿avróv of his contemporaries.
-On 9th April Byron went out to ride near the town and was overtaken by a heavy shower, and returned home in a boat. Shortly afterwards he complained of fever: the doctors prescribed bleeding, but he refused, saying, “I will drink all your medicines, but not one drop of my blood will I shed. All of it shall be shed on the field of battle." Delirium came on, then stupor, and at six o'clock in the afternoon of Easter Monday (19th April) at the instant of an awful thunderstorm Byron expired.
+3. τὰ τῶν πολεμίων... *seeing the affairs of the enemy in what state they are*, i.e., *seeing in what state the enemy are*. For the order of words, by which τὰ τῶν πολεμίων is made the Object of ἰδόντες instead of being placed in the dependent clause as Subject, compare St. Mark i. 24, *I know thee who thou art*. ὅστις introduces an Indirect Question ; the Direct Question was ἐν τίνι ἐστὶ τὰ τῶν πολεμίων; *in what state are the enemy's affairs*? Greek retains the original tense (ἐστί), just as it does in ὅτι clauses. See [REFn].
+4. Dramali's difficulties were much increased owing to the season being singularly dry. Disease broke out among his men, who were living mainly on green grapes and unripe melons.
+5. οἵτινες... ποιήσονται *to make an ambuscade*: ὅστις with Fut. Indic. expresses *purpose*.
+6. τὰ χαλεπώτατα... *the most difficult points in the pass*.
+7.  ποιήσωνται... κρατήσειαν, after an historic tense, ὅπως may take the Subj. ([REFn].) or the Optat. ([REFn].); occasionally, as here, both are used: there is no difference in meaning.
+8. ἦν *it was possible*.
+9. ὅποι τράπωνται *where to turn*; Delib. Subj., see [REFn]
+10. καί... καί... *both... and*....
+
+
+### Section 33.
+
+1. ἰδὼν... πράγματα *seeing the state of affairs*. Cf. [REFn].
+2. τοὐναντίον... *the opposite way to that which the enemy were guarding*.
+3. οἵτινες *since they*; ὅστις, besides being an Indirect Interrogative Pronoun, is used (i.) to express *cause*, as here; (ii.) with Fut. Ind. to express *purpose*, [REFn].; and (iii.) as an Indefinite Rel. Pron. meaning *whoever*, [REF].
+4. τὸ πολύ = οἱ πολλοί *the majority*.
+5. The state of these fugitives is thus described by Gordon: "The famishing soldiers, after eating all their horses, existed on the flesh of their dead comrades, and even fought over their graves".
+
+
+### Section 34.
+
+Pass. and Mid. Optat. Pres. of λύειν, λυοίμην, [REFs]; of ποιεῖν, ποιοίμην, [REFs]; Str. Aor. Mid. of γίγνεσθαι, γενοίμην.
+
+1. These Albanians were Christians, serving as mercenaries to the Turks. They spoke the same dialect and wore the same dress as M. Botzares and his Souliotes.
+2. For M. Botzares, see [REFn].
+3. πεῖραν ποιεῖσθαι, see [REFn].
+4. ἂν ἐπιφέροιντο *they would attack*; ἂν gives to the Optative a Potential sense, expressed in English by *would*, *might* or *could*.
+5. ὅποι τράποιντο *where to turn*; after an historic tense, the Optat. may be substituted for the Delib. Subj. in Indirect Questions. The original question was ποῖ τραποώμεθα; *where are we to turn*? Cf. [REF].
+
+
+### Section 35.
+
+Pass. and Mid. Imperat. Pres. of λύειν, λύου; Wk. Aor. Mid. λῦσαι; Wk. Aor. Pass. λύθητι, [REFs]; Str. Aor. Mid. of γίγνεσθαι, γένου ; Pres. of ποιεῖν, ποιοῦ, [REFs].
+
+1. αὐτοῦ *on the spot*.
+2. οἵτινες *since they*. Cf. [REFn].
+3. μὴ ἐκπλαγῆτε *do not be alarmed*. See [REFn].
+4. πλήθει ελάσσους *inferior in numbers*.
+5. μὴ ἀνδρείοις οὖσι *if we are not brave*; the Neg. is μή (not οὐ), because the Participle expresses a condition.
+6. πρὸς ἡμῶν *on our side*. Cf. [REF].
+7. περὶ πλείστου ποιεῖσθε, lit. *regard above very much*, i.e., *regard as of the greatest importance*.
+
+
+### Section 36.
+
+Optat. Pres. of εἶναι, εἴην, [REFs]; Optat. Wk. Aor. Ρass. of λύειν, λυθείην, Μid. λυσαίμην, Fut. λυσοίμην, [REFs].
+
+1. εἰ βουλομένῳ μοί ἐστι, lit. *whether it is to me being willing*, i.e., *whether I am willing*; compare Lat. *quibus bellum volentibus erat*.
+2. δέχεσθαι τῇ πόλει *admit into the city*; the Dat. Tπόλειóλe is Instrumental, literally, *receive with the city*; the Instrum. Abl. in Lat. is used similarly with *recipere*.
+3. ἄσμενος ἂν δεξαίμην *I would gladly admit him*: we translate the predicated Adjective ἄσμενος by an Adverb. Cf. Lat. *primus hoc feci*, *I did it first*, and τελευταῖος, [REF].
+4. πρός *in answer to*.
+5. περὶ τῶν Ἑλληνικῶν *with regard to the Greek War*; τὰ Ἑλληνικά is the subject of μέλλει. See [REFn].
+6. καταφαίνοιντο *are in sight*. In a clause introduced by ὅτι (*that*), the Optat. may be substituted for the original Indicative, if the tense of the main verb is historic (here ἦλθε). Notice that though the *mood* is altered, the tense remains the same; the original message was οἱ Τοῦρκοι καταφαίνονται. Cf. [REF]n.
+7. εἰ ἐλπίζοιεν *whether they hoped*; ἐλπίζοιεν in the original question was ἐλπίζουσι.
+8. ες τὰ μάλιστα *in the highest degree*.
+9. εἶμεν... φοβοίμεθα... εἴη... ἀναγκασθεῖμεν... ἔχοι. What were these words in the original statement?
+10. βουλόμενος *if you are willing*.
+11. οὐκ ἴδιον... *the lead he had was not his own*.Cf. [REFn].
+12. βουλεύσοιτο, he actually said βουλεύσομαι *I'll think about it*.
+13. ὅτι sometimes introduces the original words, and is represented in English by inverted commas.
+14. τοῦ οἴνου, Partitive Gen. *some wine*.
+15. ξυνενέγκοι... *may everything turn out as we wish*. The Optat. by itself in a Principal Sentence expresses a wish; hence its name.
+16. The Turks subsequently advanced to Anatolicon, a small town situated in the lagoons, about five miles west of Messalonghi. The inhabitants had been accustomed to get their supplies of drinkingwater from the mainland, as there were no springs on the island of this the Turks were aware, and therefore expected to force it to surrender quickly. A Turkish shell, however, happened to fall on the Church of St. Michael, and, breaking through the pavement, disclosed a spring, which not only supplied sufficient water, but encouraged the people to think that a miracle had been performed on their behalf. After about a month the Turks abandoned the siege.
+
+
+## PART IV.
+
+### Section 37.
+
+τιμᾶν, [REFs].
+
+1. παρὰ γνώμην *contrary to expectation*.
+2. ὅπερ... *which no one would have believed, if he had been told, before it happened*. ἄν is used with the Past Tenses of the Indic. in a Potential sense, expressing might have, would have, could have. Cf. [REFn].
+3. τὰ μέν... τὰ δὲ *partly... partly*, or *sometimes... at other times*.
+4. As an instance of Byron's energy, the following story may be quoted. When he was at Cephalonia, a number of workmen engaged in excavating were buried by the fall of a mass of earth. Byron heard of the accident while at dinner, and rushing to the place seized a spade and by his example stimulated the panic-stricken onlookers to set to work. The result was that all the workmen were rescued.
+5. The Ionian islands, being under the protection of England, were the chief place of refuge for those Greeks who had been driven from their homes by the Turks. Cf. [REFn].
+6. ἃς ἂν ναῦς *whatever ships they had*. ἄν, joined to Rel. pronouns or conjunctions, and followed by the Subjunctive, gives an Indefinite Sense, expressed in English by *ever*.
+7. On 30th December Byron and Count Gamba (an Italian) with their baggage and a large sum of money set sail in separate ships. Byron's ship fell in with a Turkish frigate, but succeeded in getting away to some rocky islands called Scrofes, where Byron concealed himself in a cave. Gamba and his ship were captured, but by a curious coincidence the captain of the Turkish frigate had once been saved from death by the Greek skipper, and, in gratitude for this, he pretended that he saw nothing suspicious about the vessel, and let it continue its voyage.
+
+
+### Section 38.
+
+ζῆν, χρῆσθαι, [REFs]. Contracted Futures, [REFs].
+
+1. See [REF].
+2. οὔτε ὅθεν... κομιοῦνται *nor having whence they shall get rations*, i.e., *not being able to get rations*.
+3. ἔστιν ὅτε *sometimes*. Cf. [REF]. ἔστιν ᾗ *in some places*.
+4. The disorder culminated in the following incident: A Souliote, noted for his bravery, came to the armoury with a young son of M. Botzares, and, having no written permission to enter, was stopped by the sentry. He persisted in going in, and the officer on guard ordered him to be arrested; a quarrel ensued, and the Souliote, having received a blow, killed the officer on the spot. In an instant alarm pervaded the town: the Souliotes rose to arms, threatening to storm the armoury and even Byron's house, if their countryman, who had been apprehended, was not set at liberty. The riot was at length appeased, but Byron declared that he would return to the Ionian islands if the Souliotes did not leave Messalonghi. GORDON.
+5. ἔπροσσεν ὅπως... *took steps to make the place secure*. Verbs of Effort take ὅπως with Fut. Indic. Cf. [REFn].
+6. οὐχ ἕξουσιν ὅπως *will not be able to*. Cf. [REFn].
+7. εἶς is used emphatically with Superlatives, *this man of all others*, like Lat. *unus*.
+8. τῶν καθ' ἑαυτόν *of his contemporaries*.
+9. On 9th April Byron went out to ride near the town and was overtaken by a heavy shower, and returned home in a boat. Shortly afterwards he complained of fever: the doctors prescribed bleeding, but he refused, saying, “I will drink all your medicines, but not one drop of my blood will I shed. All of it shall be shed on the field of battle." Delirium came on, then stupor, and at six o'clock in the afternoon of Easter Monday (19th April) at the instant of an awful thunderstorm Byron expired.
 His coffin was laid by the side of the grave of M. Botzares, but as he expressed a wish to be buried in the tomb of his ancestors (at Hucknall Torkard, near Nottingham), the body was removed to England, and his heart interred at Messalonghi.
-Section 39. dnλoûv, §§ [REF].
-Page [REF]. τὰ ἑαυτῶν regarding only their own interests. 14. rois Xpημaoi from lack of money. Instrum. Dat.
-1.  oơa av δέŋ whatever was necessary. See [REFn].
-2.  A committee was formed in London, including Jeremy Bentham, Joseph Hume and T. Gordon (the historian of the war), and a loan amounting to £300,000 was raised. The security was very bad, and, in fact, the interest was never paid, but by a fortunate coincidence for Greek liberty, a mania for every kind of wild speculation had just then seized English capitalists.
-3.  A talent was a sum of money worth 6,000 drachmæ or £210 in English money. A drachma = a franc.
-4.  öσa λáßolev whatever money they got; after an historic tense (édarávwv), the Rel. followed by the Optat. is used in an Indefinite Sense. After a Primary tense, this would be ora âv λáßwσi. Cf. 1. 17.
-Page [REF]. ek toû roloúrov, by such conduct.
-"Every man of consideration in his own imagination wanted to place himself at the head of a band of armed men, and hundreds of civilians paraded the streets of Nauplia with trains of kilted followers, like Scottish chieftains. Phanariots and doctors of medicine, who in the month of April were clad in ragged coats, and who lived on scanty rations, threw off that patriotic chrysalis before summer was past, and emerged in all the splendour of brigand life, refulgent with brilliant but unused arms, fluttering about in rich Albanian habiliments, and followed by diminutive pipe-bearers and tall henchmen.FINLAY.
-Section 40. ioráva, Act. Voice, § 248.
-The Str. Aor., Perf., and 
-1. ἀντέστη αὐτῷ went against him. Plup. of iorával and its compounds are Intrans.
-NOTES TO PAGES [REF] 
-= 
-87 
-1. és áropíav karaσrĥoai = to reduce to helplessness (Wk. Aor.).
-ἐς ἀπορίαν καταστῆναι to be reduced to helplessness (Str. Aor.). 6. evpnrai Delib. Subj.; evporo might have been used. See [REFn]. "Mehemet-Ali was a determined reformer, although his reforms, like those of all Eastern despots, were directed solely to two pointsaugmenting his revenue, and forming a disciplined standing army. The first he brought about by a most horrible system of oppression and monopoly, turning the cultivators into bondsmen and making himself the only merchant and landowner in the country; the second he effected by establishing an arbitrary conscription among the Arab villagers, and purchasing the services of European instructors." GORDON.
-1. τὰ τῆς χώρας . . . ἐς τὸ ἐπιτήδειον controlling the organisation of the country, he arranged matters to his own advantage.
-2. ὅδεv by which course.
-3.  ὅταν 
-whenever occasion should arise; Temporal Conjunctions compounded with ἄν (ὅταν, ὁπόταν, ἐπειδάν), followed by the Subj. have an Indefinite sense, expressed in English by ever. ever has one of two meanings :
-= 
-This 
-(i.) It refers to one occasion in the unknown future, e.g., whenever 
-at any time when) I die, I shall be cremated.
-(ii.) It refers to an unknown number of occasions, e.g., whenever (= at every time when) I am hungry, I eat.
-ὅταν is used in sense (i.); ὁπόταν in sense (ii.); ἐπειδάν in either 
-sense.
-See 11. [REF].
-1.  éteidη úñéσrn since he had undertaken the expedition.
-2.  ὁπότε 
-Xooler whenever they came to close quarters; after an historic tense, őre, óñóre, and éradý, followed by the Optat. are used in the same Indefinite sense, as orav, órórav, and éπeiðáv, with the Subj. See 1. 13 n. Compare the use of the Relative, [REFn].
-Page, [REF]. δέov, Acc. Abs. See [REFn].
-Section 41. iorával Mid. and Pass., § 249. Súvapai I am able, éniorapai I know, are conjugated like iorapai, but see § 256.
-1.  ἕως ἂν reipŵvrai until they should try; ews åv so long as or until, péxpi av (or μéxpi ov äv) until, followed by the Subj., have an Indefinite sense, not expressed in English. They refer :
-:
-(i.) to one occasion in the unknown future, e.g., we will work, till we have finished.
-(ii.) to an unknown period of time, e.g., while there is life, there is hope.
-After an historic tense, the same Indefinite sense is expressed by ews, μéxpi (or μéxpi ov), followed by the Optat. Compare [REFn], 26 n.
-888 
-NOTES TO PAGES 48-50 
-1.  Tois éπixεiρhμaoi, Instrum. Dat. they were not successful in (lit. by) their efforts.
-2.  οὐκ ἔχοντες 
-not having a point at which they should make a stand, i.e., a rallying point.
-Page [REF]. ews ȧvaykaσbeiev. See [REFn].
-1.
-At four o'clock in the afternoon, a soldier, bearing a lighted match, was seen to leave the monastery and run towards the entrance of a great subterraneous magazine, situated outside-he fell, pierced with balls, and five of his companions, following his example, one after the other, shared his fate. Unable to execute their first project, the Greeks resolved to inflame the powder they had within the monastery. They ceased their fire, and the Turks darting on, sword in hand, scaled the walls on every side; when suddenly the Hellenic flag was lowered, a white banner, inscribed with the words 'Liberty or Death,' waved in the air, a single gun gave the signal, and a tremendous explosion, shaking the island and felt far out at sea, buried in the ruins of St. Nicholas thousands of the conquerors and the conquered!"-Gordon.
-Section 42. δεικνύναι, §§ [REF].
+
+### Section 39.
+
+δηλοῦν, [REFs].
+
+1. τὰ ἑαυτῶν... *regarding only their own interests*.
+2. τοῖς χήμασι *from lack of money*. Instrum. Dat.
+3. ὅσα ἂν δέῃ *whatever was necessary*. See [REFn].
+4. A committee was formed in London, including Jeremy Bentham, Joseph Hume and T. Gordon (the historian of the war), and a loan amounting to £300,000 was raised. The security was very bad, and, in fact, the interest was never paid, but by a fortunate coincidence for Greek liberty, a mania for every kind of wild speculation had just then seized English capitalists.
+5. A talent was a sum of money worth 6,000 drachmæ or £210 in English money. A drachma = a franc.
+6. ὅσα λάβοιεν *whatever money they got*; after an historic tense (ἐδαπάντων), the Rel. followed by the Optat. is used in an Indefinite Sense. After a Primary tense, this would be ὅσα ἂν λάβωσι. Cf. [REF].
+7. εκ τοῦ τοιούτου, *by such conduct*.
+8. "Every man of consideration in his own imagination wanted to place himself at the head of a band of armed men, and hundreds of civilians paraded the streets of Nauplia with trains of kilted followers, like Scottish chieftains. Phanariots and doctors of medicine, who in the month of April were clad in ragged coats, and who lived on scanty rations, threw off that patriotic chrysalis before summer was past, and emerged in all the splendour of brigand life, refulgent with brilliant but unused arms, fluttering about in rich Albanian habiliments, and followed by diminutive pipe-bearers and tall henchmen. FINLAY.
+
+
+### Section 40.
+
+ἱστάναι, Act. Voice, [REFs].
+ 
+1. ἀντέστη αὐτῷ *went against him*. The Str. Aor., Perf., andPlup. of ἱστάναι and its compounds are Intrans.
+2. ἐς ἀπορίαν καταστῆσαι = to reduce to helplessness (Wk. Aor.). ἐς ἀπορίαν καταστῆναι = to be reduced to helplessness (Str. Aor.).
+3. εὕρηται Delib. Subj.; εὕποιτο might have been used. See [REFn].
+4. "Mehemet-Ali was a determined reformer, although his reforms, like those of all Eastern despots, were directed solely to two points: augmenting his revenue, and forming a disciplined standing army. The first he brought about by a most horrible system of oppression and monopoly, turning the cultivators into bondsmen and making himself the only merchant and landowner in the country; the second he effected by establishing an arbitrary conscription among the Arab villagers, and purchasing the services of European instructors." GORDON.
+5. τὰ τῆς χώρας... ἐς τὸ ἐπιτήδειον *controlling the organisation of the country, he arranged matters to his own advantage*.
+6. ὅθεv *by which course*.
+7. ὅταν... ᾗ *whenever occasion should arise*; Temporal Conjunctions compounded with ἄν (ὅταν, ὁπόταν, ἐπειδάν), followed by the Subj. have an Indefinite sense, expressed in English by *ever*. This ever has one of two meanings:
+   1. It refers to *one* occasion in the unknown future, e.g., whenever (= at any time when) I die, I shall be cremated.
+   2. It refers to an unknown number of occasions, e.g., whenever (= at every time when) I am hungry, I eat.
+   ὅταν is used in sense (i.); ὁπόταν in sense (ii.); ἐπειδάν in either sense. See [REF].
+8. επειδὴ ὑπέστη *since he had undertaken the expedition*.
+9. ὁπότε... ἔλθοιεν *whenever they came to close quarters*; after an historic tense, ὅτε, ὁπότε, and ἐπειδή, followed by the Optat. are used in the same Indefinite sense, as ὅταν, ὁπόταν, and ἐπειδάν, with the Subj. See [REFn]. Compare the use of the Relative, [REFn].
+10. δέov, Acc. Abs. See [REFn].
+
+
+### Section 41. ἱστάναι Mid. and Pass., [REFs]. δύναμαι I am able, ἐπίσταμαι I know, are conjugated like ἵσταμαι, but see [REFs].
+
+1. ἕως ἄν... πειρῶνται *until they should try*; ἕως ἄν *so long as* or *until*, μέχρι ἄν (or μέχρι οὗ ἄν) *until*, followed by the Subj., have an Indefinite sense, not expressed in English. They refer:
+   1. to one occasion in the unknown future, e.g., we will work, till we have finished.
+   2. to an unknown period of time, e.g., while there is life, there is hope.
+   After an historic tense, the same Indefinite sense is expressed by ἕως, μέχρι (or μέχρι οὗ), followed by the Optat. Compare [REFn], [REFn]
+2. τοῖς ἐπιχειρήμασιν, Instrum. Dat. *they were not successful in* (lit. *by*) *their efforts*.
+3. οὐκ ἔχοντες... *not having a point at which they should make a stand*, i.e., *a rallying point*.
+4. ἕως ἀναγκασθεῖν. See [REFn].
+5. At four o'clock in the afternoon, a soldier, bearing a lighted match, was seen to leave the monastery and run towards the entrance of a great subterraneous magazine, situated outside-he fell, pierced with balls, and five of his companions, following his example, one after the other, shared his fate. Unable to execute their first project, the Greeks resolved to inflame the powder they had within the monastery. They ceased their fire, and the Turks darting on, sword in hand, scaled the walls on every side; when suddenly the Hellenic flag was lowered, a white banner, inscribed with the words 'Liberty or Death,' waved in the air, a single gun gave the signal, and a tremendous explosion, shaking the island and felt far out at sea, buried in the ruins of St. Nicholas thousands of the conquerors and the conquered!" Gordon.
+
+
+### Section 42. δεικνύναι, [REFs].
+
 1.  A desultory siege of Patras continued throughout the war.
-the management of the loan was not in accordance 
-1.  τὰ περί . with their views.
-2.  πρίν . Karaλvσelav until they should overthrow the existing democracy. The Greeks had elected representatives, but great confusion had arisen owing to party quarrels. If the main verb is negatived, and où æρív not before means not until, æpív takes the same construction as μéxp and ews, [REFn]. When рiv means before, it takes the Infin.
-Page [REF]. οὐ πρότερον πρίν 
-• • 
-not until; the Indic. is used referring to a Definite time, as is the case with all temporal conjunctions.
-1. διὰ τόν τε θάνατον 
-• 
-καὶ ὅτι (a) owing to his son's death, and (b) because the conspirators were unsuccessful. Cf. [REFn].
-1.  καθίστατο τοῖς ἐν τοῖς ἀγροῖς befel the rural population.
-2.  διὰ τὸ ποιεῖσθαι. Cf. [REF] η.
-It was owing to this Civil War that no assistance had been sent to Cassos and Psara.
-Section 43. iévai Indic. Mood, § 267.
-1.  Neocastron, situated on the mainland opposite the south end of Sphakteria, is generally known as Navarino, from some merchants who came from Navarre and settled there in the fifteenth century.
-NOTES TO PAGES [REF] 
-89 
-Page [REF]. διὰ μáxns iévai to fight. Cf. διὰ þóßov eivai to be afraid, [REF].
-diá in such phrases expresses the circumstances, lit. to come into a state of battle.
-1. Tolavrηs i.e., against disciplined troops.
-2.  Sphakteria is famous as the scene of the Spartan surrender in B.C. 425.
-3.  karà tòv Xiμένa on the harbour side.
-4.  Mavrocordato, being a slow runner, would have been taken prisoner had not two soldiers helped him along, and got him on board a vessel from Hydra, named the Mars. For six hours he sat in the cabin, holding a pistol which might save him the ignominy of being sent in chains to Constantinople; he uttered no word except now and then a brief sentence expressive of the vanity of ambition, and a resolution, if he survived, to retire into private life. Meanwhile the Mars fought her way out of the harbour; the Turkish ships did not dare to approach too near, as the Greek captain could be seen standing with a lighted torch ready to blow up the ship, if any attempt was made to board her.-FINLAY.
-Section 44. lévai (all), § 267.
-1.  d' are is used with the Fut. Indic. to express on condition that. The Pres. Ind. of iéval (and its compounds) has a future meaning: the Past Imperfect and the other moods supply the missing forms of ἔρχομαι.
-OTOι av Boúλwvrau whithersoever they wished (lit. shall wish).
-• 
-Page [REF]. ei èmíoiev if ever the enemy attacked; after an historic tense, ei with the Optat. expresses if ever. Cf. [REFn]. When the main verb is primary, the same meaning is expressed by v (= ei av), followed by the Subj. Cf. L. 8 and [REFn].
-1. Tapà λóyov contrary to expectation.
-· 
-1. τήν τε πόλιν they burnt (a) the town, and (b) whatever they could not carry away. See [REFn].
-2.  v πws if perchance, i.e., in hopes that; after an historic tense, this might be el mos with Optat. Cf. [REF].
-3.  When Colokotrones was imprisoned (see [REF]), he exclaimed, "I have twice saved my country, and shall be called upon to save it a third time".-GORDON.
-4.  The Greeks were so demoralised that Colokotrones had great difficulty in keeping his men together. On one occasion his scouts rushed in crying, "Back, back, there are horsemen in the olive-yard". Presently, however, the horsemen were transformed into a flock of crows and flew away.-TRICOUPI.
-5.  During this expedition Ibrahim advanced nearly as far as Argos.
-90 
-NOTES TO PAGES 52-54 
-From a lofty point in the road he caught a view of Hydra, and, stretching out his hand, exclaimed, “Ah, little England, how long wilt thou escape me?"-GORDON.
-Section 45. didóvaı, Act. Voice, § 262.
-1.  When the Turks retired from Messalonghi (Section 36), they buried their guns, and erected tombstones over them: the Greeks were deceived by this stratagem, and proudly pointed to the inscriptions which recorded the fate of their enemies. When Kiutayhé (or Reschid Pasha, as he was generally called) began the second siege, he dug up the guns and used them against the Greeks.
-2.  εἰ μή except.
-Page [REF]. ei.
-• 
-éyévero if this had not been done, they would have been compelled. Unfulfilled Past Condition.
-1. ÓTÓTE. Cf. [REFn].
-2.  εἴ πως. Cf. [REFn].
-• 
-ἄνευ Toλioρkías, lit. without expense and a siege, i.e., without a costly siege.
-1.  λίθους τε .
-καὶ εἴ τι 
-Cf. [REFn].
-1.  dúvaσbai ǎv would be able; this could have been expressed őri δύναιτο ἄν. Cf. [REFn].
-• 
-1.  οὐδεμίαν avrov they had no hope that (is) they would prevail, unless they were to get possession of it.
-2.  Tò èpyov, i.e., the making of the mound; poσéxovor is Dat. Plur. of Partic.
-Section 46. didóva, Mid. and Pass., § 263.
-1.  καλῶς ἔπραξαν.
-Cf. [REFn].
-Page [REF]. čws äv. Cf. [REFn].
-1.  καθ' ἡμέραν 
-προϊούσαν as each day came on.
-1.  ἀσθενέστεροι ἢ ὥστε too weak to. Cf. [REFn].
-2.  "At Messalonghi, when they issued forth amid the drizzle of the night, feeling their desolation and their doom, they said to one another, 'The Almighty Himself weeps for us to-night!' But they went on, sword in hand, to fall for their country, greeting her with the gladsome cry, 'Arise, thou dearest mother!""GENNADIUS.
-3.  κραυγῇ . by some cry of confusion (lit. of those confused). "Almost at the moment when the garrison rushed on the Turks, that portion of the Messalonghiots which was then on the bridges raised a cry of 'Back, back'. Great part of the Messalonghiots stopt, fell back, and returned into the town with the military escort, which ought to have formed the rear-guard of the sortie. The origin of this ill-timed cry, which weakened the force of the sortie and added to the victims in the place, has excited much unnecessary speculation. It 
-NOTES TO PAGES 54-57 
-91 
-evidently arose among those who were in danger of being forced into the ditch. Their cry was repeated so loudly that it created a panic." FINLAY.
-Page [REF]. ὅσοις ἐντύχοιεν. Cf. [REFn].
-1.  εἴ πως. Cf. [REF].
-2.  âv éyévero. Cf. [REFn]. The deserter was a Bulgarian mer
-cenary.
-Section 47. Str. Aor., ἔβην, ἔγνων, ἑάλων, ἔδυν, §§ [REF].
-1.  où πpoσĥkov, Acc. Abs. See [REFn]. 25. Bore on condition that.
-2.  τοὺς δὲ μὴ δεχομένους.
-(saying) that they would compel those 
-who rejected the terms to observe them. 29. ǎopevo gladly. Cf. [REFn]. Page [REF]. ổơa .
-Section 48.
-idolev. See [REFn].
-1.  The English admiral, Sir Edward Codrington, was in command of the whole fleet, as being the senior admiral. The instructions which he gave to his colleagues in the event of a general engagement concluded with Nelson's words, that no captain could do very wrong who placed his ship alongside that of an enemy.—FYFFE.
-2.  οὐ πολὺς χρόνος. Cf. [REFn].
-Page [REF]. v it was possible. Cf. 1. 8.
-1. rà vaváyia, some of these wrecks are still to be seen on shore and beneath the water.
-2.  ἐμοί 
-• 
-peλnoe, these are the concluding words of Xenophon's Hellenica. uoi is Dat. of Agent, by me.
+1. τὰ περί... *the management of the loan was not in accordance with their views*.
+2. πρίν... καταλύσειαν *until they should overthrow the existing democracy*. The Greeks had elected representatives, but great confusion had arisen owing to party quarrels. If the main verb is negatived, and οὐπρίν *not before* means *not until*, πρίν takes the same construction as μέχρι and ἕως, [REFn]. When πρίν means *before*, it takes the Infin.
+3. οὐ πρότερον πρίν... *not until*; the Indic. is used referring to a Definite time, as is the case with all temporal conjunctions.
+4. διὰ τόν τε θάνατον... καὶ ὅτι... (a) *owing to his son's death, and* (b) *because the conspirators were unsuccessful*. Cf. [REFn].
+5. καθίστατο τοῖς ἐν τοῖς ἀγροῖς *befell the rural population*.
+6. διὰ τὸ ποιεῖσθαι. Cf. [REFn].
+7. It was owing to this Civil War that no assistance had been sent to Cassos and Psara.
+
+
+### Section 43.
+
+ἰέναι Indic. Mood, [REFs].
+
+1. Neocastron, situated on the mainland opposite the south end of Sphakteria, is generally known as Navarino, from some merchants who came from Navarre and settled there in the fifteenth century.
+2. διὰ μάχης ἰέναι *to fight*. Cf. διὰ φόβου εἶναι to be afraid, [REF]. διά in such phrases expresses the *circumstances*, lit. *to come into a state of battle*.
+3. τοιαύτης i.e., against disciplined troops.
+4. Sphakteria is famous as the scene of the Spartan surrender in B.C. 425.
+5. κατὰ τὸν λιμένα *on the harbour side*.
+6. Mavrocordato, being a slow runner, would have been taken prisoner had not two soldiers helped him along, and got him on board a vessel from Hydra, named the Mars. For six hours he sat in the cabin, holding a pistol which might save him the ignominy of being sent in chains to Constantinople; he uttered no word except now and then a brief sentence expressive of the vanity of ambition, and a resolution, if he survived, to retire into private life. Meanwhile the Mars fought her way out of the harbour; the Turkish ships did not dare to approach too near, as the Greek captain could be seen standing with a lighted torch ready to blow up the ship, if any attempt was made to board her. FINLAY.
+
+
+### Section 44. ἰέναι (all), [REFs].
+
+1. εφ' ᾧτε is used with the Fut. Indic. to express *on condition that*. The Pres. Ind. of ἰέναι (and its compounds) has a future meaning: the Past Imperfect and the other moods supply the missing forms of ἔρχομαι.
+2. ὅποι ἂν βούλωνται *whithersoever they wished* (lit. *shall wish*).
+3. εἰ ἐπίοιεν... *if ever the enemy attacked*; after an historic tense, εἰ with the Optat. expresses *if ever*. Cf. [REFn]. When the main verb is primary, the same meaning is expressed by ἤν (= εἰ ἄν), followed by the Subj. Cf. [REF] and [REFn].
+4. παρὰ λόγον *contrary to expectation*.
+5. τήν τε πόλιν... *they burnt* (a) *the town, and* (b) *whatever they could not carry away*. See [REFn].
+6. ἤν πως *if perchance*, i.e., *in hopes that*; after an historic tense, this might be εἴ πως with Optat. Cf. [REF].
+7. When Colokotrones was imprisoned (see [REF]), he exclaimed, "I have twice saved my country, and shall be called upon to save it a third time". GORDON.
+8. The Greeks were so demoralised that Colokotrones had great difficulty in keeping his men together. On one occasion his scouts rushed in crying, "Back, back, there are horsemen in the olive-yard". Presently, however, the horsemen were transformed into a flock of crows and flew away. TRICOUPI.
+9. During this expedition Ibrahim advanced nearly as far as Argos. From a lofty point in the road he caught a view of Hydra, and, stretching out his hand, exclaimed, “Ah, little England, how long wilt thou escape me?" GORDON.
+
+
+### Section 45. διδόναι, Act. Voice, [REFs].
+
+1. When the Turks retired from Messalonghi (Section 36), they buried their guns, and erected tombstones over them: the Greeks were deceived by this stratagem, and proudly pointed to the inscriptions which recorded the fate of their enemies. When Kiutayhé (or Reschid Pasha, as he was generally called) began the second siege, he dug up the guns and used them against the Greeks.
+2. εἰ μή *except*.
+3. εἰ... ἐγένετο *if this had not been done, they would have been compelled*. Unfulfilled Past Condition.
+4. ὁπότε. Cf. [REFn].
+5. εἴ πως. Cf. [REFn].
+6. ἄνευ.. πολιορκίας, lit. *without expense and a siege*, i.e., *without a costly siege*.
+7. λίθους τε... καὶ εἴ τι... Cf. [REFn].
+8. δύνασθαι ἄν *would be able*; this could have been expressed ὅτι δύναιτο ἄν. Cf. [REFn].
+9. οὐδεμίαν... αὐτοῦ *they had no hope that* (ὡς) *they would prevail, unless they were to get possession of it*.
+10. τὸ ἔργον, i.e., the making of the mound; προσέχουσι is Dat. Plur. of Partic.
+
+
+### Section 46.
+
+διδόναι, Mid. and Pass., [REFs].
+
+1. καλῶς ἔπραξαν. Cf. [REFn].
+2. ἕως ἄν. Cf. [REFn].
+3. καθ' ἡμέραν... προϊοῦσαν *as each day came on*.
+4. ἀσθενέστεροι ἢ ὥστε *too weak to*. Cf. [REFn].
+5. "At Messalonghi, when they issued forth amid the drizzle of the night, feeling their desolation and their doom, they said to one another, 'The Almighty Himself weeps for us to-night!' But they went on, sword in hand, to fall for their country, greeting her with the gladsome cry, 'Arise, thou dearest mother!'" GENNADIUS.
+6. κραυγῇ... *by some cry of confusion* (lit. *of those confused*). "Almost at the moment when the garrison rushed on the Turks, that portion of the Messalonghiots which was then on the bridges raised a cry of 'Back, back'. Great part of the Messalonghiots stopt, fell back, and returned into the town with the military escort, which ought to have formed the rear-guard of the sortie. The origin of this ill-timed cry, which weakened the force of the sortie and added to the victims in the place, has excited much unnecessary speculation. It  evidently arose among those who were in danger of being forced into the ditch. Their cry was repeated so loudly that it created a panic." FINLAY.
+7. ὅσοις ἐντύχοιεν. Cf. [REFn].
+8. εἴ πως. Cf. [REF].
+9. ἂν ἐγένετο. Cf. [REFn]. The deserter was a Bulgarian mercenary.
+
+
+### Section 47.
+
+Str. Aor., ἔβην, ἔγνων, ἑάλων, ἔδυν, [REFs].
+
+1. οὐ προσῆκον, Acc. Abs. See [REFn].
+2. ὥστε *on condition that*.
+3. τοὺς δὲ μὴ δεχομένους... *(saying) that they would compel those who rejected the terms to observe them*.
+4. ἄσμενοι gladly. Cf. [REFn].
+5. ὅσα... ἴδοιεν. See [REFn].
+
+### Section 48
+
+1. The English admiral, Sir Edward Codrington, was in command of the whole fleet, as being the senior admiral. The instructions which he gave to his colleagues in the event of a general engagement concluded with Nelson's words, that no captain could do very wrong who placed his ship alongside that of an enemy. FYFFE.
+2. οὐ πολὺς χρόνος. Cf. [REFn].
+3. ἦν *it was possible*. Cf. [REF].
+4. τὰ ναυάγια, some of these wrecks are still to be seen on shore and beneath the water.
+5. ἐμοί... μελήσει, these are the concluding words of Xenophon's *Hellenica*. ἐμοί is Dat. of Agent, *by me*.
