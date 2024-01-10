@@ -9,33 +9,57 @@ NOTE.—(i.) Verbs are given under the Pres. Infin., except in the case of ἔρ
 (iv.) The insertion of the case which a verb governs does not imply that the verb cannot also be used absolutely, e.g., ἀντέχειν resist (Dat.). It is possible to say, ἀντεῖχον they offered resistance, as well as, τοῖς πολεμίοις ἀντεῖχον they resisted the enemy.
 
 Ἀγαγεῖν, Str. Aor. of ἄγειν.
+
 ἀγαθός, -ή, -όν, good, loyal, £7, 5.
+
 ἄγᾱν, too much, 42, 18.
+
 ἀγγελίᾱ (-ᾱς), ἡ, message, report, news, 1, 18.
+
 ἀγγέλλειν (Aor. Act. ἤγγειλα, Pass. ἠγγέλθην, Perf. Pass. ἤγγελμαι), announce, report (i) Acc. 18, 6; (ii.) ὅτι, 7, 15. Comp. ἀπ-, παρ-.
+
 ἄγγελμα (-ατος), τό, message, 42, 29.
+
 ἄγγελος (-ου), ὁ, messenger, 7, 5.
+
 Ἀγγλίᾱ (-ᾱς), ἡ, England 21, 12.
+
 Ἀγγλικός, ή, -όν, English, 88, 21.
+
 Ἄγγλος, (-ου), ὁ, Englishman, 42, 29.
-ἄγειν (Aor. ἤγαγον), (a) bring, 31, 26; (b) keep, τὴν δίαιταν ἄγειν, to spend one’s life, 4, 18; ἑορτὴν ἄγειν, to celebrate a festival, 20, 14; ἡσυχίαν ἄγειν, to keep quiet, 30, 10. Comp.
-ἀπ-, ἐν-, ἐξ-, ἐσ-, ξυν-, προ-, προσ-, ὑπ-.
+
+ἄγειν (Aor. ἤγαγον), (a) bring, 31, 26; (b) keep, τὴν δίαιταν ἄγειν, to spend one’s life, 4, 18; ἑορτὴν ἄγειν, to celebrate a festival, 20, 14; ἡσυχίαν ἄγειν, to keep quiet, 30, 10. Comp. ἀπ-, ἐν-, ἐξ-, ἐσ-, ξυν-, προ-, προσ-, ὑπ-.
+
 ἀγνοεῖν, be ignorant (ὅτι), 11, 80.
+
 ἀγρός (-οῦ), ὁ, field, 81, 7.
+
 ἀγών (-ῶνος), ὁ, struggle, contest, 18, 19.
+
 ἀγωνίζεσθαι, fight, 31, 4.
+
 ἄδεια (-ᾱς), ἡ, freedom from fear; ἄδειαν ποιεῖν (Dat.), to grant a safe conduct, 18,16; ἄδειαν τῶν σωμάτων ποιεῖν, to guarantee their lives, 16, 19; ἄδειαν ὑπισχνεῖσθαι, to promise an amnesty, 31, 12.
+
 ἀδελφός (-οὔ), ὁ, brother, 24, 30.
+
 ἀδεῶς, without fear, 17, 8.
+
 ἄδηλος, -ον, obscure; ἐν ἀδήλῳ ἐστί, it is doubtful, 86, 24.
-ἀδικεῖν (Perf. ἠδίκηκα), do wrong, 38, 18,
+
+ἀδικεῖν (Perf. ἠδίκηκα), do wrong, 38, 18.
+
 ἀδικήσᾱς, -ᾱσα, -αν, having done wrong; οἱ ἀδικήσαντες, those who committed the crime, 9, 22. Wk. Aor, Part. of ἀδικεῖν.
+
 ἀδικίᾱ (-ᾱς), ἡ, injustice, crime, 8, 6.
+
 ἄδικος, -ον, unjust, 8, 16.
+
 αδικούμενος, -ἡ,-ον, being unjustly treated, 8,17. Pres. Part. Pass, of ἀδικεῖν.
+
 ἀδύνατος, -ον, (a) powerless; οὐκ ἀδύνατοι εἶναι, to be powerful or influential, 6, 8; ἀδύνατος τοῖς χρήμασι, bankrupt, 46,14; (b) impossible, 16, 22.
 ἀθάνατος, -ον, immortal, undying, 6, 2.
 
+### stop 
 
 ᾿Αθηναῖος, -a, -ον, Athenian, 8, 9.
 ἁθροίζειν, collect, muster, 17, 9. Comp.
