@@ -1,16 +1,6 @@
-# GREEK-ENGLISH VOCABULARY.
+ἀγαγεῖν, Str. Aor. of ἄγειν.
 
-NOTE.—(i.) Verbs are given under the Pres. Infin., except in the case of ἔρχομαι (and compounds), which has no Pres. Infin. in Attic Prose.
-
-(ii.) If the Pres. Infin. in -ειν has a circumflex accent, e.g., ἀγνοεῖν, the verb is conjugated like ποιεῖν.
-
-(iii.) If a tense is inserted after the Pres. without mention of the voice, it is implied that the meaning of this tense is the same in voice as that of the Pres., e.g., διανοεῖσθαι (Aor. διενοήθην), intend; ἁλίσκεσθαι (Aor. ἑάλων), be captured. διενοήθην means I intended; ἑάλων means I was captured.
-
-(iv.) The insertion of the case which a verb governs does not imply that the verb cannot also be used absolutely, e.g., ἀντέχειν resist (Dat.). It is possible to say, ἀντεῖχον they offered resistance, as well as, τοῖς πολεμίοις ἀντεῖχον they resisted the enemy.
-
-Ἀγαγεῖν, Str. Aor. of ἄγειν.
-
-ἀγαθός, -ή, -όν, good, loyal, £7, 5.
+ἀγαθός, -ή, -όν, good, loyal, 47, 5.
 
 ἄγᾱν, too much, 42, 18.
 
@@ -40,7 +30,7 @@ NOTE.—(i.) Verbs are given under the Pres. Infin., except in the case of ἔρ
 
 ἄδεια (-ᾱς), ἡ, freedom from fear; ἄδειαν ποιεῖν (Dat.), to grant a safe conduct, 18,16; ἄδειαν τῶν σωμάτων ποιεῖν, to guarantee their lives, 16, 19; ἄδειαν ὑπισχνεῖσθαι, to promise an amnesty, 31, 12.
 
-ἀδελφός (-οὔ), ὁ, brother, 24, 30.
+ἀδελφός (-οῦ), ὁ, brother, 24, 30.
 
 ἀδεῶς, without fear, 17, 8.
 
@@ -57,7 +47,8 @@ NOTE.—(i.) Verbs are given under the Pres. Infin., except in the case of ἔρ
 αδικούμενος, -ἡ,-ον, being unjustly treated, 8,17. Pres. Part. Pass, of ἀδικεῖν.
 
 ἀδύνατος, -ον, (a) powerless; οὐκ ἀδύνατοι εἶναι, to be powerful or influential, 6, 8; ἀδύνατος τοῖς χρήμασι, bankrupt, 46,14; (b) impossible, 16, 22.
-ἀθάνατος, -ον, immortal, undying, 6, 2.
+
+ἀθάνατος [MACRON], -ον, immortal, undying, 6, 2.
 
 Ἀθηναῖος, -ᾱ, -ον, Athenian, 8, 9.
 
@@ -78,8 +69,7 @@ NOTE.—(i.) Verbs are given under the Pres. Infin., except in the case of ἔρ
 
 αἴρειν (Aor. ἦρα), (i) Trans., take up, 8, 7; raise, 27, 12, (ii.) Intrans., set out, 40, 25. Comp. ἐπ-, κατ-.
 
-αἱρεῖν (Perf. ᾔρηκα, Aor. εἷλον), (i.) Act.
-capture, 9, 30. (ii.) Mid. choose, 20, 11, Comp. ἐξ-.
+αἱρεῖν (Perf. ᾔρηκα, Aor. εἷλον), (i.) Act. capture, 9, 30. (ii.) Mid. choose, 20, 11, Comp. ἐξ-.
 
 αἰσθάνεσθαι (Aor. ᾑσθόμην), perceive. (i.) Acc., 18, 20. (ii.) ὅτι, 12, 1. (iii.) Partic., 22, 15. (iv.) Acc. and ὅτι, 18, 18.
 
@@ -91,11 +81,11 @@ capture, 9, 30. (ii.) Mid. choose, 20, 11, Comp. ἐξ-.
 
 αἰσχῡ́νη (-ης), ἡ, shame, disgrace, 6,1.
 
-αἰτίᾱ (-ᾱς), ἡ, cause, 8, 4.
+αἰτίᾱ (-ᾱς), ἡ, cause, 8, 4.
 
 αἴτιος, -ᾱ, -ον, responsible for, author of (Gen.), 8, 19; οἱ αἴτιοι, the guilty, 5, 18.
 
-αἰφνιδίως, suddenly, 26, 9.
+αἰφνιδίως, suddenly, 26, 9.
 
 ἀκήρυκτος, -ον, without a herald, 18, 9.
 
@@ -107,7 +97,7 @@ capture, 9, 30. (ii.) Mid. choose, 20, 11, Comp. ἐξ-.
 ἀκούσᾱς, -ᾱσα, -αν, having heard, 8, 18.
 Wk. Aor. Part. of ἀκούειν.
 
-Ἀκράτα, ἡ, Acrata, a small port on south side of Corinthian Gulf, 15, 12.
+Ἀκράτα, ἡ, Acrata, a small port on south side of Corinthian Gulf, 15, 12.
 
 ἄκριτος, -ον, without trial, 10, 19.
 
@@ -115,13 +105,13 @@ Wk. Aor. Part. of ἀκούειν.
 
 ἀκρόπολις (-εως), ἡ, citadel, 80, 18,
 
-Ἀλβᾱνίᾱ (-ᾱς), ἡ, Albania, a Turkish province in N.W. Greece, 8, 17.
+Ἀλβᾱνίᾱ (-ᾱς), ἡ, Albania, a Turkish province in N.W. Greece, 8, 17.
 
 Ἀλβᾱ́νιος (-ου), ὁ, Albanian, 4, 16.
 
 Ἀλεξανδρείᾱ (-ᾱς), ἡ, Alexandria, a town in Egypt, 54, 6.
 
-ἀληθής, -ές, true, genuine, 19, 4.
+ἀληθής, -ές, true, genuine, 19, 4.
 
 ἁλίσκεσθαι (Aor. ἑᾱ́λων), be captured, 86, 9.
 
@@ -151,7 +141,7 @@ Wk. Aor. Part. of ἀκούειν.
 
 ἁμαρτάνειν (Perf. ἡμάρτηκα), commit a crime, 22, 9.
 
-ἀμαχεί, without a batile, 9, 30.
+ἀμαχεί, without a batile, 9, 30.
 
 ἀμείνων, -ον, better, 81, 26; ἐς τὸ ἄμεινον καταστῆσαι, to improve, 83,2, Compar. of ἀγαθός.
 
@@ -161,7 +151,7 @@ Wk. Aor. Part. of ἀκούειν.
 
 ἀμφίβολος, -ον, attacked from both sides, between two fires, 34, 4.
 
-αμφισβητεῖν, dispute; τὰ ἀμφισβητούμενα, debatable points, 55, 26.
+αμφισβητεῖν, dispute; τὰ ἀμφισβητούμενα, debatable points, 55, 26.
 
 ἀμφότεροι, -αι, -α, both parties, 88, 3.
 
@@ -171,7 +161,7 @@ Wk. Aor. Part. of ἀκούειν.
 
 ἀναβαίνειν (Aor. ἀνέβην), go up, climb (ἐς with Acc.), 28, 23.
 
-ἀναβᾱ́ς, -ᾶσα, -άν, having climbed up, 27, 10. Str. Aor. Part. of ἀναβαίνειν.
+ἀναβᾱ́ς, -ᾶσα, -άν, having climbed up, 27, 10. Str. Aor. Part. of ἀναβαίνειν.
 
 ἀναγιγνώσκειν, read, 19, 10.
 
@@ -191,7 +181,7 @@ Wk. Aor. Part. of ἀκούειν.
 
 ἀνακτᾶσθαι, recover, 44, 7.
 
-ἀναλαμβάνειν (Aor. ἀνέλαβον), (a) take up; ὅπλα ἀναλαμβάνειν, to take up arms, 16, 2; (b) recover; τὴν ἐλευθερίαν ἀναλ., to recover one's freedom, 6, 19; τὴν τιμωρίαν τῶν ἀδικησάντων ἀναλ., to take vengeance on the guilty, 9, 22.
+ἀναλαμβάνειν (Aor. ἀνέλαβον), (a) take up; ὅπλα ἀναλαμβάνειν, to take up arms, 16, 2; (b) recover; τὴν ἐλευθερίαν ἀναλ., to recover one's freedom, 6, 19; τὴν τιμωρίαν τῶν ἀδικησάντων ἀναλ., to take vengeance on the guilty, 9, 22.
 
 ἀνᾱλοῦν, spend, 46, 28; τὰ ἴδια ἀναλοῦν ἐς τὸν πόλεμον, to spend one's own money on the war, 46, 11.
 
@@ -201,7 +191,7 @@ Wk. Aor. Part. of ἀκούειν.
 
 ἀναπείθειν, convince, persuade, 88, 15.
 
-ἀναστᾱ́ς, -ᾶσα, -άν, having set out, 47, 28. Str. Aor. Part. of ἀνιστάναι.
+ἀναστᾱ́ς, -ᾶσα, -άν, having set out, 47, 28. Str. Aor. Part. of ἀνιστάναι.
 
 ἀνάστατος, -ον, driven out; ἀναστάτους ποιεῖσθαι, to expel from their homes, 47, 26.
 
@@ -247,9 +237,9 @@ Wk. Aor. Part. of ἀκούειν.
 
 ἀνηλοῦτο, Past Impft. of ἀναλοῦν.
 
-ἀνήρ (ἀνδρός), ὁ man, 27, 1.
+ἀνήρ (ἀνδρός), ὁ man, 27, 1.
 
-ἀνθίστασθαι (with Str. Aor. ἀντέστην), oppose, stand against (Dat.), 48, 3; πάντα ἀντέστη αὐτῷ, everything went against him, 47, 3.
+ἀνθίστασθαι (with Str. Aor. ἀντέστην), oppose, stand against (Dat.), 48, 3; πάντα ἀντέστη αὐτῷ, everything went against him, 47, 3.
 
 ἄνθρωπος (-ου), ὁ, man, 8, 7.
 
@@ -273,7 +263,7 @@ Wk. Aor. Part. of ἀκούειν.
 
 ἀντί, Prep. with Gen., instead of; αἱρεῖσθαι ἄλλον τινὰ Πατριάρχην ἀντὶ τοῦ Γρηγορίου, to choose another Patriarch instead of Gregory, 20,11. In Comp. (a) against, ἀνθίστασθαι, to stand against; (b) instead of, ἀντιπέμπειν, to send in return.
 
-ἀντιλαμβάνειν, Act. (Aor. ἀντέλαβον), take instead, 43, 22; (b) Mid., attain to, reach (Gen.), 55, 11.
+ἀντιλαμβάνειν, Act. (Aor. ἀντέλαβον), take instead, 43, 22; (b) Mid., attain to, reach (Gen.), 55, 11.
 
 ἀντιπέμπειν (Aor. ἀντέπεμψα), send in return, 46, 21.
 
@@ -307,7 +297,7 @@ Wk. Aor. Part. of ἀκούειν.
 
 ἀπαγγέλλειν, report, announce, (i.) ὅτι, 8 10; (ii.) Acc. 21, 19.
 
-ἀπάγειν (Aor. ἀπήγαγον), (a) arrest, 10, 15; (b) lead away, 20, 8.
+ἀπάγειν (Aor. ἀπήγαγον), (a) arrest, 10, 15; (b) lead away, 20, 8.
 
 ἀπάγχειν, hang, 20, 19.
 
@@ -350,7 +340,7 @@ Aor. of ἀπέρχομαι.
 
 ἀπέστειλε, Aor. of ἀποστέλλεν.
 
-ἀπέφνγον; Aor. Of ἀποφεύγειν.
+ἀπέφνγον; Aor. Of ἀποφεύγειν.
 
 ἀπέχειν, be distant from (Gen.), 9, 28. The distance is expressed by Acc.
 
@@ -358,7 +348,7 @@ Aor. of ἀπέρχομαι.
 
 ἀπήγαγον, Aor. of ἀπάγειν.
 
-ἀπήγγελλον, Past Impft. of ἀπαγγέλλειν.
+ἀπήγγελλον, Past Impft. of ἀπαγγέλλειν.
 
 ἀπίᾱσι, 3rd plur. Ind. of ἀπιέναι.
 
@@ -376,7 +366,7 @@ Aor. of ἀπέρχομαι.
 
 ἀποβάλλειν, (a) throw away, 18, 20; (b) lose, 35, 5.
 
-ἀποβᾱ́ς, -ᾶσα, -άν, having disembarked, 18, 12. Str. Aor. Part. of ἀποβαίνειν.
+ἀποβᾱ́ς, -ᾶσα, -άν, having disembarked, 18, 12. Str. Aor. Part. of ἀποβαίνειν.
 
 ἀπόβασις (-εως), ἡ, disembarking; ἀπόβασιν ποιεῖσθαι ἐς (Acc.), to make a descent on, 24, 19.
 
@@ -390,7 +380,7 @@ Aor. of ἀπέρχομαι.
 
 ἀποθανεῖν, Aor. of ἀποθνῄσκειν.
 
-ἀποθήκη (-ης), ἡ, magazine, 49, 8.
+ἀποθήκη (-ης), ἡ, magazine, 49, 8.
 
 ἀποθνῄσκειν (Aor, ἀπέθανον, Perf. τέθνηκα), (a) die, 18, 28; (b) used as Pass. of ἀποκτείνειν (kill), be killed by (ὑπό with Gen.), 7,19; οἱ ἀποθανόντες, the dead, 11, 14. In Attic Prose θνῄσκειν is always compounded with ἀπό, except in the Perf. and Plup. which are never compounded.
 
@@ -422,7 +412,7 @@ Aor. of ἀπέρχομαι.
 
 ἀπορεῖν, be at a loss, (i.) ὅπως with Fut. Ind., 26, 16; (ii.) ὅτῳ τρόπῳ with Fut. Ind., 38, 18; (iii.) ὅποι with Delib. Subj., 39, 5.
 
-απορίᾱ (-ᾱς), ἡ, difficulty, perplexity, want, 4, 28; ἐν ἀπορίᾳ πάντων εἶναι, to be in utter perplexity, 13, 1; ἐς ἀπορίαν καταστῆναι, to be reduced to helplessness, 41, 5.
+απορίᾱ (-ᾱς), ἡ, difficulty, perplexity, want, 4, 28; ἐν ἀπορίᾳ πάντων εἶναι, to be in utter perplexity, 13, 1; ἐς ἀπορίαν καταστῆναι, to be reduced to helplessness, 41, 5.
 
 ἄπορος, -ον, poor, 8, 8.
 
@@ -442,15 +432,13 @@ Aor. of ἀπέρχομαι.
 
 ἀπροσδόκητος, -ον, not expecting, unaware, 40, 18.
 
-ἀπώλλυντο, Past Impft. Mid. of ἀπολλύναι.
+ἀπώλλυντο, Past Impft. Mid. of ἀπολλύναι.
 
 ἀπώλοντο, Aor. Mid. of ἀπολλύναι.
 
-ἄρᾱς, -ᾱσα, -αν, having set out, 40, 25.
-Wk. Aor. Part. of αἴρειν.
+ἄρᾱς, -ᾱσα, -αν, having set out, 40, 25. Wk. Aor. Part. of αἴρειν.
 
-Ἄργος (-ους), τό, Argos, a town near E.
-coast of the Morea, 37, 4.
+Ἄργος (-ους), τό, Argos, a town near E. coast of the Morea, 37, 4.
 
 ἀργύριον (-ου), τό, silver, money, 1, 7.
 
@@ -458,7 +446,7 @@ coast of the Morea, 37, 4.
 
 ἀριθμός (-οῦ), ὁ, number, 8, 2.
 
-ἀριστερός, -ᾱ́, -όν, left (as opp. to δεξιός, right), 40, 26.
+ἀριστερός, -ᾱ́, -όν, left (as opp. to δεξιός, right), 40, 26.
 
 ἄριστος, -η, -ον, best, 18, 21; ἄριστα as Adv. best, 18, 28. Super. of ἀγαθός.
 
@@ -468,17 +456,17 @@ coast of the Morea, 37, 4.
 
 Ἄρτα (-ης), ἡ, Arta, a town near the S. boundary of Albania, 32, 17.
 
-ἄρχειν, (a) Act. (Aor. ἦρξα), (i.) rule, 5, 18, with Gen., 7, 2; (ii.) begin (Gen.), 14, 6. (b) Mid. (Aor. ἠρξάμην), begin (Inf. ), 28,1; ἅμα τῷ ἦρι ἀρχομένῳ, with the beginning of spring, 29,1. Comp. ὑπ-.
+ἄρχειν, (a) Act. (Aor. ἦρξα), (i.) rule, 5, 18, with Gen., 7, 2; (ii.) begin (Gen.), 14, 6. (b) Mid. (Aor. ἠρξάμην), begin (Inf. ), 28,1; ἅμα τῷ ἦρι ἀρχομένῳ, with the beginning of spring, 29,1. Comp. ὑπ-.
 
 ἀρχή (-ῆς), ἡ, (a) beginning, 4, 12; (b) dominion, 6, 19; (c) government, 6, 9; οἱ ἐν ἀρχαῖς, 19, 8, or αἱ ἀρχαί, 12, 27, the government.
 
-ἀρχιερεύς (-έως), ὁ, chief-priest, 19, 25.
+ἀρχιερεύς (-έως), ὁ, chief-priest, 19, 25.
 
 ἀσθένεια (-ᾱς), ἡ, weakness, illness, 11, 80.
 
 ἀσθενεῖν, fall ill, 26, 15.
 
-ἀσθενής, -ές, weak, 31, 5.
+ἀσθενής, -ές, weak, 31, 5.
 
 Ἀσίᾱ (-ᾱς), ἡ, Asia, 8, 7.
 
@@ -488,7 +476,7 @@ coast of the Morea, 37, 4.
 
 ἀσφάλεια (-ᾱς), ἡ, security, 36, 6.
 
-ἀσφαλής, -ές, secure, safe, 19,75; ἐκ τοῦ ἀσφαλοῦς, from a position of security, 48, 80.
+ἀσφαλής, -ές, secure, safe, 19,75; ἐκ τοῦ ἀσφαλοῦς, from a position of security, 48, 80.
 
 ἄτακτος, -ον, disorderly, undisciplined, 9, 3.
 
@@ -510,9 +498,9 @@ coast of the Morea, 37, 4.
 
 αὖθις, again, 14, 19.
 
-Αὐστρίᾱ (-ᾱς), ἡ, Austria, 6, 24.
+Αὐστρίᾱ (-ᾱς), ἡ, Austria, 6, 24.
 
-Αὐστρικός, -ή, -όν, Austrian, 12, 27.
+Αὐστρικός, -ή, -όν, Austrian, 12, 27.
 
 αὕτη, Fem. of οὗτος.
 
@@ -520,26 +508,25 @@ coast of the Morea, 37, 4.
 
 αὐτομολεῖν, desert, 10, 5.
 
-αὐτομολίᾱ (-ᾱς), ἡ, desertion; αὐτομολίᾳ χωρεῖν, to desert, 10, 10.
+αὐτομολίᾱ (-ᾱς), ἡ, desertion; αὐτομολίᾳ χωρεῖν, to desert, 10, 10.
 
 αὐτόμολος (-ου), ὁ, deserter, 10, 21.
 
 αὐτόνομος, -ον, independent 22, 21.
 
-αὐτός, -ή, -ό, (a) self, 8, 10; ἡμεῖς αὐτοί, we ourselves, 48, 2; καὶ αὐτοί, they too, 8, 18; (b) in oblique cases only, 3rd pers. pron., he, she, it, ἐν μέσῳ αὐτῶν, between them, 3, 3; (c) preceded by Article, the same; καὶ αὐτοὶ τὸ αὐτὸ ἔπρασσον, they too did the same, 8, 14.
+αὐτός, -ή, -ό, (a) self, 8, 10; ἡμεῖς αὐτοί, we ourselves, 48, 2; καὶ αὐτοί, they too, 8, 18; (b) in oblique cases only, 3rd pers. pron., he, she, it, ἐν μέσῳ αὐτῶν, between them, 3, 3; (c) preceded by Article, the same; καὶ αὐτοὶ τὸ αὐτὸ ἔπρασσον, they too did the same, 8, 14.
 
 αὐτοῦ, there, 41, 22.
 
 ἀφ'. See ἀπό.
 
-ἀφανής, -ές, unseen; ἐν ἀφανεῖ ἐστί, it is doubtful, 57, 1.
+ἀφανής, -ές, unseen; ἐν ἀφανεῖ ἐστί, it is doubtful, 57, 1.
 
 ἀφικέσθαι, Aor. of ἀφικνεῖσθαι.
 
-ἀφικνεῖσθαι (Aor. αφῑκόμην, Perf. ἀφῖγμαι), arrive, 28,3; arrive at (ἐς with Acc.), 20, 18.
+ἀφικνεῖσθαι (Aor. αφῑκόμην, Perf. ἀφῖγμαι), arrive, 28,3; arrive at (ἐς with Acc.), 20, 18.
 
-ἀφικόμενος, -η, -ον, having come, 8, 7.
-Str. Aor. Part. Mid. of ἀφικνεῖσθαι.
+ἀφικόμενος, -η, -ον, having come, 8, 7. Str. Aor. Part. Mid. of ἀφικνεῖσθαι.
 
 ἀφῖκτο, Plup. of ἀφικνεῖσθαι.
 
@@ -549,13 +536,13 @@ Str. Aor. Part. Mid. of ἀφικνεῖσθαι.
 
 βαίνειν, go, 14,4. Comp. ἀνα-, ἀπο-, δια-, ἐσ-, κατα-, μετα-, ξυμ-, παρα-, προ-.
 
-βάλλειν, throw, shoot, 88, 30; ὑπὸ τῶν πολεμίων βαλλόμενοι, under the enemy's fire, 15,19. Comp. ἀπο-, ἐκ-, ἐμ-, ἐπι-, ἐσ-, κατα-, περι-, προσ-.
+βάλλειν, throw, shoot, 88, 30; ὑπὸ τῶν πολεμίων βαλλόμενοι, under the enemy's fire, 15,19. Comp. ἀπο-, ἐκ-, ἐμ-, ἐπι-, ἐσ-, κατα-, περι-, προσ-.
 
 βάρβαρος (-ου), ὁ, foreigner, opp. to Ἕλλην, Greek, 30, 12.
 
-βαρύς, -εἴα, -ύ, heavy, 20, 27.
+βαρύς, -εἴα, -ύ, heavy, 20, 27.
 
-βασιλεύς (-έως), ὁ, king, used here for Sultan, 20, 8.
+βασιλεύς (-έως), ὁ, king, used here for Sultan, 20, 8.
 
 βέβαιος, -ον, secure, 30, 5.
 
@@ -567,13 +554,13 @@ Str. Aor. Part. Mid. of ἀφικνεῖσθαι.
 
 Βιέννη (-ης), ἡ, Vienna, the capital of Austria, 12, 29.
 
-βίος (-ου), ὁ, life, livelihood, 4, 22.
+βίος (-ου), ὁ, life, livelihood, 4, 22.
 
 βλάβη (-ης), ἡ, injury, 36, 2.
 
 βλάπτειν, injure, 86, 23.
 
-Βλαχίᾱ (-ᾱς), ἡ, Wallachia, a Turkish province lying between the Danube and the Carpathian Mountains, 6, 27.
+Βλαχίᾱ (-ᾱς), ἡ, Wallachia, a Turkish province lying between the Danube and the Carpathian Mountains, 6, 27.
 
 βοή (-ῆς), ἡ, shout, 81, 28.
 
@@ -583,21 +570,21 @@ Str. Aor. Part. Mid. of ἀφικνεῖσθαι.
 
 Βοιωτίᾱ (-ᾱς), ἡ, Boeotia, a district of Greece, N.W. of Attica, 34, 27.
 
-Βορέᾱς (-ον), ὁ, North wind, North; ἡ πρὸς Βορέαν μοῖρα, the northern part, 8, 4.
+Βορέᾱς (-ον), ὁ, North wind, North; ἡ πρὸς Βορέαν μοῖρα, the northern part, 8, 4.
 
 Βόσπορος (-ου), ὁ (lit. Ox-ford), Bosphorus, the strait connecting the Black Sea with the Sea of Marmora, 23, 24.
 
-Βοτζάρης (-ου), ὁ, Botzares, a Souliote chieftain, 40, 14.
+Βοτζάρης (-ου), ὁ, Botzares, a Souliote chieftain, 40, 14.
 
 Βουκουρέστιον (-ου), τό, Bukharest, the capital of Wallachia, 8, 21.
 
-Βουλγαρίᾱ (-ᾱς), ἡ, Bulgaria, a Turkish province lying between the Danube and the Balkan Mountains, 6, 24.
+Βουλγαρίᾱ (-ᾱς), ἡ, Bulgaria, a Turkish province lying between the Danube and the Balkan Mountains, 6, 24.
 
 Βουλγάριος (-ου), ὁ, Bulgarian, 49, 25.
 
-βούλεσθαι, wish, 18, 7; ἐστί μοι βουλομένῳ, I am willing, 42, 28.
+βούλεσθαι, wish, 18, 7; ἐστί μοι βουλομένῳ, I am willing, 42, 28.
 
-βουλεύειν, (A) Act., (a) deliberate; ὡς περὶ τῶν φόρων βουλεύσοντες, to discuss the question of taxes, 18, 16. (b) advise; ἐβούλευον ὅτι οὐκέτι χρὴ διατρίβειν, they advised that there should be no further delay, 6, 16; τάδε βουλεύω, I offer this advice, 88, 10. (c) determine; ἐβούλευον ὥσπερ κλέπται πολεμεῖν, they determined to carry on the war like clephts, 18, 14; τοιόνδε τι ἐβούλευον, they determined on the following plan, 18, 29. (B) Mid. (Aor. ἐβουλευσάμην), (a) deliberate; πρὸς τὸ κήρυγμα βουλεύεσθαι, to deliberate with reference to the message, 16, 15; so περὶ τῶν παρόντων, 38, 4; ἐβουλεύοντο εἴτε μετέχωσι τοῦ πολέμου, they deliberated whether they should take part in the war, 30, 9. (b) determine; ἐβουλεύοντο δίκην λαμβάνειν, they determined to take vengeance, 11, 26.
+βουλεύειν, (A) Act., (a) deliberate; ὡς περὶ τῶν φόρων βουλεύσοντες, to discuss the question of taxes, 18, 16. (b) advise; ἐβούλευον ὅτι οὐκέτι χρὴ διατρίβειν, they advised that there should be no further delay, 6, 16; τάδε βουλεύω, I offer this advice, 88, 10. (c) determine; ἐβούλευον ὥσπερ κλέπται πολεμεῖν, they determined to carry on the war like clephts, 18, 14; τοιόνδε τι ἐβούλευον, they determined on the following plan, 18, 29. (B) Mid. (Aor. ἐβουλευσάμην), (a) deliberate; πρὸς τὸ κήρυγμα βουλεύεσθαι, to deliberate with reference to the message, 16, 15; so περὶ τῶν παρόντων, 38, 4; ἐβουλεύοντο εἴτε μετέχωσι τοῦ πολέμου, they deliberated whether they should take part in the war, 30, 9. (b) determine; ἐβουλεύοντο δίκην λαμβάνειν, they determined to take vengeance, 11, 26.
 
 βουλευτήριον (-ου), τό, council-chamber, 40, 8.
 
@@ -613,7 +600,7 @@ Str. Aor. Part. Mid. of ἀφικνεῖσθαι.
 
 Γαλλίᾱ (-ᾱς), ἡ, France, 88, 24.
 
-Γαλλικός, -ή, -όν, French, 82, 1.
+Γαλλικός, -ή, -όν, French, 82, 1.
 
 Γάλλος (-ου), ὁ, Frenchman, 88, 20.
 
@@ -629,8 +616,7 @@ Str. Aor. Part. Mid. of ἀφικνεῖσθαι.
 
 γενήσεται, Fut. of γίγνεσθαι.
 
-γενόμενος, -η, -ον, becoming, being, 6, 8; τὰ γενόμενα, the events, 12, 8. Aor.
-Part. of γίγνεσθαι.
+γενόμενος, -η, -ον, becoming, being, 6, 8; τὰ γενόμενα, the events, 12, 8. Aor. Part. of γίγνεσθαι.
 
 γένος (-ους), τό, birth, race, 82, 8.
 
@@ -638,17 +624,17 @@ Part. of γίγνεσθαι.
 
 γέφῑρα (-ᾱς), ἡ, bridge, 11, 28.
 
-Γεωργάκης (-ου), ὁ, Georgaki, the Greek commander of the garrison at Bukharest, 7, 11.
+Γεωργάκης (-ου), ὁ, Georgaki, the Greek commander of the garrison at Bukharest, 7, 11.
 
 γεωργός (-ου), ὁ, farmer, 4, 19.
 
 γῆ (-ῆς), ἡ, land, 8, 1; κατὰ γῆν, by land, 33, 1.
 
-γίγνεσθαι (Aor. ἐγενόμην, Fut. γενήσομαι, Perf. γεγένημαι, Str. Perf. γέγονα), (a) be born; ἑβδομήκοντα ἔτη γεγονώς, being seventy years old, 82, 11. (b) happen, take place; ἡ ἀρχὴ τοῦ πολέμου γίγνεται, the beginning of the war takes place, 18, 11; τὰ γενόμενα, the events, 18, 20; it is often used as the Pass. of ποιεῖσθαι (q.v.), ἐπειδὴ ἡ ἔφοδος ἐγένετο, when the attack was made, 28, 24. (c) With Predicates, become, be, (i.) Adj. χρονία ἐγένετο ἡ πολιορκία, the siege was prolonged, 26, 24, (ii.) Subs. διδάσκαλος γενόμενος, becoming a schoolmaster, 28, 17. (iii.) Adv. ὅπως ἐμποδὼν γενήσονται τῷ Σουλτάνῳ μὴ πέμπειν βοήθειαν, to prevent the Sultan sending help, 28, 10. Comp. ἐπι-, παρα-, περι-.
+γίγνεσθαι (Aor. ἐγενόμην, Fut. γενήσομαι, Perf. γεγένημαι, Str. Perf. γέγονα), (a) be born; ἑβδομήκοντα ἔτη γεγονώς, being seventy years old, 82, 11. (b) happen, take place; ἡ ἀρχὴ τοῦ πολέμου γίγνεται, the beginning of the war takes place, 18, 11; τὰ γενόμενα, the events, 18, 20; it is often used as the Pass. of ποιεῖσθαι (q.v.), ἐπειδὴ ἡ ἔφοδος ἐγένετο, when the attack was made, 28, 24. (c) With Predicates, become, be, (i.) Adj. χρονία ἐγένετο ἡ πολιορκία, the siege was prolonged, 26, 24, (ii.) Subs. διδάσκαλος γενόμενος, becoming a schoolmaster, 28, 17. (iii.) Adv. ὅπως ἐμποδὼν γενήσονται τῷ Σουλτάνῳ μὴ πέμπειν βοήθειαν, to prevent the Sultan sending help, 28, 10. Comp. ἐπι-, παρα-, περι-.
 
 γιγνώσκειν (Aor. ἔγνων), know, (i.) Acc., 4, 56; (ii.) ὅτι, 50, 25. Comp. ἀνα-.
 
-γνώμη (-ης), ἡ, (a) judgment; γνώμῃ οὐδενὸς ὕστερος, second to none in judgment, 31, 28; πρὸς τὸ ἔργον τὴν γνώμην προσέχειν, to attend to the work, 88, 20. (b) inclination, purpose; τὴν γνώμην ἔχειν πρός (Acc.), to be inclined towards, 29, 16; γνώμη ἐστὶν αὐτῷ, it is his intention, 6, 30. (c) opinion; παρὰ γνώμην, contrary to expectation, 4, 2. (d) resolution, proposal; γνώμην ποιεῖσθαι (28, 80), προφέρειν (10, 9), or ἔχειν (9, 24), to propose, resolve.
+γνώμη (-ης), ἡ, (a) judgment; γνώμῃ οὐδενὸς ὕστερος, second to none in judgment, 31, 28; πρὸς τὸ ἔργον τὴν γνώμην προσέχειν, to attend to the work, 88, 20. (b) inclination, purpose; τὴν γνώμην ἔχειν πρός (Acc.), to be inclined towards, 29, 16; γνώμη ἐστὶν αὐτῷ, it is his intention, 6, 30. (c) opinion; παρὰ γνώμην, contrary to expectation, 4, 2. (d) resolution, proposal; γνώμην ποιεῖσθαι (28, 80), προφέρειν (10, 9), or ἔχειν (9, 24), to propose, resolve.
 
 γνωρίζειν, recognise, 41, 2.
 
@@ -658,26 +644,25 @@ Part. of γίγνεσθαι.
 
 γοῦν (enclitic), at any rate, 5, 6.
 
-γραμματεύς (-έως), ὁ, secretary, a Turkish official, 20, 1.
+γραμματεύς (-έως), ὁ, secretary, a Turkish official, 20, 1.
 
-γράφειν (Aor. ἔγραψα), write, 8,8. Comp.
-ἐγ-, ἐσ-.
+γράφειν (Aor. ἔγραψα), write, 8,8. Comp. ἐγ-, ἐσ-.
 
 Γρηγόριος (-ου), ὁ, Gregory, the Patriarch of the Greek Orthodox Church, 19, 27.
 
-γυνή (-αικός), ἡ, woman, 27, 1.
+γυνή (-αικός), ἡ, woman, 27, 1.
 
 Γῶγος (-ου), ὁ, Gogos, an Albanian chieftain, 32, 10.
 
-Δάνεισμα (-ατος), τό, loan; δάνεισμα ποιεῖσθαι, to raise a loan, 46, 8.
+δάνεισμα (-ατος), τό, loan; δάνεισμα ποιεῖσθαι, to raise a loan, 46, 8.
 
-Δανίᾱς (-ου), ὁ, Dania, the captain of the corps of Philhellenes, 32, 7.
+Δανίᾱς (-ου), ὁ, Dania, the captain of the corps of Philhellenes, 32, 7.
 
-δαπανᾶν, spend; χρήματα δαπανᾶν ἐς ἐσθῆτα, to spend money on clothing, 46, 30.
+δαπανᾶν, spend; χρήματα δαπανᾶν ἐς ἐσθῆτα, to spend money on clothing, 46, 30.
 
 δαπάνη (-ἡς), ἡ; expense, 88, 12.
 
-δᾷς (δᾳδός [MACRON]), ἡ, torch; as collective noun pine-wood, 24, 3.
+δᾷς (δᾳδός [MACRON]), ἡ, torch; as collective noun pine-wood, 24, 3.
 
 δέ (enclitic), but, 8, 14; often answering to μέν, 83, 2; δ' οὖν resumes the narrative after a digression, so then, 7, 4.
 
@@ -690,11 +675,9 @@ Abs., it being necessary, 48, 1.
 
 δεῖν, (B) (a) Act., lack (Gen.); εἴκοσι δυοῖν δέοντα, twenty lacking two, i.e., eighteen, 88, 20. (b) Mid. be in want of (Gen.); χρημάτων δεῖσθαι, to be in want of money, 47, 2.
 
-δεινός, -ή, -όν, terrible, 5, 1, serious, 9, 14, dangerous, 20,5; δεινόν ἐστι μή, there is danger lest, 80, 11.
+δεινός, -ή, -όν, terrible, 5, 1, serious, 9, 14, dangerous, 20,5; δεινόν ἐστι μή, there is danger lest, 80, 11.
 
-δεῖσαι, fear (μή), 88, 19. The Pres.
-δείδω, from which this Weak Aor.
-ἔδεισα comes, is not used in Attic Prose.
+δεῖσαι, fear (μή), 88, 19. The Pres. δείδω, from which this Weak Aor. ἔδεισα comes, is not used in Attic Prose.
 
 δέκατος, -η, -ον, tenth; ἡ δεκάτη, the tenth part, tithe, 4, 27.
 
@@ -702,7 +685,7 @@ Abs., it being necessary, 48, 1.
 
 δέξασθαι, Aor. of δέχεσθαι.
 
-δεξιός, -ᾱ́, -όν, right, opp. to ἀριστερός, left, 40, 26.
+δεξιός, -ᾱ́, -όν, right, opp. to ἀριστερός, left, 40, 26.
 
 δέον, Part. of δεῖ,
 
@@ -736,17 +719,17 @@ Abs., it being necessary, 48, 1.
 
 δήσᾱς, -ᾱσα, -αν, having imprisoned, 4, 25. Wk. Aor. Part of δεῖν (A).
 
-δι'. See διά
+δι'. See διά
 
 διά, Prep. with Gen. and Acc. (i.) With Gen. (a) of place through; φέρουσιν ὁδοὶ διὰ τῶν λόφων, roads through the hills, 4, 3; διὰ τῶν πολεμίων βιάζεσθαι, to force one's way through the enemy, 16, 24; διὰ χειρὸς ἔχειν, to control, 41, 8. (b) of time, denoting the interval; oυ διὰ μακροῦ, at no long interval of time, 18, 1. (c) of means; διὰ προδοτῶν ἔμαθον τὰ περὶ τῆς ξυνωμοσίας, they learnt about the conspiracy by means of traitors, 7, 11; δι' ἁρπαγῆς ἔχουσι τὴν τροφήν, they maintain themselues by plunder, 4, 29. (d) of circumstances; διὰ φόβου εἶναι, to be in a state of fear, 88, 24; διὰ μάχης ἰέναι τινί, to fight some one, 81, 4. (ii.) With Acc., on account of; διὰ τὸν πλοῦτον τιμὴν προσλαμβάνει, he wins honour on account of his wealth, 8, 10. In Comp. (a) through, διαβαίνειν, to cross; (b) denoting completeness, διαφθείρειν, to destroy utterly; (c) denoting separation, διατάσσειν, to arrange at intervals; (d) denoting reciprocity, διαλέγεσθαι, to converse.
 
 διαβαίνειν (Aor. διέβην), cross, 12, 25.
 
-διαβᾱ́ς, -ᾱσα, -άν, having crossed, 7, 22. Str. Aor. Part. of διαβαίνειν.
+διαβᾱ́ς, -ᾱσα, -άν, having crossed, 7, 22. Str. Aor. Part. of διαβαίνειν.
 
-διαβατός, -ή, -όν, fordable, passable, 3, 16.
+διαβατός, -ή, -όν, fordable, passable, 3, 16.
 
-δίαιτα (-ης), ἡ, mode of life; τὴν δίαιταν ἄγειν, to live, 4, 18.
+δίαιτα (-ης), ἡ, mode of life; τὴν δίαιταν ἄγειν, to live, 4, 18.
 
 διαιτᾶσθαι, live, 44, 8.
 
@@ -768,8 +751,7 @@ Abs., it being necessary, 48, 1.
 
 διασῴζειν, (a) Act. save; (b) Pass. (Aor. διεσώθην), escape, 18, 3.
 
-διατάσσειν (Aor. διέταξα, Perf. Pass.
-διατέταγμαι), draw up in detachments, 38, 11.
+διατάσσειν (Aor. διέταξα, Perf. Pass. διατέταγμαι), draw up in detachments, 38, 11.
 
 διατελεῖν, continue (with Part.), 17, 27.
 
@@ -783,7 +765,7 @@ Abs., it being necessary, 48, 1.
 
 διάφευξις (-εως), ἡ, escape, 88, 11.
 
-διαφθείρειν, (a) Act. kill, 48, 25; ruin, 35, 6. (b) Pass. (Aor. διεφθάρην, Perf. διέφθαρμαι), perish, 24, 13; be killed, 26, 10.
+διαφθείρειν, (a) Act. kill, 48, 25; ruin, 35, 6. (b) Pass. (Aor. διεφθάρην, Perf. διέφθαρμαι), perish, 24, 13; be killed, 26, 10.
 
 διάφορος, -ον, disagreeing; διάφοροι γενόμενοι, being at variance, 9, 5.
 
@@ -793,7 +775,7 @@ Abs., it being necessary, 48, 1.
 
 διελεγόμεθα, Past Impft. of διαλέγεσθαι.
 
-διελθεῖν, pass through, make one's way through, 82, 26. Str. Aor. of διέρχομαι.
+διελθεῖν, pass through, make one's way through, 82, 26. Str. Aor. of διέρχομαι.
 
 διενοήθην, Aor. of διανοεῖσθαι.
 
@@ -803,13 +785,13 @@ Abs., it being necessary, 48, 1.
 
 διέπεμψε, Aor. of διαπέμπειν.
 
-διερμηνεύς (-έως), ὁ, interpreter; ὁ μέγας Διερμηνεύς, the chief Dragoman, a Turkish official, 19, 29.
+διερμηνεύς (-έως), ὁ, interpreter; ὁ μέγας Διερμηνεύς, the chief Dragoman, a Turkish official, 19, 29.
 
 διεσκόπουν, Past Impft. of διασκοπεῖν.
 
 διεσῴζοντο, Past Impft. Pass. of διασῴζειν.
 
-διεσώθηαν, Aor. Pass, of διασῴζειν.
+διεσώθηαν, Aor. Pass, of διασῴζειν.
 
 διέστησαν, Aor. of διιστάναι.
 
@@ -817,7 +799,7 @@ Abs., it being necessary, 48, 1.
 
 διετέλουν, Past Impft. of διατελεῖν.
 
-διέτρῑβε, Past Impft. of διατρίβειν.
+διέτρῑβε, Past Impft. of διατρίβειν.
 
 διεφθάρησαν, Aor. Pass. of διαφθείρειν.
 
@@ -835,7 +817,7 @@ Abs., it being necessary, 48, 1.
 
 δικαίως, justly, 42, 6.
 
-δίκη (-ης), ἡ, (a) lawsuit; τὰς δίκας κρίνουσι, they decide cases, 8, 20. (b) penalty; δίκην λαμβάνειν παρὰ τῶν αἰτίων, to punish the guilty, 8, 17. δίκην λαμβάνειν τῶν πρὶν παθημάτων, to take vengeance for their past wrongs, 11, 26.
+δίκη (-ης), ἡ, (a) lawsuit; τὰς δίκας κρίνουσι, they decide cases, 8, 20. (b) penalty; δίκην λαμβάνειν παρὰ τῶν αἰτίων, to punish the guilty, 8, 17. δίκην λαμβάνειν τῶν πρὶν παθημάτων, to take vengeance for their past wrongs, 11, 26.
 
 δίς, twice, 88, 15.
 
@@ -853,7 +835,7 @@ Abs., it being necessary, 48, 1.
 
 δόξαι, Aor. of δοκεῖν.
 
-δουλείᾱ (-ᾱς), ἡ, slavery, 88, 24.
+δουλείᾱ (-ᾱς), ἡ, slavery, 88, 24.
 
 Δραγασάνιον (-ου), τό, Dragashan, a village in Western Wallachia, 11, 2.
 
@@ -869,17 +851,17 @@ Abs., it being necessary, 48, 1.
 
 δύνασθαι (Fut. δυνήσομαι), be able, 48, 23.
 
-δυνατός, -ή, -όν, (a) powerful, 81, 3. (b) able, 82, 25; δυνατόν ἐστι, it is possible, 24,8; κατὰ τὸ δυνατόν, 44, 18, or ἐκ τῶν δυνατῶν, 54, 1, to the best of one's ability.
+δυνατός, -ή, -όν, (a) powerful, 81, 3. (b) able, 82, 25; δυνατόν ἐστι, it is possible, 24,8; κατὰ τὸ δυνατόν, 44, 18, or ἐκ τῶν δυνατῶν, 54, 1, to the best of one's ability.
 
 δύο (Gen. δυοῖν, 32, 20, or δύο, 88, 2), two, 8, 2.
 
 δῶρον (-ου) τό, gift; μετὰ δώρων, bribed.
 
-Ἑᾱ́λωσαν, Aor. of ἁλίσκεσθαι.
+ἑᾱ́λωσαν, Aor. of ἁλίσκεσθαι.
 
-έαρ (Gen. ἦρος, Dat. ἦρι), τό, spring; ἅμα τῷ ἦρι εὐθὺς ἀρχομένῳ, at the very beginning of the spring, 29, 1.
+έαρ (Gen. ἦρος, Dat. ἦρι), τό, spring; ἅμα τῷ ἦρι εὐθὺς ἀρχομένῳ, at the very beginning of the spring, 29, 1.
 
-ἑαυτόν, -ήν, -ό, Direct Reflexive, himself, herself, itself; κατὰ κρημνῶν ῥίττοντες ἑαυτούς, throwing themselves down precipices, 89, 8; τὸ ἑαντῶν στρατόπεδον ἀπολιπόντες, leaving their own camp, 81,15; τολμηρότεpoι ἑαυτῶν γενόμενοι, increasing in courage, 87, 28; τοὺς ἑαυτοῦ ἔχων, with his own men, 81, 2; τὰ ἑαυτῶν μόνον σκοποῦντες, only regarding their own interests, 46, 10.
+ἑαυτόν, -ήν, -ό, Direct Reflexive, himself, herself, itself; κατὰ κρημνῶν ῥίττοντες ἑαυτούς, throwing themselves down precipices, 89, 8; τὸ ἑαντῶν στρατόπεδον ἀπολιπόντες, leaving their own camp, 81,15; τολμηρότεpoι ἑαυτῶν γενόμενοι, increasing in courage, 87, 28; τοὺς ἑαυτοῦ ἔχων, with his own men, 81, 2; τὰ ἑαυτῶν μόνον σκοποῦντες, only regarding their own interests, 46, 10.
 
 ἑβδομήκοντα, seventy, 82, 10.
 
@@ -891,7 +873,7 @@ Abs., it being necessary, 48, 1.
 
 ἐγένετο, Aor. of γίγνεσθαι.
 
-ἐγκαταλείπειν (Aor. Pass. ἐγκατελείφθην), leave in, 80, 19.
+ἐγκαταλείπειν (Aor. Pass. ἐγκατελείφθην), leave in, 80, 19.
 
 ἔγνωσαν, Aor. of γιγνώσκειν.
 
@@ -911,7 +893,7 @@ Abs., it being necessary, 48, 1.
 
 ἔθνος (-ους), τό, nation, 58, 23.
 
-εἰ, (i.) in Conditions, (a) with Ind. if, Pres., 86, 18, Fut., 18, 22, Past Impft., 26, 20, Aor., 58, 2, Plup., 41, 28. (b) With Optat. if ever, 52, 5; εἴ πως τὴν πόλιν προσαγάγοιτο, in hopes of winning over the city, 88, 12. (c) Elliptically, πιστὸς ἦν, εἴ τις καὶ ἄλλος, he was as loyal as any one else, 8, 23; εἰ μή, except, 82, 80. (ii.) In Indirect Questions, whether; ἤρετο εἰ βουλομένῳ μοί ἐστι δέχεσθαι αὐτόν, he asked whether I was willing to receive him, 42, 26.
+εἰ, (i.) in Conditions, (a) with Ind. if, Pres., 86, 18, Fut., 18, 22, Past Impft., 26, 20, Aor., 58, 2, Plup., 41, 28. (b) With Optat. if ever, 52, 5; εἴ πως τὴν πόλιν προσαγάγοιτο, in hopes of winning over the city, 88, 12. (c) Elliptically, πιστὸς ἦν, εἴ τις καὶ ἄλλος, he was as loyal as any one else, 8, 23; εἰ μή, except, 82, 80. (ii.) In Indirect Questions, whether; ἤρετο εἰ βουλομένῳ μοί ἐστι δέχεσθαι αὐτόν, he asked whether I was willing to receive him, 42, 26.
 
 εἶδον. See ἰδεῖν.
 
@@ -961,14 +943,13 @@ Abs., it being necessary, 48, 1.
 
 ἐκεῖσε, thither, 88, 25.
 
-ἐκεχειρίᾱ (-ᾱς), ἡ, armistice, 81, 6.
+ἐκεχειρίᾱ (-ᾱς), ἡ, armistice, 81, 6.
 
 ἐκκλησίᾱ (-ᾱς), ἡ, assembly, 21, 22.
 
 ἐκλείπειν (Aor. ἐξέλιπον), evacuate, 11,29.
 
-ἐκπέμπειν (Aor. Act, ἐξέπεμψα, Pass.
-ἐξεπέμφθην), send out, despatch, 98,7.
+ἐκπέμπειν (Aor. Act, ἐξέπεμψα, Pass. ἐξεπέμφθην), send out, despatch, 98,7.
 
 ἐκπεπολιορκημένος, Perf. Pass. Part. of ἐκπολιορκεῖν.
 
@@ -980,13 +961,13 @@ Abs., it being necessary, 48, 1.
 
 ἐκπλεῖν (Aor. ἐξέπλευσα), sail out, 28, 25.
 
-ἐκπληκτικός, -ή, -όν, bewildering, 21, 17.
+ἐκπληκτικός, -ή, -όν, bewildering, 21, 17.
 
 ἔκπληξις (-εως), ἡ, panic, consternation, 19, 26; καταστῆναι ἐς ἔκπληξιν, to be panic-struck, 48, 1.
 
 ἐκπλήσσειν, (a) Act. (Aor. ἐξέπληξα), alarm, cowe [SIC], 19, 24; (b) Pass. (Aor. ἐξεπλάγην), be alarmed, 42, 12, be astonished, 43, 18.
 
-ἐκπολιορκεῖν (Pass. Fut. ἐκπολιορκηθήσομαι, Perf. ἐκπεπολιόρκημαι, take by siege, 28, 14.
+ἐκπολιορκεῖν (Pass. Fut. ἐκπολιορκηθήσομαι, Perf. ἐκπεπολιόρκημαι, take by siege, 28, 14.
 
 ἕκτος, -η, -ον, sixth, 14, 26.
 
@@ -1014,15 +995,15 @@ Abs., it being necessary, 48, 1.
 
 ἐλθεῖν, come, go, 1,13; ἐς χεῖρας ἐλθεῖν, to come to close quarters, 28, 28. Str. Aor. of ἔρχομαι. For Comp. see ἔρχομαι.
 
-Ἑλλάς (-άδος), ἡ, Greece, 8, 1.
+Ἑλλάς (-άδος), ἡ, Greece, 8, 1.
 
 Ἕλλην (-ηνος), ὁ, Greek, 18, 2.
 
-Ἑλληνικός, -ή, -όν, Greek, 4, 16; τὰ Ἑλληνικά, the Greek War, 48, 2.
+Ἑλληνικός, -ή, -όν, Greek, 4, 16; τὰ Ἑλληνικά, the Greek War, 48, 2.
 
 ἐλπίζειν (Aor. ἤλπισα), hope (with Fut. Inf.), 18, 23.
 
-ἐλπίς (-ίδος), ἡ, hope, 12, 25; ἐν ἐλπίδι εἶναι (with Inf.), to be in hopes of, 8, 28.
+ἐλπίς (-ίδος), ἡ, hope, 12, 25; ἐν ἐλπίδι εἶναι (with Inf.), to be in hopes of, 8, 28.
 
 ἑλώδης, -ες, marshy, 48, 27.
 
@@ -1042,7 +1023,7 @@ Abs., it being necessary, 48, 1.
 
 ἐμπειρότατος, -η, -ον, most experienced, 28, 30. Superl. of ἔμπειρος.
 
-ἐμπιμπράναι (Aor, Act. ἐνέπρησα, Pass. ἐνεπρήσθην), burn, 81, 16.
+ἐμπιμπράναι (Aor, Act. ἐνέπρησα, Pass. ἐνεπρήσθην), burn, 81, 16.
 
 ἐμπίπτειν (Aor. ἐνέπεσον), fall on; ἀθυμία or ἔκπληξις ἐνέπεσεν αὐτῷ, he was filled with despondency or consternation, 12, 20, 81, 2.
 
@@ -1060,7 +1041,7 @@ Abs., it being necessary, 48, 1.
 
 ἔμψῡχος, -ον, alive, 58, 11.
 
-ἐν, Prep. with Dat., in, at, among, (a) of place; ἐν μέσῳ, in the middle, 8, 2; ἐν τῇ ξυγγραξῇ, in the history, 8, 8; ἐν τῇ ἠπείρῳ, on the mainland, 3,14; ἐν πᾶσιν ἀνθρώποις, among all men, 44,12. (b) Of time; ἐν τῇ χειμερινῇ ὥρᾳ, in the winter season, 8, 15; ἐν καιρῳ, opportunely, 10, 9; ἐν τούτῳ, meanwhile, 28,14; ἐν ὑστέρῳ, subsequently, 38, 6. (c) Of persons and things; οἱ ἐν τέλει, those in authority, 20, 22; ἐν ὅπλοις, under arms, 1, 17; ἐν τάχει, quickly, 22, 14; often with ἔχειν, ποιεῖσθαι, εἶναι, ἐν ὀλιγωρίᾳ ἔχειν or ποιεῖσθαι, to hold in contempt, 5, 9, 29, 11; ἐν ὑποψίᾳ ἔχειν, to regard with suspicion, 19, 21; ἐν νῷ ἔχειν, to intend, 29, 2; ἐν παρασκευῇ εἶναι, to be engaged in preparations, 5, 26; ἐν ἐλπίδι εἶναι, to be hopeful, 8, 28; ἐν ἔριδι εἶναι, to be at variance, 9, 5; ἐν ἀξιώματι εἶναι, to be held in honour, 18, 16; ἐν φόβῳ, κινδύνῳ, ἀθυμίᾳ, ταραχῇ, θορύβῳ, κ.τ.λ., εἶναι, to in alarm, danger, despondency, confusion, etc., 15, 15, 28, 22, 35, 8, 45, 10, 87, 3. In Comp. in, on, ἐνεῖναι, to be in, ἐμβάλλειν, to throw on.
+ἐν, Prep. with Dat., in, at, among, (a) of place; ἐν μέσῳ, in the middle, 8, 2; ἐν τῇ ξυγγραξῇ, in the history, 8, 8; ἐν τῇ ἠπείρῳ, on the mainland, 3,14; ἐν πᾶσιν ἀνθρώποις, among all men, 44,12. (b) Of time; ἐν τῇ χειμερινῇ ὥρᾳ, in the winter season, 8, 15; ἐν καιρῳ, opportunely, 10, 9; ἐν τούτῳ, meanwhile, 28,14; ἐν ὑστέρῳ, subsequently, 38, 6. (c) Of persons and things; οἱ ἐν τέλει, those in authority, 20, 22; ἐν ὅπλοις, under arms, 1, 17; ἐν τάχει, quickly, 22, 14; often with ἔχειν, ποιεῖσθαι, εἶναι, ἐν ὀλιγωρίᾳ ἔχειν or ποιεῖσθαι, to hold in contempt, 5, 9, 29, 11; ἐν ὑποψίᾳ ἔχειν, to regard with suspicion, 19, 21; ἐν νῷ ἔχειν, to intend, 29, 2; ἐν παρασκευῇ εἶναι, to be engaged in preparations, 5, 26; ἐν ἐλπίδι εἶναι, to be hopeful, 8, 28; ἐν ἔριδι εἶναι, to be at variance, 9, 5; ἐν ἀξιώματι εἶναι, to be held in honour, 18, 16; ἐν φόβῳ, κινδύνῳ, ἀθυμίᾳ, ταραχῇ, θορύβῳ, κ.τ.λ., εἶναι, to in alarm, danger, despondency, confusion, etc., 15, 15, 28, 22, 35, 8, 45, 10, 87, 3. In Comp. in, on, ἐνεῖναι, to be in, ἐμβάλλειν, to throw on.
 
 ἕνα, Acc. Masc. of εἷς.
 
@@ -1078,11 +1059,11 @@ Abs., it being necessary, 48, 1.
 
 ἔνδον, Adv., within; οἱ ἔνδον, those in the place, 14, 21.
 
-ἐνέβαλον, Aor. of ἐμβάλλειν.
+ἐνέβαλον, Aor. of ἐμβάλλειν.
 
-ἐνεγέγραπτο, Plup. Pass. ἐγγράφειν.
+ἐνεγέγραπτο, Plup. Pass. ἐγγράφειν.
 
-ἐνεδίδοσαν, Past Impft. of ἐνδιδόναι.
+ἐνεδίδοσαν, Past Impft. of ἐνδιδόναι.
 
 ἐνέδρᾱ (-ᾱς), ἡ, ambuscade, 18, 17.
 
@@ -1106,11 +1087,11 @@ Abs., it being necessary, 48, 1.
 
 ἐνέτυχον, Aor. of τυγχάνειν.
 
-ἐνεχείριζε, Past Impft. of ἐγχειρίζειν.
+ἐνεχείριζε, Past Impft. of ἐγχειρίζειν.
 
 ἐνῆγε, Past Impft. of ἐνάγειν.
 
-ἐνήδρευον, Past Impft. of ἐνεδρεύειν.
+ἐνήδρευον, Past Impft. of ἐνεδρεύειν.
 
 ἐνῆν, Past Impft. of ἐνεῖναι.
 
@@ -1120,7 +1101,7 @@ Abs., it being necessary, 48, 1.
 
 ἑνί, Dat. of εἷς.
 
-ἐνιαυτός (-οῦ), ὁ, year, 18, 10; κατ' ἐνιαυτόν, year by year, 6, 28.
+ἐνιαυτός (-οῦ), ὁ, year, 18, 10; κατ' ἐνιαυτόν, year by year, 6, 28.
 
 ἑνός, Gen. of εἷς.
 
@@ -1184,8 +1165,7 @@ Abs., it being necessary, 48, 1.
 
 ἐπακολουθεῖν, follow (Dat.), 88, 28.
 
-ἐπαναστᾱ́ς, -ᾶσα, -άν, having rebelled; οἱ ἐπαναστάντες, the rebels, 41, 4. Str.
-Aor. Part. of ἐπανιστάναι.
+ἐπαναστᾱ́ς, -ᾶσα, -άν, having rebelled; οἱ ἐπαναστάντες, the rebels, 41, 4. Str. Aor. Part. of ἐπανιστάναι.
 
 ἐπανάστασις (-εως), ἡ, rebellion, 18, 21; ἡ ἐπανάστασις τῆς Γαλλίας, the French Revolution, 22, 24.
 
@@ -1219,7 +1199,7 @@ Aor. Part. of ἐπανιστάναι.
 
 ἐπελθεῖν, (a) advance, 13, 22. (b) attack, (i.) ἐπί with Acc., 17, 21; (ii.) Dat., 86, 26. Str. Aor. of ἐπέρχομαι.
 
-ἐπεμείγνυντο, Past Impft. of ἐπιμείγνυσθαι.
+ἐπεμείγνυντο, Past Impft. of ἐπιμείγνυσθαι.
 
 ἐπενόησε, Aor. of ἐπινοεῖν.
 
@@ -1343,11 +1323,11 @@ Aor. Part. of ἐπανιστάναι.
 
 ἔρριψαν, Aor, of ῥίπτειν.
 
-ἔρυμα (-ατος) τό, breast-work, rampart, 16, 10.
+ἔρυμα (-ατος) τό, breast-work, rampart, 16, 10.
 
-ἔρχομαι, I come, 86, 20. Only used in Pres. Ind.; the other Moods and the Past Impft. are supplied by ἰέναι; Str. Aor. ἦλθον, Perf. ἐλήλυθα, Comp. of ἔρχομαι, ἐλθεῖν and ἱέναι, ἀν-, ἀπ-, δι-, ἐξ-, ἐπ-, ἐπαν-, ἐπεξ-, ἐσ-, κατ-, ξυν-, παρ-, περι-, προ-, προσ-.
+ἔρχομαι, I come, 86, 20. Only used in Pres. Ind.; the other Moods and the Past Impft. are supplied by ἰέναι; Str. Aor. ἦλθον, Perf. ἐλήλυθα, Comp. of ἔρχομαι, ἐλθεῖν and ἱέναι, ἀν-, ἀπ-, δι-, ἐξ-, ἐπ-, ἐπαν-, ἐπεξ-, ἐσ-, κατ-, ξυν-, παρ-, περι-, προ-, προσ-.
 
-ἐς, Prep. with Acc. (a) of place, into, to; ἐσπίπτει ἐς τὸν κόλπον, it falls into the gulf, 4, 1. (b) Of number and measure, ἐς διακοσίους, to the number of two hundred, 1, 28; ἐς τὰ μακρότατα, 30, 24, or ἐς τὰ μάλιστα, 88, 11, to the highest degree. (c) Of things and persons, προάγειν ἐς τὸν πόλεμον, to urge on to war, 5, 5; ἐς τὰ ναυτικὰ ἔμπειροι, experienced with regard to naval matters, 22, 4; ἁμαρτάνειν ἐς τοὺς Ἕλληνας, to commit crimes against the Greeks, 22, 8; παρασκευάζεσθαι ὡς ἐς πόλεμον, to make preparations for war, 17, 20; δαπανᾶν ἐς ἐσθῆτα, to spend money on clothes, 46, 80. In Comp., in, into, ἐσάγειν, to import.
+ἐς, Prep. with Acc. (a) of place, into, to; ἐσπίπτει ἐς τὸν κόλπον, it falls into the gulf, 4, 1. (b) Of number and measure, ἐς διακοσίους, to the number of two hundred, 1, 28; ἐς τὰ μακρότατα, 30, 24, or ἐς τὰ μάλιστα, 88, 11, to the highest degree. (c) Of things and persons, προάγειν ἐς τὸν πόλεμον, to urge on to war, 5, 5; ἐς τὰ ναυτικὰ ἔμπειροι, experienced with regard to naval matters, 22, 4; ἁμαρτάνειν ἐς τοὺς Ἕλληνας, to commit crimes against the Greeks, 22, 8; παρασκευάζεσθαι ὡς ἐς πόλεμον, to make preparations for war, 17, 20; δαπανᾶν ἐς ἐσθῆτα, to spend money on clothes, 46, 80. In Comp., in, into, ἐσάγειν, to import.
 
 ἐσάγειν (Aor. ἐσήγαγον), import. 29, 4.
 
@@ -1355,7 +1335,7 @@ Aor. Part. of ἐπανιστάναι.
 
 ἐσβάλλειν (Fut. ἐσβαλῶ, Aor. ἐσέβαλον), (a) invade (ἐς with Acc.), 34, 23. (b) fall into (of rivers), 88, 29.
 
-ἐσβᾱ́ς, -ᾶσα, -άν, having embarked, 20, 25. Str, Aor. Part. of ἐσβαίνειν. 
+ἐσβᾱ́ς, -ᾶσα, -άν, having embarked, 20, 25. Str, Aor. Part. of ἐσβαίνειν. 
 
 ἐσβολή (-ῆς), ἡ, invasion, 88, 80.
 
@@ -1413,7 +1393,7 @@ Aor. Part. of ἐπανιστάναι.
 
 ἐστί(ν), 3rd Sing. Pres. Indic. of εἶναι.
 
-ἐστρατοπεδευμένος, Perf. Part. of στρατοπεδεύεσθαι.
+ἐστρατοπεδευμένος, Perf. Part. of στρατοπεδεύεσθαι.
 
 ἐσφέρεσθαι, rush in, 39, 6.
 
@@ -1421,9 +1401,9 @@ Aor. Part. of ἐπανιστάναι.
 
 ἐσώθησαν, Aor. Pass. of σῴζειν.
 
-Ἑταιρίᾱ (-ᾱς), ἡ, society; ἡ Φιλικὴ Ἑταιρία, the Philike Hetairia or Association of Friends, a Greek Revolutionary Society, 6, 15.
+Ἑταιρίᾱ (-ᾱς), ἡ, society; ἡ Φιλικὴ Ἑταιρία, the Philike Hetairia or Association of Friends, a Greek Revolutionary Society, 6, 15.
 
-Ἑταιριστής (-οῦ), ὁ, Hetairist, a member of the above Society, 6, 16.
+Ἑταιριστής (-οῦ), ὁ, Hetairist, a member of the above Society, 6, 16.
 
 ἐτεθνήκεσαν, Plup. of ἀποθνῄσκειν.
 
@@ -1441,8 +1421,7 @@ Aor. Part. of ἐπανιστάναι.
 
 εὖ, well, carefully, 88, 25; εὖ παρέχει, there is a favourable opportunity, 16, 29.
 
-Εὔβοια (-ᾱς), ἡ, Euboea, an island N.E.
-of Boeotia and Attica, 4, 9.
+Εὔβοια (-ᾱς), ἡ, Euboea, an island N.E. of Boeotia and Attica, 4, 9.
 
 εὐδοξότατος, -η, -ον, most famous. Superl. of εὔδοχος.
 
@@ -1450,7 +1429,7 @@ of Boeotia and Attica, 4, 9.
 
 εὐθύς, immediately, 6, 17.
 
-εὐκαθαίρετος, -ον, easy to conquer, 29, 7.
+εὐκαθαίρετος, -ον, easy to conquer, 29, 7.
 
 εὔκοσμος, -ον, orderly; τὸ εὕκοσμον, order, 44, 21.
 
@@ -1458,17 +1437,17 @@ of Boeotia and Attica, 4, 9.
 
 Εὔξεινος (-ου), ὁ, the Euxine, now called the Black Sea, 6, 7.
 
-εὐπορίᾱ (-ᾱς) ἡ, store, abundance, 14, 23.
+εὐπορίᾱ (-ᾱς) ἡ, store, abundance, 14, 23.
 
 εὔπορος, -ον, well-provided, 29, 15.
 
 εὐπρᾱγεῖν, be successful, prosper, 22, 28.
 
-εὐπρεπής, -ές, magnificent, 21, 6.
+εὐπρεπής, -ές, magnificent, 21, 6.
 
 εὑρεῖν, Aor. of εὑρίσκειν.
 
-εὑρίσκειν (Aor. Act. ηὗρον, Mid. ηὑρόμην), find, 13, 5.
+εὑρίσκειν (Aor. Act. ηὗρον, Mid. ηὑρόμην), find, 13, 5.
 
 Εὐρώπη (-ης), ἡ, Europe, 4, 8.
 
@@ -1496,20 +1475,19 @@ of Boeotia and Attica, 4, 9.
 
 ἔφνγον, Aor. of φεύγειν.
 
-ἔχειν (Fut. ἕξω, Aor. ἔσχον, Past Impft.
-εἶχον). (i.) Trans., (a) have, 8, 2; πολλοὺς ἱππέας ἔχοντες ἔρχονται, they come with many horsemen, 88, 20; τὸ δεξιὸν κέρας εἶχεν ὁ Βοτζάρης, Botzares occupied the right wing, 40, 26; ἐν νῷ ἔχειν, to intend, 29,2; γνώμην ἔχειν (with Inf.) to resolve, 9, 24; τὴν γνώμην ἔχειν πρός (with Acc.), to be inclined towards, 29, 16; διὰ χειρὸς ἔχειν, to control, 47,8. (b) With predicated Adj., τοὺς δεσπότας ἔχουσιν ἀξυνέτους, the masters they have are unintelligent. 5, 12. (c) regard, ἐν ὀλιγωρίᾳ ἔχειν, to hold in contempt, 5, 10; ἐν ὑποψίᾳ ἔχειν, to regard with suspicion, 19, 21. (d) οὐκ ἔχειν, not to know; οὐκ εἶχον ὅποι τράποιντο, they did not know where to turn, 41, 6; οὐκ ἔχοντες ὅθεν τροφὴν κομιοῦνται, not knowing where to get provisions, 48, 25; οὐκ ἔχοντες πρὸς ὅ τι χρὴ στῆναι, not knowing where to make a stand, 48, 27. (ii.) Intrans. with Adv. be; οὕτως εἶχε τὰ ἐν τῷ στρατοπέδῳ, matters in the camp were in this condition, 9, 13; ἐσκόπουν ὅπως ἄριστα ἕξει τὰ πράγματα, they considered how things would be best, 18, 28; οὐ πλέον εἶχον, they were at a disadvantage, 80, 8. Comp. ἀντ-, ἀπ-, ἐπ-, κατ-, μετ-, παρ-, περι-, προ-, προσ-.
+ἔχειν (Fut. ἕξω, Aor. ἔσχον, Past Impft. εἶχον). (i.) Trans., (a) have, 8, 2; πολλοὺς ἱππέας ἔχοντες ἔρχονται, they come with many horsemen, 88, 20; τὸ δεξιὸν κέρας εἶχεν ὁ Βοτζάρης, Botzares occupied the right wing, 40, 26; ἐν νῷ ἔχειν, to intend, 29,2; γνώμην ἔχειν (with Inf.) to resolve, 9, 24; τὴν γνώμην ἔχειν πρός (with Acc.), to be inclined towards, 29, 16; διὰ χειρὸς ἔχειν, to control, 47,8. (b) With predicated Adj., τοὺς δεσπότας ἔχουσιν ἀξυνέτους, the masters they have are unintelligent. 5, 12. (c) regard, ἐν ὀλιγωρίᾳ ἔχειν, to hold in contempt, 5, 10; ἐν ὑποψίᾳ ἔχειν, to regard with suspicion, 19, 21. (d) οὐκ ἔχειν, not to know; οὐκ εἶχον ὅποι τράποιντο, they did not know where to turn, 41, 6; οὐκ ἔχοντες ὅθεν τροφὴν κομιοῦνται, not knowing where to get provisions, 48, 25; οὐκ ἔχοντες πρὸς ὅ τι χρὴ στῆναι, not knowing where to make a stand, 48, 27. (ii.) Intrans. with Adv. be; οὕτως εἶχε τὰ ἐν τῷ στρατοπέδῳ, matters in the camp were in this condition, 9, 13; ἐσκόπουν ὅπως ἄριστα ἕξει τὰ πράγματα, they considered how things would be best, 18, 28; οὐ πλέον εἶχον, they were at a disadvantage, 80, 8. Comp. ἀντ-, ἀπ-, ἐπ-, κατ-, μετ-, παρ-, περι-, προ-, προσ-.
 
 ἔχθιστος, -η, -ον, bitterly hostile, 20, 23. Superl. of ἐχθρός.
 
-ἐχθρός, -ᾱ́, -όν, hostile; θεοῖς ἐχθροί, God-forsaken, 8, 12.
+ἐχθρός, -ᾱ́, -όν, hostile; θεοῖς ἐχθροί, God-forsaken, 8, 12.
 
 ἕως (Acc. ἕω, Gen. ἕω, Dat. ἕῳ), ἡ, dawn, 48, 21.
 
 ἕως, (a) With Ind., while, ἕως ἔτι ὁ Βύρων ἔζη, while Byron was still alive, 88, 1. (b) ἕως ἄν with Subj., until, μένειν ἕως ἂν πειρῶνται ἀποβαίνειν, to wait until they should try to land, 48, 11. (c) After an historic tense, with Optat., until, οὐκ ἤθελε διατρίβειν ἕως ἀναγκασθεῖεν εἴκειν, he did not wish to wait until they should be compelled to yield, 49, 4.
 
-Ζῆν, live, 45, 30.
+ζῆν, live, 45, 30.
 
-ζήτησις (-εως), ἡ, search; στρατιώτας διέπεμψεν ἐπὶ ζήτησιν τῶν ὅπλων, he sent soldiers to search for arms, 19, 20.
+ζήτησις (-εως), ἡ, search; στρατιώτας διέπεμψεν ἐπὶ ζήτησιν τῶν ὅπλων, he sent soldiers to search for arms, 19, 20.
 
 ἤ, or, 9, 12; ἤ... ἤ, either... or, 16, 25.
 
@@ -1533,7 +1511,7 @@ of Boeotia and Attica, 4, 9.
 
 ἡγεῖσθαι, (a) lead, 39, 22; ἡγεῖσθαι τῆς ὁδοῦ, to lead the way, 84, 27. (b) think, 42, 18.
 
-ἡγεμών (-όνος), ὁ, leader, chief, 14, 3.
+ἡγεμών (-όνος), ὁ, leader, chief, 14, 3.
 
 ἠγνόουν, Past Impft. of ἀγνοεῖν.
 
@@ -1551,8 +1529,7 @@ of Boeotia and Attica, 4, 9.
 
 ἠθῡ́μουν, Past Impft. of ἀθυμεῖν.
 
-ἥκειν, (Fut. ἥξειν), have come, 1, 28.
-Comp. προσ-.
+ἥκειν, (Fut. ἥξειν), have come, 1, 28. Comp. προσ-.
 
 ἥκιστα, least; οὐχ ἥκιστα, mainly, 47, 1.
 
@@ -1568,7 +1545,7 @@ Comp. προσ-.
 
 ἤλπισα, Aor. of ἐλπίζειν.
 
-ἡμαρτήκᾱσι, Perf. of ἁμαρτάνειν.
+ἡμαρτήκᾱσι, Perf. of ἁμαρτάνειν.
 
 ἡμεῖς (-ῶν), we, 88, 25. Plur. of ἐγώ.
 
@@ -1626,9 +1603,9 @@ Comp. προσ-.
 
 ηὐπράγουν, Past Impft. of εὐπραγεῖν.
 
-ηὐτομόλουν, Past Impft. of αὐτομολεῖν.
+ηὐτομόλουν, Past Impft. of αὐτομολεῖν.
 
-Θάλασσα (-ης), ἡ, sea, 4, 21.
+θάλασσα (-ης), ἡ, sea, 4, 21.
 
 θαλάσσιος, -ον, maritime, 4, 21.
 
@@ -1640,8 +1617,7 @@ Comp. προσ-.
 
 θάρσος (-ους), τό, confidence; θάρσος ἔλαβε πάντας, all were encouraged, 17, 17.
 
-θαρσῡ́νειν, encourage, 83, 16. Comp.
-παρα-.
+θαρσῡ́νειν, encourage, 83, 16. Comp. παρα-.
 
 θἄτερα, contracted form of τὰ ἕτερα, the other parts; ἐς τὰ ἐπὶ θἄτερα τοῦ ποταμοῦ ἔνεον, they swam to the other bank of the river, 18, 80.
 
@@ -1661,7 +1637,7 @@ Comp. προσ-.
 
 Θῆβαι (-ῶν), αἱ, Thebes, the chief town in Boeotia, 84, 24.
 
-θνητός, -ή, -όν, mortal, 42, 6.
+θνητός, -ή, -όν, mortal, 42, 6.
 
 θορυβεῖν (Aor. Pass. ἐθορυβήθην), throw into confusion, 28, 27.
 
@@ -1683,7 +1659,7 @@ Comp. προσ-.
 
 ἰδεῖν, see, (i.) with Acc., 8, 5; (ii.) Acc. and Part., 11, 25; (iii.) ὅτι, 18, 26. Str. Aor. of δρᾶν.
 
-ἰδίᾳ [MACRON], privately, in particular, 10, 10; individually, 26,19; personally, 44, 18.
+ἰδίᾳ [MACRON], privately, in particular, 10, 10; individually, 26,19; personally, 44, 18.
 
 ἴδιος, -ᾱ, -ον, one's own, 48, 18; τὰ ἴδια, private property, 46, 10.
 
@@ -1691,11 +1667,11 @@ Comp. προσ-.
 
 ἰέναι, go, march; ἰόντες τὴν ὁδόν, marching along the road, 80, 28; ἐς χεῖρας ἱέναι (Dat.), to come to close quarters with, 80, 25; διὰ μάχης ἱέναι (Dat.), to engage in battle with, 51,4. For Comp. see ἔρχομαι.
 
-ἱερεύς (-έως), ὁ, priest, 21, 1.
+ἱερεύς (-έως), ὁ, priest, 21, 1.
 
-ἱερός, -ᾱ́, -όν, sacred, 9,11; priestly, 20, 17.
+ἱερός, -ᾱ́, -όν, sacred, 9,11; priestly, 20, 17.
 
-ἱκανός, -ή, -όν, sufficient, 16, 23.
+ἱκανός, -ή, -όν, sufficient, 16, 23.
 
 ἱκανῶς, sufficiently, 20, 27.
 
@@ -1705,7 +1681,7 @@ Comp. προσ-.
 
 Ἰουδαῖος (-ου), ὁ, Jew, 20, 28.
 
-ἱππεύς (-έως), ὁ, horseman; οἱ ἱππῆς, the cavalry, 20, 16.
+ἱππεύς (-έως), ὁ, horseman; οἱ ἱππῆς, the cavalry, 20, 16.
 
 ἵππος (του), (a) 6, horse, 38, 5; (b) 7, as collective noun, the cavalry, 11, 23.
 
@@ -1715,7 +1691,7 @@ Comp. προσ-.
 
 Ἴστρος (-ου), ὁ, the Danube, 6, 25.
 
-ἰσχῡρός, -ᾱ́, -όν, strong, 29, 13.
+ἰσχῡρός, -ᾱ́, -όν, strong, 29, 13.
 
 ἴσως, perhaps, 81, 15.
 
@@ -1729,13 +1705,13 @@ Comp. προσ-.
 
 καθεώρων, Past Impft. of καθορᾶν.
 
-καθιστάναι, (i) Act. (Wk. Aor. κατέστησα), (a) appoint, establish; τοῦτον στρατηγὸν αὐτοκράτορα καταστήσας, having appointed him general with full powers, 41, 12; δημοκρατίαν ἄλλην βελτίω καταστῆσαι, to establish another and a better constitution, 9, 24. (b) bring into a certain state; τὰ τῆς χώρας ἐς τὸ ἐπιτήδειον καταστῆσαι, to arrange to one's own advantage, 41, 8; τὰ ἄλλα ἐς τὸ ἄμεινον καταστῆσαι, to make other improvements, 83, 2. (ii.) Mid. (with Str. Aor. κατέστην, Perf. καθέστηκα, Plup. καθειστήκη), (a) to come into a certain state; καθίστασθαι ἐς ἀπορίαν, 47, 5, ἐς ἀθυμίαν καὶ ἔκπληξιν, 47, 30, to be reduced to helplessness, despondency or a state of panic; ἐς φυγὴν καταστῆναι, to be put to flight, 48, 4. (b) establish, arrange; πολλὰ ἐρύματα κατεστήσαντο, they erected many fortifications, 48, 17. (c) be established, exist, occur; τὰ περὶ τὸ ἀργύριον οὐ καθίστατο ᾗ αὐτοῖς ἐδόκει, the spending of the money was not carried out in accordance with their views, 49, 20; βλάβη καθίστατο μεγίστη δὴ τοῖς ἐν τοῖς ἀγροῖς, the greatest loss befel the rural population, 80, 18; πᾶσα ἰδέα καθειστήκει τῆς φυγῆς, every method of flight was adopted, 48, 26; κατέστη ἐν ταῖς ὁδοῖς πᾶσα ἰδέα ὀλέθρου, every manner of death occurred in the streets, 88, 3.
+καθιστάναι, (i) Act. (Wk. Aor. κατέστησα), (a) appoint, establish; τοῦτον στρατηγὸν αὐτοκράτορα καταστήσας, having appointed him general with full powers, 41, 12; δημοκρατίαν ἄλλην βελτίω καταστῆσαι, to establish another and a better constitution, 9, 24. (b) bring into a certain state; τὰ τῆς χώρας ἐς τὸ ἐπιτήδειον καταστῆσαι, to arrange to one's own advantage, 41, 8; τὰ ἄλλα ἐς τὸ ἄμεινον καταστῆσαι, to make other improvements, 83, 2. (ii.) Mid. (with Str. Aor. κατέστην, Perf. καθέστηκα, Plup. καθειστήκη), (a) to come into a certain state; καθίστασθαι ἐς ἀπορίαν, 47, 5, ἐς ἀθυμίαν καὶ ἔκπληξιν, 47, 30, to be reduced to helplessness, despondency or a state of panic; ἐς φυγὴν καταστῆναι, to be put to flight, 48, 4. (b) establish, arrange; πολλὰ ἐρύματα κατεστήσαντο, they erected many fortifications, 48, 17. (c) be established, exist, occur; τὰ περὶ τὸ ἀργύριον οὐ καθίστατο ᾗ αὐτοῖς ἐδόκει, the spending of the money was not carried out in accordance with their views, 49, 20; βλάβη καθίστατο μεγίστη δὴ τοῖς ἐν τοῖς ἀγροῖς, the greatest loss befel the rural population, 80, 18; πᾶσα ἰδέα καθειστήκει τῆς φυγῆς, every method of flight was adopted, 48, 26; κατέστη ἐν ταῖς ὁδοῖς πᾶσα ἰδέα ὀλέθρου, every manner of death occurred in the streets, 88, 3.
 
 καθορᾶν (Past Impft. καθεώρων), look down upon, watch, 86, 30.
 
 καθύπερθε, Adv. above; καθύπερθε γίγνεσθαι, to be on higher ground, 33, 26.
 
-καί, (i) copulative, and, 8,1; καί... καί, both... and, 8, 14; so καί... καί... καί, 8, 29. (ii.) Emphasising words, even, also; ἐκ δὲ τῶν καὶ ἀθάνατον δόξαν λαμβάνουσι, and from others they win even immortal honour, 6, 2; ἐν τῷ Τυργοβίστῳ ὥσπερ καὶ ἐν τῷ Βουκουρεστίῳ, in Tergovisht as also in Bukharest, 10, 23; καὶ αὐτοί, they too, 8, 18; οὐ μόνον... ἀλλὰ καὶ, not only... but also, 8, 18; καὶ γὰρ, for in fact, 8, 19.
+καί, (i) copulative, and, 8,1; καί... καί, both... and, 8, 14; so καί... καί... καί, 8, 29. (ii.) Emphasising words, even, also; ἐκ δὲ τῶν καὶ ἀθάνατον δόξαν λαμβάνουσι, and from others they win even immortal honour, 6, 2; ἐν τῷ Τυργοβίστῳ ὥσπερ καὶ ἐν τῷ Βουκουρεστίῳ, in Tergovisht as also in Bukharest, 10, 23; καὶ αὐτοί, they too, 8, 18; οὐ μόνον... ἀλλὰ καὶ, not only... but also, 8, 18; καὶ γὰρ, for in fact, 8, 19.
 
 καίειν (Aor. ἔκαυσα, Perf. Pass. κέκαυμαι), burn, 27, 25. Comp. κατα-.
 
@@ -1743,13 +1719,13 @@ Comp. προσ-.
 
 καιρός (-ου), ὁ, opportunity, favourable time, 21, 26; ἐν καιρῷ, opportunely, 10, 9.
 
-κακός, -ή, -όν, bad; τὰ κακά, misfortunes, 16, 21.
+κακός, -ή, -όν, bad; τὰ κακά, misfortunes, 16, 21.
 
-κακουν, injure, ruin, 41, 2.
+κακοῦν, injure, ruin, 41, 2.
 
 Καλαβρύτα (-ων), τά, Kalavryta, a town in the interior of the Morea, N.W. of Tripolitza, 16, 1.
 
-Καλαμάτα (-ης), ἡ, Kalamata, a town on S. coast of the Morea, 16, 80.
+Καλαμάτα (-ης), ἡ, Kalamata, a town on S. coast of the Morea, 16, 80.
 
 καλεῖν, call, 10, 2. Comp. ἀνα-, ξυγ-, προ-.
 
@@ -1757,7 +1733,7 @@ Comp. προσ-.
 
 καλῶς, well; καλῶς πράσσειν, to be successful, 88, 27.
 
-Κάναρις (-εως), ὁ, Kanaris, a Psariote captain, 23, 29.
+Κάναρις (-εως), ὁ, Kanaris, a Psariote captain, 23, 29.
 
 καπνός (-οῦ), ὁ, smoke, 48, 22.
 
@@ -1765,7 +1741,7 @@ Comp. προσ-.
 
 Καρπάθια (-ων), τά, the Carpathian Mountains, 6, 26.
 
-καρτερός, -ᾱ́, -όν, strong, hotly contested, 80, 2.
+καρτερός, -ᾱ́, -όν, strong, hotly contested, 80, 2.
 
 Κάσσιος (ou), ὁ, an inhabitant of Cassos, 47, 29.
 
@@ -1773,7 +1749,7 @@ Comp. προσ-.
 
 κατ'. See κατά.
 
-κατά (before vowel κατ', before aspirate καθ'), Prep. with Gen. and Acc. (i.) With Gen. of place, down from; κατὰ κρημνῶν ῥίπτοντες ἑαυτούς, throwing themselves down precipices, 89, 8; κατὰ νώτου, in the rear, 11, 8. (ii.) With Acc. (a) of place, down along, over, on; κατὰ γῆν καὶ κατὰ θάλασσαν, by land and sea, 22,1; οἱ κατ' ἥπειρον, those on the mainland, 6, 12; κατὰ τὴν Ἑλλάδα, throughout Greece, 46, 3; κατὰ χώραν μένειν, to stand one's ground, 9, 24. (b) Of time, at, about; κατὰ τὴν ἀρχὴν τοῦ πολέμου, at the beginning of the war, 4, 12; κατὰ πλοῦν, in the course of the voyage, 29, 5; οἱ καθ' ἑαυτόν, his contemporaries, 48, 80; ταῦτα μὲν τὰ κατὰ τὴν ἅλωσιν τῆς Τριπολιτσᾶς γενόμενα, such were the events at the time of the fall of Tripolitza, 28, 4; κατ' ἐνιαυτόν, every year, 6, 28. (c) Of manner, according to; κατὰ τὰς ξυνθήκας, according to the agreement, 6, 30; κατὰ τὸ δυνατόν, to the best of one's power, 44, 18; κατὰ τὸ νόμιμον, according to custom, 41, 18; κατὰ κράτος, with all one's might, 81, 25; καθ' ἡσυχίαν, quietly, 1, 23; κατὰ τάχος, quickly, 11, 20; κατὰ σπουδήν, rapidly, 38, 8. (d) Distributively, κατὰ κώμας ἀτειχίστους τὴν δίαιταν ἄγειν, to live scattered in unfortified vilages, 4, 19; κατὰ χιλίους, a thousand at a time, 81, 11. In Comp. (a) down, καταβαίνειν, to descend; (b) back, κατελθεῖν, to return home; (c) against, κατηγορεῖν, to accuse; (d) denoting completeness, καταπολεμεῖν, to subdue completely. 
+κατά (before vowel κατ', before aspirate καθ'), Prep. with Gen. and Acc. (i.) With Gen. of place, down from; κατὰ κρημνῶν ῥίπτοντες ἑαυτούς, throwing themselves down precipices, 89, 8; κατὰ νώτου, in the rear, 11, 8. (ii.) With Acc. (a) of place, down along, over, on; κατὰ γῆν καὶ κατὰ θάλασσαν, by land and sea, 22,1; οἱ κατ' ἥπειρον, those on the mainland, 6, 12; κατὰ τὴν Ἑλλάδα, throughout Greece, 46, 3; κατὰ χώραν μένειν, to stand one's ground, 9, 24. (b) Of time, at, about; κατὰ τὴν ἀρχὴν τοῦ πολέμου, at the beginning of the war, 4, 12; κατὰ πλοῦν, in the course of the voyage, 29, 5; οἱ καθ' ἑαυτόν, his contemporaries, 48, 80; ταῦτα μὲν τὰ κατὰ τὴν ἅλωσιν τῆς Τριπολιτσᾶς γενόμενα, such were the events at the time of the fall of Tripolitza, 28, 4; κατ' ἐνιαυτόν, every year, 6, 28. (c) Of manner, according to; κατὰ τὰς ξυνθήκας, according to the agreement, 6, 30; κατὰ τὸ δυνατόν, to the best of one's power, 44, 18; κατὰ τὸ νόμιμον, according to custom, 41, 18; κατὰ κράτος, with all one's might, 81, 25; καθ' ἡσυχίαν, quietly, 1, 23; κατὰ τάχος, quickly, 11, 20; κατὰ σπουδήν, rapidly, 38, 8. (d) Distributively, κατὰ κώμας ἀτειχίστους τὴν δίαιταν ἄγειν, to live scattered in unfortified vilages, 4, 19; κατὰ χιλίους, a thousand at a time, 81, 11. In Comp. (a) down, καταβαίνειν, to descend; (b) back, κατελθεῖν, to return home; (c) against, κατηγορεῖν, to accuse; (d) denoting completeness, καταπολεμεῖν, to subdue completely. 
 
 καταβαίνειν, go down, 28, 16.
 
@@ -1781,15 +1757,15 @@ Comp. προσ-.
 
 κατάβασις (-εως), ἡ, descent, 88, 27.
 
-καταδύειν (Trans. Wk. Aor. κατεδῦσα, Intrans. Str. Aor. κατέδῡν), sink, (i.) Trans. 20, 28; (ii.) Intrans., 87, 5. [SIC]
+καταδύειν (Trans. Wk. Aor. κατεδῦσα, Intrans. Str. Aor. κατέδῡν), sink, (i.) Trans. 20, 28; (ii.) Intrans., 87, 5. [SIC]
 
 καταίρειν (Aor. κατῆρα), put in to shore, 81, 20.
 
-κατακαίειν (Fut. κατακαύσω), burn, 6, 17.
+κατακαίειν (Fut. κατακαύσω), burn, 6, 17.
 
 κατακόπτειν (Aor. κατέκοψα), cut down, 27, 10.
 
-καταλαμβάνειν (Aor. κατέλαβον), (a) seize, occupy, 1, 30; στρατόπεδον κατέλαβον, they pitched their camp, 8, 30. (b) find, with Part.; καταλαμβάνουσι τὸν δῆμον μέλλοντα ἐκκλησίαν ποιεῖν, they find the people on the point of holding an assembly, 21, 21. (c) bind; ὁρκοῖς κατέλαβον ἀλλήλους, they bound one another with oaths, 16, 27.
+καταλαμβάνειν (Aor. κατέλαβον), (a) seize, occupy, 1, 30; στρατόπεδον κατέλαβον, they pitched their camp, 8, 30. (b) find, with Part.; καταλαμβάνουσι τὸν δῆμον μέλλοντα ἐκκλησίαν ποιεῖν, they find the people on the point of holding an assembly, 21, 21. (c) bind; ὁρκοῖς κατέλαβον ἀλλήλους, they bound one another with oaths, 16, 27.
 
 καταλείπειν (Fut. καταλείψω), leave, bequeath, 42, 23.
 
@@ -1809,7 +1785,7 @@ Comp. προσ-.
 
 κατάσκοπος (-ου), ὁ, scout, 11, 8.
 
-καταστᾱ́ς, -ᾶσα, -άν, Str. Aor. Part. of καθιστάναι.
+καταστᾱ́ς, -ᾶσα, -άν, Str. Aor. Part. of καθιστάναι.
 
 κατάστασις (-εως), ἡ, condition, state, 81, 26.
 
@@ -1819,7 +1795,7 @@ Comp. προσ-.
 
 καταστρέφεσθαι (Fut. καταστρέψομαι, Aor. κατεστρεψάμην), subdue, 88, 29.
 
-καταφαγεῖν, devour, 11, 15. Str. Aor. of κατεσθίειν.
+καταφαγεῖν, devour, 11, 15. Str. Aor. of κατεσθίειν.
 
 καταφαίνεσθαι, appear, 43, ὃ.
 
@@ -1837,14 +1813,13 @@ Comp. προσ-.
 
 κατέκαυσε, Aor. of κατακαίειν.
 
-κατέκοψε, Aor. of κατακόπτειν.
+κατέκοψε, Aor. of κατακόπτειν.
 
 κατέλαβον, Aor. of καταλαμβάνειν.
 
-κατελθεῖν, return home, 31,12. Str. Aor.
-of κατέρχομαι.
+κατελθεῖν, return home, 31,12. Str. Aor. of κατέρχομαι.
 
-κατεπεπτώκει, Plup. of καταπίπτειν.
+κατεπεπτώκει, Plup. of καταπίπτειν.
 
 κατέπεσε, Aor. of καταπίπτειν.
 
@@ -1864,8 +1839,7 @@ of κατέρχομαι.
 
 κατέχειν (Fut. καθέξω), (a) control, 32, 14; (b) seize, 18, 23; (c) be current (of a report), 17, 14.
 
-κατηγορεῖν, accuse (Acc. of crime, Gen.
-of person), 19, 12.
+κατηγορεῖν, accuse (Acc. of crime, Gen. of person), 19, 12.
 
 κατῄει, Past Impft. of κατιέναι.
 
@@ -1895,13 +1869,13 @@ of person), 19, 12.
 
 κελήτιον (-ου), τό, small boat, 24, 5.
 
-κενός, -ή, -όν, empty, 22, 29.
+κενός, -ή, -όν, empty, 22, 29.
 
 κέρας (Gen. κέρως, Dat. κέρᾳ) [MACRON], wing (of army), 40, 26.
 
-Κέρκῡρα (-ᾱς), ἡ, Corcyra, now called Corfu, an island off the coast of Albania, 88, 18.
+Κέρκῡρα (-ᾱς), ἡ, Corcyra, now called Corfu, an island off the coast of Albania, 88, 18.
 
-Κεφαλληνίᾱ (-ᾱς), ἡ, Cephalonia, an island off W. coast of Greece, 4, 2.
+Κεφαλληνίᾱ (-ᾱς), ἡ, Cephalonia, an island off W. coast of Greece, 4, 2.
 
 κήρυγμα (-ατος), τό, proclamation, 16, 15.
 
@@ -1911,17 +1885,17 @@ of person), 19, 12.
 
 κηρύσσειν, proclaim (ὅτι), 9, 17.
 
-Κιάφα (-ἡς), ἡ, Kiapha, the citadel of Souli, 31, 24.
+Κιάφα (-ἡς), ἡ, Kiapha, the citadel of Souli, 31, 24.
 
 κινδῡνεύειν, (a) face danger, 8, 9; (b) be in danger of (Inf.), 18, 27.
 
-κίνδῡνος (-ου), ὁ, danger, 8, 2.
+κίνδῡνος (-ου), ὁ, danger, 8, 2.
 
 Κιουταχῆ, ὁ, Kiutayhé, also known as Reschid Pasha, a Turkish general, 82, 25.
 
 κλέπτης, (-ου), ὁ, robber, brigand, clepht, 4, 30.
 
-κληματίς (-ίδος), ἡ, brushwood, 94, 3.
+κληματίς (-ίδος), ἡ, brushwood, 94, 3.
 
 κλῖμαξ (-ακος), ἡ, ladder, 27, 10.
 
@@ -1931,7 +1905,7 @@ of person), 19, 12.
 
 κοινῇ, (a) in common, together, 49, 21; (b) collectively, opp. to ἰδίᾳ, individually, 26, 18.
 
-κοινός, -ή, -όν, common; τὸ κοινόν, (a) the State, 31, 22; (b) the treasury, 46, 9.
+κοινός, -ή, -όν, common; τὸ κοινόν, (a) the State, 31, 22; (b) the treasury, 46, 9.
 
 Κολοκοτρώνης (-oυ), ὁ, Colokotrones, one of the Greek leaders, 24, 29.
 
@@ -1945,14 +1919,13 @@ of person), 19, 12.
 
 κοσμεῖν, adorn, embellish, 18, 7.
 
-Κραϊόβα (-ης), ἡ, Craïova, a town in W. Wallachia, 11, 9.
+Κραϊόβα (-ης), ἡ, Craïova, a town in W. Wallachia, 11, 9.
 
-κρατεῖν (Perf. κεκράτηκα, Aor. Pass. ἐκρατἠθην), (a) be victorious, 10, 27. (b) conquer (i.) Acc., 12, 6; (ii.) Gen.
-18, 6. (c) get possession of (Gen.), 14, 20.
+κρατεῖν (Perf. κεκράτηκα, Aor. Pass. ἐκρατἠθην), (a) be victorious, 10, 27. (b) conquer (i.) Acc., 12, 6; (ii.) Gen. 18, 6. (c) get possession of (Gen.), 14, 20.
 
 κράτος (-ους), τό, strength; κατὰ κράτος πολιορκεῖν, to besiege closely, 81, 25.
 
-κρατῡ́νειν (Aor. ἐκράτῡνα), strengthen, 83, 1.
+κρατῡ́νειν (Aor. ἐκράτῡνα), strengthen, 83, 1.
 
 κραυγή (-ῆς), ἡ, cry, 81, 28.
 
@@ -1960,7 +1933,7 @@ of person), 19, 12.
 
 κρημνός (-οῦ), ὁ, precipice, 39, 8.
 
-Κρῆς (-τός), ὁ, Cretan, 47, 27.
+Κρῆς (-τός), ὁ, Cretan, 47, 27.
 
 Κρήτη (-ης), ἡ, Crete, an island lying south of Greece, 47, 14.
 
@@ -1984,15 +1957,15 @@ of person), 19, 12.
 
 Κωνσταντῑνούπολις (-εως), ἡ, Constantinople, 19, 15.
 
-Λαβεῖν, Aor. of λαμβάνειν.
+λαβεῖν, Aor. of λαμβάνειν.
 
 λαθεῖν, Aor. of λανθάνειν.
 
 λάθρᾳ [MACRON], secretly, 6, 9.
 
-Λακγάδα (-ης), ἡ, Langada, a village near S. boundary of Albania, 32, 22.
+Λακγάδα (-ης), ἡ, Langada, a village near S. boundary of Albania, 32, 22.
 
-λαμβάνειν (Fut. λήψομαι, Perf. εἴληφα, Aor. ἔλαβον, Aor. Pass. ἐλήφθην), take, seize, get; τὸν πλεῖστον τοῦ βίου λαμβάνειν, to get most of one's livelihood, 4, 22; δόξαν λαμβάνειν, to win honour, 6,2; ὅπλα λαμβάνειν, to take up arms, 8, 8; πεῖραν λαμβάνειν, to gain experience, 8, 8; δίκην λαμβάνειν, to exact punishment, 8,17; ἐσκόπουν ὅπως τὸ χωρίον λήψονται, they considered how they should capture the place, 28, 6; τὴν ἀρχὴν λαβεῖν, to receive the government, 10, 6; τὰ σφέτερα αὑτῶν λαβόντες, taking their property with them, 81, 1; θάρσος ἔλαβε πάντας τοὺς Ἕλληνας, all the Greeks became confident, 17,17. Comp. ἀνα-, ἀντι-, ἀπο-, κατα-, ξυλ-, παρα-, προκατα-, προσ-.
+λαμβάνειν (Fut. λήψομαι, Perf. εἴληφα, Aor. ἔλαβον, Aor. Pass. ἐλήφθην), take, seize, get; τὸν πλεῖστον τοῦ βίου λαμβάνειν, to get most of one's livelihood, 4, 22; δόξαν λαμβάνειν, to win honour, 6,2; ὅπλα λαμβάνειν, to take up arms, 8, 8; πεῖραν λαμβάνειν, to gain experience, 8, 8; δίκην λαμβάνειν, to exact punishment, 8,17; ἐσκόπουν ὅπως τὸ χωρίον λήψονται, they considered how they should capture the place, 28, 6; τὴν ἀρχὴν λαβεῖν, to receive the government, 10, 6; τὰ σφέτερα αὑτῶν λαβόντες, taking their property with them, 81, 1; θάρσος ἔλαβε πάντας τοὺς Ἕλληνας, all the Greeks became confident, 17,17. Comp. ἀνα-, ἀντι-, ἀπο-, κατα-, ξυλ-, παρα-, προκατα-, προσ-.
 
 λαμπρῶς, conspicuously, 81, 16,
 
@@ -2024,25 +1997,25 @@ of person), 19, 12.
 
 λίθος (-ου), ὁ, stone, 20, 26.
 
-λιμήν (-ένος)) ὁ, harbour, 14, 5.
+λιμήν (-ένος)) ὁ, harbour, 14, 5.
 
 λίμνη (-ης), ἡ, marsh, lagoon, 11, 12.
 
 λιμός (-ου), ὁ, hunger, famine, 16, 25.
 
-λογάς (-άδος), ὁ, picked man, 9, 9.
+λογάς (-άδος), ὁ, picked man, 9, 9.
 
-λόγος (-ου), ὁ, (a) word, 14,17. (b) saying, 11, 15. (c) In plur. proposals, discussion; οὐκ ἐδέξαντο τοὺς λόγους, they did not accept the proposals, 26, 19; λόγους ποιεῖσθαι, 49, 3, or προφέρειν, 81, 27, to make proposals; ἐς λόγους ἐλθεῖν (Dat.), to hold a conference with, 38, 9. (d) παρὰ λόγον, contrary to expectation, 82, 8.
+λόγος (-ου), ὁ, (a) word, 14,17. (b) saying, 11, 15. (c) In plur. proposals, discussion; οὐκ ἐδέξαντο τοὺς λόγους, they did not accept the proposals, 26, 19; λόγους ποιεῖσθαι, 49, 3, or προφέρειν, 81, 27, to make proposals; ἐς λόγους ἐλθεῖν (Dat.), to hold a conference with, 38, 9. (d) παρὰ λόγον, contrary to expectation, 82, 8.
 
 λοιμός (-οῦ), ὁ, plague, 28, 1.
 
-λοιπός, -ή, -όν, remaining; οἱ λοιποί, the rest, 34, 1.
+λοιπός, -ή, -όν, remaining; οἱ λοιποί, the rest, 34, 1.
 
 Λονδῖνον (-ου), τό, London, 46, 18.
 
 λόφος (-ου), ὁ, hill, 3, 17.
 
-Λύκουργος (-ου), ὁ, Lycurgus, a leading man at Samos, 29, 20.
+Λύκουργος (-ου), ὁ, Lycurgus, a leading man at Samos, 29, 20.
 
 λοχίζειν, place in ambush, 26, 7.
 
@@ -2050,26 +2023,26 @@ of person), 19, 12.
 
 λῡ́ειν, loose, break, 27, 16. Comp. ἀπο-, δια-, κατα-.
 
-λυπηρός, -ᾱ́, -όν, (a) painful, annoying, 16, 15; (b) pitiable, 31, 18.
+λυπηρός, -ᾱ́, -όν, (a) painful, annoying, 16, 15; (b) pitiable, 31, 18.
 
-Μαθεῖν, Aor. of μανθάνειν.
+μαθεῖν, Aor. of μανθάνειν.
 
-Μακεδών (-όνος), ὁ, Macedonian, 18, 4.
+Μακεδών (-όνος), ὁ, Macedonian, 18, 4.
 
 μακρηγορεῖν, speak at length, 88, 7.
 
-μακρός, -ᾱ́, -όν, long, far, large; οὐ διὰ μακροῦ, soon, 18, 1; μακράν, far, 30, 13; ἐς τὰ μακρότατα, in the highest degree, 80, 24.
+μακρός, -ᾱ́, -όν, long, far, large; οὐ διὰ μακροῦ, soon, 18, 1; μακράν, far, 30, 13; ἐς τὰ μακρότατα, in the highest degree, 80, 24.
 
 μάλιστα, chiefly, especially, 8, 4; ἐς τὰ μάλιστα, in the highest degree, 48,11.
 
 μᾶλλον, (a) rather, 6, 20; (b) more, 12, 20.
 
-μανθάνειν (Aor. έμαθον, learn, (i.) Acc.
+μανθάνειν (Aor. ἔμαθον), learn, (i.) Acc.
 7, 43; (ii.) ὅτι, 11, 3.
 
-Μάρκος (-ου), ὁ, Marcus. See Βοτζάρης, 40, 13.
+Μάρκος (-ου), ὁ, Marcus. See Βοτζάρης, 40, 13.
 
-Μαυροκορδάτος (-ου), ὁ, Mavrocordato, the first president of Greece, 31, 22.
+Μαυροκορδάτος (-ου), ὁ, Mavrocordato, the first president of Greece, 31, 22.
 
 μάχεσθαι (Fut. μαχοῦμαι), fight, (i) Abs., 18, 8; (ii.) Dat., 34, 4.
 
@@ -2079,7 +2052,7 @@ of person), 19, 12.
 
 μαχόμενος, -η, -ον, fighting, 12,7. Pres. Part. of μάχεσθαι.
 
-μέγας, -άλη, -α, (a) great, 19, 23; (b) large, 24, 27.
+μέγας, -άλη, -α, (a) great, 19, 23; (b) large, 24, 27.
 
 μέγεθος (-ους), τό, size; διὰ τὸ μέγεθος τῶν παρόντων κακῶν, owing to the gravity of their existing misfortunes, 16, 21.
 
@@ -2099,8 +2072,7 @@ of person), 19, 12.
 
 μέλει (Fut. μελήσει), Impers. it is a care (Dat. of pers., Gen. of thing); οὐ μέλει τοῖς κριταῖς τῶν νόμων, the judges do not regard the laws, 8, 19.
 
-μέλλειν, (a) be on the point of (Inf.), 8, 25. πρὸς τὴν μέλλουσαν πολιορκίαν.
-παρασκευάζεσθαι, to prepare for the coming siege, 16, 6; τὸ μέλλον, the future, 42, 15. (b) be likely (Inf.), 11, 11. (c) intend (Inf.), 18, 16.
+μέλλειν, (a) be on the point of (Inf.), 8, 25. πρὸς τὴν μέλλουσαν πολιορκίαν παρασκευάζεσθαι, to prepare for the coming siege, 16, 6; τὸ μέλλον, the future, 42, 15. (b) be likely (Inf.), 11, 11. (c) intend (Inf.), 18, 16.
 
 μέν (enclitic), on the one hand, opp. to δέ, but on the other hand, 8, 1; πρῶτον μέν answered by ἔπειτα, firstly... secondly, 8, 9.
 
@@ -2118,11 +2090,11 @@ of person), 19, 12.
 
 Μεσολογγίτης (-ου), ὁ, an inhabitant of Messalonghi, 88, 1.
 
-μέσος, -η, -ον, middle; ἐν μέσῳ (Gen.), between, 8, 2; ἐν μέσῳ ἀπολαμβάνειν, to intercept, cut off, 10, 29.
+μέσος, -η, -ον, middle; ἐν μέσῳ (Gen.), between, 8, 2; ἐν μέσῳ ἀπολαμβάνειν, to intercept, cut off, 10, 29.
 
 μετά (before vowel μετ', before aspirate μεθ'), Prep. with Gen. and Acc. (i.) With Gen. together with; μετὰ στρατιωτῶν, with soldiers, 1, 23; οἱ μετ' αὐτοῦ, his companions, 9, 26; μετὰ δώρων κρίνειν, to judge with gifts, ie., under the influence of bribes, 8, 20; μετὰ προθυμίας, with enthusiasm, 18, 23. (ii.) With Acc. of time after; μεθ' ἡμέρας τινάς, after some days, 8, 20. In Comp. (a) denoting participation, μετέχειν, to take part in; (b) after, μεταπέμπεσθαι, to send for; (c) denoting change, μεθιστάναι, to induce to change sides.
 
-μεταβᾱ́ς, -ᾶσα, -άν, having gone across, 24, 10. Str. Aor. Part. of μεταβαίνειν.
+μεταβᾱ́ς, -ᾶσα, -άν, having gone across, 24, 10. Str. Aor. Part. of μεταβαίνειν.
 
 μεταβολή (-ῆς), ἡ, change, 8, 9.
 
@@ -2148,11 +2120,11 @@ of person), 19, 12.
 
 μηδείς, μηδεμία, μηδέν, no one, nothing, bearing the same relation to οὐδείς, as μή does to οὐ; νομίσῃ μηδείς, let no one suppose, 88, 5; ἵνα μηδὲν ἐκ τῶν ἀγρῶν κομίζωνται, in order that they might get nothing from the fields, 87, 7.
 
-μηκέτι, no longer, bearing the same relation to οὐκέτι as μή does to οὐ; μηκέτι διὰ φόβου ἔστε, do not be any longer alarmed, 86, 24; διενοήθη τὴν στρατιὰν ἀπάγειν μηκέτι τῇ αὐτῇ ὁδῷ ἀλλά..., he determined to lead back his army no longer by the same route but... , 89,15; ὥστε μηκέτι δύνασθαι, so as no longer to be able, 81, 2.
+μηκέτι, no longer, bearing the same relation to οὐκέτι as μή does to οὐ; μηκέτι διὰ φόβου ἔστε, do not be any longer alarmed, 86, 24; διενοήθη τὴν στρατιὰν ἀπάγειν μηκέτι τῇ αὐτῇ ὁδῷ ἀλλά..., he determined to lead back his army no longer by the same route but... , 89,15; ὥστε μηκέτι δύνασθαι, so as no longer to be able, 81, 2.
 
 μήν (μηνός), ὁ, month, 14, 7.
 
-μήτε... μήτε, neither... nor, bearing the same relation to οὔτε as μή does to οὐ; φυλακὴν ποιεῖσθαι ὅπως μήτε τὰ ἐπιτήδεια ἐσκομισθήσεται μήτε οἱ ἔνδον φεύξονται, to keep guard to prevent supplies being introduced or those in the town escaping, 28, 12.
+μήτε... μήτε, neither... nor, bearing the same relation to οὔτε as μή does to οὐ; φυλακὴν ποιεῖσθαι ὅπως μήτε τὰ ἐπιτήδεια ἐσκομισθήσεται μήτε οἱ ἔνδον φεύξονται, to keep guard to prevent supplies being introduced or those in the town escaping, 28, 12.
 
 μηχανή (-ῆς), ἡ, engine of war, cannon, 11, 22.
 
@@ -2160,7 +2132,7 @@ of person), 19, 12.
 
 Μιαύλης (-ου), ὁ, Miaules, the commander of the Greek fleet, 88, 24.
 
-μῑκρός, -ᾱ́, -όν, small, 8, 1.
+μῑκρός, -ᾱ́, -όν, small, 8, 1.
 
 μῑμεῖσθαι, imitate, 42, 10.
 
@@ -2176,14 +2148,13 @@ of person), 19, 12.
 
 μνησθέντες, Aor. Part. of μιμνῄσκεσθαι.
 
-Μοθώνη (-ης), ἡ, Modon, a town on W.
-coast of the Morea, 80, 19.
+Μοθώνη (-ης), ἡ, Modon, a town on W. coast of the Morea, 80, 19.
 
 μοῖρα (-ᾱς), ἡ, part, 8, 2.
 
-Μολδαυίᾱ (-ᾱς), ἡ, Moldavia, a Turkish province lying between the Carpathian Mountains and the Pruth, 6, 26.
+Μολδαυίᾱ (-ᾱς), ἡ, Moldavia, a Turkish province lying between the Carpathian Mountains and the Pruth, 6, 26.
 
-Μολδοβλαχίᾱ (-ᾱς), ἡ, Moldavia and Wallachia, the two provinces which form the present kingdom of Roumania, 6, 21.
+Μολδοβλαχίᾱ (-ᾱς), ἡ, Moldavia and Wallachia, the two provinces which form the present kingdom of Roumania, 6, 21.
 
 Μολδοβλαχίος (-ου), ὁ, Roumanian, 1, 4.
 
@@ -2197,9 +2168,9 @@ coast of the Morea, 80, 19.
 
 μόνος, -η, -ον, alone, 3, 1.
 
-Μορέᾱ (-ᾱς), ἡ, Morea, the part of Greece S. of the Isthmus of Corinth, 3, 12,
+Μορέᾱ (-ᾱς), ἡ, Morea, the part of Greece S. of the Isthmus of Corinth, 3, 12,
 
-μορέᾱ (-ᾱς), ἡ, mulberry-tree, 8, 13.
+μορέᾱ (-ᾱς), ἡ, mulberry-tree, 8, 13.
 
 μοῦ, Gen. of ἐγώ.
 
@@ -2217,11 +2188,11 @@ coast of the Morea, 80, 19.
 
 Ναύπλιον (-ου), τό, Nauplia, a town on E. coast of the Morea, 35, 8.
 
-ναῦς (νεώς), ἡ, ship, 22, 22.
+ναῦς (νεώς), ἡ, ship, 22, 22.
 
 ναύτης (-ου), ὁ, sailor, 8, 23.
 
-ναυτικός, -ή, -ὁν, naval; ναυτικὸς ὄχλος, α crowd of sailors, 4, 24; τὰ ναυτικά, naval matters, 38, 4; τὸ ναυτικόν, the fleet, 80, 14.
+ναυτικός, -ή, -ὁν, naval; ναυτικὸς ὄχλος, α crowd of sailors, 4, 24; τὰ ναυτικά, naval matters, 38, 4; τὸ ναυτικόν, the fleet, 80, 14.
 
 νεῖν, swim, 18, 1. Comp. ἐσ-.
 
@@ -2249,7 +2220,7 @@ coast of the Morea, 80, 19.
 
 νῑ́κη (-ης), ἡ, victory, 11, 21.
 
-Νῑκήτᾱς (-ου), ὁ, Niketas, one of the Greek leaders, 38, 13.
+Νῑκήτᾱς (-ου), ὁ, Niketas, one of the Greek leaders, 38, 13.
 
 νομίζειν (Aor. ἐνόμισα), think, (i.) ὅτι, 8, 10; (ii.) Acc. and Inf., 14, 29.
 
@@ -2257,7 +2228,7 @@ coast of the Morea, 80, 19.
 
 νόμος (-ου), ὁ, law, 8, 19.
 
-Νορμάννος (-ου), ὁ, Colonel Normann, commander of the Greek troops at Peta, 32, 21.
+Νορμάννος (-ου), ὁ, Colonel Normann, commander of the Greek troops at Peta, 32, 21.
 
 νοσεῖν (Aor. ἐνόσησα), fall ill, 48, 26; οἱ νοσοῦντες, the sick, 58, 5.
 
@@ -2265,23 +2236,23 @@ coast of the Morea, 80, 19.
 
 νοῦς (νοῦ), ὁ, mind; ἐν νῷ ἔχειν, to have in mind, intend, 29, 2; προσέχειν τὸν νοῦν πρός (Acc.), to attend to, 24, 17.
 
-νυκτομαχίᾱ (-ᾱς), ἡ, battle by night, 41, 17.
+νυκτομαχίᾱ (-ᾱς), ἡ, battle by night, 41, 17.
 
-νυκτός, Gen. of νύξ.
+νυκτός, Gen. of νύξ.
 
 νῦν, now, 62, 19; ἔτι καὶ νῦν, to this day, 17, 15; οἱ νῦν ἐπιχώριοι, the present inhabitants, 8, 11.
 
-νύξ (νυκτός), ἡ, night, 16, 6; νυκτός, by night, 14, 18.
+νύξ (νυκτός), ἡ, night, 16, 6; νυκτός, by night, 14, 18.
 
 νῷ, Dat. of νοῦς.
 
-νῶτον (-ου), τό, back; κατὰ νώτου, in the rear, 11, 8. |
+νῶτον (-ου), τό, back; κατὰ νώτου, in the rear, 11, 8. |
 
 ξένος (-ου), ὁ, stranger, 14, 30.
 
 ξιφίδιον (-ου), τό, dagger, 88, 27.
 
-ξυγγενής, -ές, of the same race, relative, 48, 5.
+ξυγγενής, -ές, of the same race, relative, 48, 5.
 
 ξυγγραφή (-ῆς), ἡ, history, 3, 9.
 
@@ -2293,7 +2264,7 @@ coast of the Morea, 80, 19.
 
 ξυλλέγειν, collect, 48, 18.
 
-ξυλλήψονται, Fut. of ξυλλαμβάνειν.
+ξυλλήψονται, Fut. of ξυλλαμβάνειν.
 
 ξύλλογος (-ου), ὁ, conference, 10, 14.
 
@@ -2303,7 +2274,7 @@ coast of the Morea, 80, 19.
 
 ξύμβασις (-εως), ἡ, agreement, 81, 28.
 
-ξυμβέβηκε, Perf. of ξυμβαίνειν.
+ξυμβέβηκε, Perf. of ξυμβαίνειν.
 
 ξυμμαχεῖν, fight on side of (Dat.), 10, 22.
 
@@ -2319,9 +2290,9 @@ coast of the Morea, 80, 19.
 
 ξυμπολιορκεῖν, help to besiege, 30, 29.
 
-ξυμπράσσειν, co-operate with, (i.) Dat., 9, 18; (ii.) μετά with Gen., 20, 8.
+ξυμπράσσειν, co-operate with, (i.) Dat., 9, 18; (ii.) μετά with Gen., 20, 8.
 
-ξυμφέρειν (Aor. ξυνήνεγκον), come to pass, 43, 2.
+ξυμφέρειν (Aor. ξυνήνεγκον), come to pass, 43, 2.
 
 ξυμφορᾱ́ (-ᾶς), ἡ, misfortune, disaster, 8, 30; fate, 31, 18.
 
@@ -2353,15 +2324,15 @@ coast of the Morea, 80, 19.
 
 ξυνενέγκοι, Aor. Optat. of ξυμφέρειν.
 
-ξυνέπλει, Past Impft. of ξυμπλεῖν.
+ξυνέπλει, Past Impft. of ξυμπλεῖν.
 
 ξυνεπολιόρκουν, Past Impft. of ξυμπολιορκεῖν.
 
 ξυνέπρασσε, Past Impft. of ξυμπράσσειν.
 
-ξυνέταξε, Aor. of ξυντάσσειν.
+ξυνέταξε, Aor. of ξυντάσσειν.
 
-ξυνετός, -ή, -όν, wise, intelligent, 8, 11.
+ξυνετός, -ή, -όν, wise, intelligent, 8, 11.
 
 ξυνήγαγε, Aor. of ξυνάγειν.
 
@@ -2379,7 +2350,7 @@ coast of the Morea, 80, 19.
 
 ξυνομωμοκότες, Perf. Part. of ξυνομνύναι.
 
-ξυντάσσειν (Aor. ξυνέταξα), draw up in order, 41, 8.
+ξυντάσσειν (Aor. ξυνέταξα), draw up in order, 41, 8.
 
 ξυνωμοσίᾱ (-ᾱς), ἡ, conspiracy, 6, 11.
 
@@ -2391,15 +2362,15 @@ coast of the Morea, 80, 19.
 
 ὀγδοήκοντα, eighty, 48, 19.
 
-ὅδε, ἧδε, τόδε, this, it habitually refers to what follows, διὰ τάδε, for the following reasons, 8, 9; when it is used with a noun, the article must precede the noun, κατὰ τὴν ἀρχὴν τοῦ πολέμου τοῦδε, at the beginning of this war, 4,12; except where a numeral is used, δύο αἰτίαι αἵδε, these two reasons, 8, 4.
+ὅδε, ἧδε, τόδε, this, it habitually refers to what follows, διὰ τάδε, for the following reasons, 8, 9; when it is used with a noun, the article must precede the noun, κατὰ τὴν ἀρχὴν τοῦ πολέμου τοῦδε, at the beginning of this war, 4,12; except where a numeral is used, δύο αἰτίαι αἵδε, these two reasons, 8, 4.
 
-Ὀδησσός (-ου), ἡ, Odessa, a Russian port on the Black Sea, 6, 4.
+Ὀδησσός (-ου), ἡ, Odessa, a Russian port on the Black Sea, 6, 4.
 
 ὁδός (-οῦ), ἡ, road, way, 4, 8, street, 88, 3; march, ἐν ὁδῷ εἶναι, 9, 20; τῆς ὁδοῦ ἡγεῖσθαι, 54, 27.
 
 ὅθεν, (a) whence, 41, 9; (b) for which reason, 26, 15.
 
-Ὀθωμανός (-οῦ), ὁ, Ottoman, 17, 23.
+Ὀθωμανός (-οῦ), ὁ, Ottoman, 17, 23.
 
 οἴεσθαι, think (Acc. and Inf.), 36, 19; ᾧοντο δεῖν, they thought it their duty, 84, 32.
 
@@ -2431,9 +2402,9 @@ coast of the Morea, 80, 19.
 
 ὀλίγος, -η, -ον, (a) of number, few, 4, 5; (b) of quantity, small, 4, 23; (c) of time, short, 10, 18.
 
-ὀλιγορίᾱ (-ᾱς), ἡ, contempt; ἐν ὀλιγωρίᾳ ἔχειν, 8, 9, or ποιεῖσθαι, 29, 12, to hold in contempt.
+ὀλιγορίᾱ (-ᾱς), ἡ, contempt; ἐν ὀλιγωρίᾳ ἔχειν, 8, 9, or ποιεῖσθαι, 29, 12, to hold in contempt.
 
-ὁλκάς (-άδος), ἡ, merchantman, 24, 2.
+ὁλκάς (-άδος), ἡ, merchantman, 24, 2.
 
 Ὄλορος (-ου), ὁ, Olorus, the father of Thucydides, 3, 8.
 
@@ -2475,26 +2446,25 @@ coast of the Morea, 80, 19.
 
 ὄπισθεν, (i.) Adv., behind, 39, 28; ὁ ὄπισθεν λόφος, the hill behind, 33, 22; οἱ τὰ ὄπισθεν φυλάσσοντες, the rear-guard, 88,1. (ii.) As Prep. with Gen., behind; ὄπισθεν τῆς κώμης, behind the village, 11, 11.
 
-ὅπλα (-ων), τά, arms, 8, 23; ὅπλα λαμβάνειν, 5, 8, or αἴρειν, 8, 7, to take up arms; ἐν ὅπλοις εἶναι, to be under arms, 18, 4.
+ὅπλα (-ων), τά, arms, 8, 23; ὅπλα λαμβάνειν, 5, 8, or αἴρειν, 8, 7, to take up arms; ἐν ὅπλοις εἶναι, to be under arms, 18, 4.
 
 ὀπλῑ́της (-ου), ὁ, heavy-armed soldier, 11, 8.
 
-ὁπλῑτικός, -ή, -όν, consisting of heavyarmed soldiers; ὁκλιτικόν πλῆθος, 49, 12, or τὸ ὁπλιτικόν, 51, 18, a body of regulars.
+ὁπλῑτικός, -ή, -όν, consisting of heavyarmed soldiers; ὁκλιτικόν πλῆθος, 49, 12, or τὸ ὁπλιτικόν, 51, 18, a body of regulars.
 
-ὅποι, (i.) indirect interrog. adv., whither, ἀποροῦντες ὅποι τράπωνται, not knowing where to turn, 39, 5. (ii.) Relative adv., whither, ἀπιέναι ὅποι ἂν βούλωνται, to go away wherever they liked, 81, 29.
+ὅποι, (i.) indirect interrog. adv., whither, ἀποροῦντες ὅποι τράπωνται, not knowing where to turn, 39, 5. (ii.) Relative adv., whither, ἀπιέναι ὅποι ἂν βούλωνται, to go away wherever they liked, 81, 29.
 
 ὁποῖος, -ᾱ, -ον, what, Lat. qualis, 46, 27.
 
 ὁπόταν, with Subj., whenever, ὁπόταν βούληται, whenever he liked, 41, 16.
 
-ὁπότε, with Optat. after an historic tense, whenever, ὁπότε ἐς χεῖρας ἔλθοιεν, ἐς φυγὴν ἐτρέποντο, whenever they came to close quarters, they turned and fled, 41, 26.
+ὁπότε, with Optat. after an historic tense, whenever, ὁπότε ἐς χεῖρας ἔλθοιεν, ἐς φυγὴν ἐτρέποντο, whenever they came to close quarters, they turned and fled, 41, 26.
 
 ὁπότερος, -ᾱ, -ον, used in indirect Quest., which of two, 86, 24.
 
 ὅπου, Relative adv., where, 48, 16.
 
-ὅπως, (i.) Relative adv., how, with Fut.
-Ind. esp. after verbs of effort; ἐπιμελεῖσθαι ὅπως ἐμποδὼν γενήσονται τῷ Σουλτάνῳ, to take care to hinder the Sultan, 28, 9. (ii.) In Indirect Questions, ἀποροῦντες ὅπως σωθήσονται, being at a loss how to escape, 26,16. (iii.) As Final Conjunction, in order that, (a) with Subj., 29, 3; (b) after an historic tense, with Optat., 32, 9.
+ὅπως, (i.) Relative adv., how, with Fut. Ind. esp. after verbs of effort; ἐπιμελεῖσθαι ὅπως ἐμποδὼν γενήσονται τῷ Σουλτάνῳ, to take care to hinder the Sultan, 28, 9. (ii.) In Indirect Questions, ἀποροῦντες ὅπως σωθήσονται, being at a loss how to escape, 26,16. (iii.) As Final Conjunction, in order that, (a) with Subj., 29, 3; (b) after an historic tense, with Optat., 32, 9.
 
 ὁρᾶν (Aor. εἶδον, Perf. ἑόρακα), see (i.) Acc., 8, 5; (ii.) Acc. and Part., 11, 25; (iii.) ὅτι, 18, 26. Comp. καθ-, περι-, προ-.
 
@@ -2502,7 +2472,7 @@ Ind. esp. after verbs of effort; ἐπιμελεῖσθαι ὅπως ἐμπο�
 
 ὀργίζεσθαι, be angry, 19, 23.
 
-ὀρεινός, -ή, -όν, mountainous, 3, 1.
+ὀρεινός, -ή, -όν, mountainous, 3, 1.
 
 ὁρίζειν, form the boundary of (Acc.), 6, 24.
 
@@ -2510,7 +2480,7 @@ Ind. esp. after verbs of effort; ἐπιμελεῖσθαι ὅπως ἐμπο�
 
 ὅρκος (-ου), ὁ, oath, 16, 26.
 
-ὁρμᾶσθαι (Aor. ὡρμήθην), set out, start, 44, 14.
+ὁρμᾶσθαι (Aor. ὡρμήθην), set out, start, 44, 14.
 
 ὁρμεῖν, lie at anchor, 28, 27.
 
@@ -2522,7 +2492,7 @@ Ind. esp. after verbs of effort; ἐπιμελεῖσθαι ὅπως ἐμπο�
 
 ὅσιος, -ᾱ, -ον, holy, religious, 8, 11.
 
-ὅσος, -η, -ον, Lat. quantus, (i) as much as, as many as, all who; ὅσους ἔπειθον ξυνάγουσιν ἐς τὴν ξυνωμοσίαν, they enrol in the conspiracy all whom they persuaded, 6, 10; the correlative is τοσοῦτος, 48, 20; ὅσον οὐ, almost, 38, 15. (ii.) ὅσος ἄν, with Subj., whoever, whatever; ὅσα ἂν δέῃ, whatever was necessary, 46, 17. (iii.) ὅσος, with Optat. after an historic tense, whoever, whatever; ὅσα χρήματα λάβοιεν ἐδαπάνων, they spent whatever money they got, 46, 29,
+ὅσος, -η, -ον, Lat. quantus, (i) as much as, as many as, all who; ὅσους ἔπειθον ξυνάγουσιν ἐς τὴν ξυνωμοσίαν, they enrol in the conspiracy all whom they persuaded, 6, 10; the correlative is τοσοῦτος, 48, 20; ὅσον οὐ, almost, 38, 15. (ii.) ὅσος ἄν, with Subj., whoever, whatever; ὅσα ἂν δέῃ, whatever was necessary, 46, 17. (iii.) ὅσος, with Optat. after an historic tense, whoever, whatever; ὅσα χρήματα λάβοιεν ἐδαπάνων, they spent whatever money they got, 46, 29,
 
 ὅσπερ, ἥπερ , ὅπερ, emphatic form of ὅς, ἥ, ὅ, the very one who, the very thing which, 35, 6.
 
@@ -2534,7 +2504,7 @@ Ind. esp. after verbs of effort; ἐπιμελεῖσθαι ὅπως ἐμπο�
 
 ὅ τι, Neut. of ὅστις.
 
-ὅτι, (i.) Adv. used with Superl. like Lat. quam, as much as possible; ὅτι μάλιστα ὠργίζετο, he was exceedingly angry, 80, 20. (ii.) Conj. introducing a Noun Clause, that, with many verbs, e.g., ἀγγέλλειν, 7, 16; ἀγνοεῖν, 11, 30; αἰσθάνεσθαι, 18, 1; ἀκούειν, 28, 24; ἀποκρίνεσθαι, 16, 16; βουλεύειν, 6, 16; γράφειν, 43, 26; δηλοῦν, 46, 14; ἐνθυμεῖσθαι, 42, 16; κηρύσσειν, 7, 27; λέγειν, 8, 28; μανθάνειν, 11, νομίζειν, 5, 10; ὁρᾶν, 18, 26; προσποιεῖσθαι, 19, 6; σκοπεῖν, 36, 24; and such phrases as δῆλόν ἐστι, 10, 3; φανερόν ἐστι, 84, 8; ἀγγελία ἦλθε, 7, 18; γνώμην ποιεῖσθαι, 24, 1. After ὅτι the original tense is retained, but the Mood may be altered to the Optat. if the main verb is in an historic tense, 48, 5, 12, 18, 22. (iii.) Conj. introducing a Causal Clause, because, 14, 29.
+ὅτι, (i.) Adv. used with Superl. like Lat. quam, as much as possible; ὅτι μάλιστα ὠργίζετο, he was exceedingly angry, 80, 20. (ii.) Conj. introducing a Noun Clause, that, with many verbs, e.g., ἀγγέλλειν, 7, 16; ἀγνοεῖν, 11, 30; αἰσθάνεσθαι, 18, 1; ἀκούειν, 28, 24; ἀποκρίνεσθαι, 16, 16; βουλεύειν, 6, 16; γράφειν, 43, 26; δηλοῦν, 46, 14; ἐνθυμεῖσθαι, 42, 16; κηρύσσειν, 7, 27; λέγειν, 8, 28; μανθάνειν, 11, νομίζειν, 5, 10; ὁρᾶν, 18, 26; προσποιεῖσθαι, 19, 6; σκοπεῖν, 36, 24; and such phrases as δῆλόν ἐστι, 10, 3; φανερόν ἐστι, 84, 8; ἀγγελία ἦλθε, 7, 18; γνώμην ποιεῖσθαι, 24, 1. After ὅτι the original tense is retained, but the Mood may be altered to the Optat. if the main verb is in an historic tense, 48, 5, 12, 18, 22. (iii.) Conj. introducing a Causal Clause, because, 14, 29.
 
 ὅτῳ, Dat. Sing. of ὅστις.
 
@@ -2588,7 +2558,7 @@ Ind. esp. after verbs of effort; ἐπιμελεῖσθαι ὅπως ἐμπο�
 
 πάλαι, formerly, in ancient times, 8, 7.
 
-παλαιός, -ᾱ́, -όν, ancient, 4, 14, old, 48, 2; οἱ παλαιοί, the ancients, 3, 5.
+παλαιός, -ᾱ́, -όν, ancient, 4, 14, old, 48, 2; οἱ παλαιοί, the ancients, 3, 5.
 
 πανοικεσίᾳ [MACRON], with all one's family, 81, 18.
 
@@ -2654,7 +2624,7 @@ Ind. esp. after verbs of effort; ἐπιμελεῖσθαι ὅπως ἐμπο�
 
 παρασκευή (-ῆς), ἡ, preparation, equipment, 43, 4; ἐν παρασκευῇ εἶναι τοῦ πολέμου, to be engaged in preparations for war, 8, 28; ἐκ παρασκευῆς, by arrangement, 19, 2.
 
-παραστᾱ́ς, -ᾶσα, -άν, standing near, 12, 11. Str. Aor. Part. of παριστάναι.
+παραστᾱ́ς, -ᾶσα, -άν, standing near, 12, 11. Str. Aor. Part. of παριστάναι.
 
 παρασχόν, Str. Aor. Part. of παρέχειν.
 
@@ -2662,7 +2632,7 @@ Ind. esp. after verbs of effort; ἐπιμελεῖσθαι ὅπως ἐμπο�
 
 παρεβοήθησε, Aor. of παραβοηθεῖν.
 
-παρεγίγνοντο, Past Impft. of παραγίγνεσθαι.
+παρεγίγνοντο, Past Impft. of παραγίγνεσθαι.
 
 παρεδέξαντο, Aor. of παραδέχεσθαι.
 
@@ -2672,7 +2642,7 @@ Ind. esp. after verbs of effort; ἐπιμελεῖσθαι ὅπως ἐμπο�
 
 παρεῖχον, Past Impft., of παρέχειν.
 
-παρεκομίσαντο, Aor. of παρακομίζεσθαι.
+παρεκομίσαντο, Aor. of παρακομίζεσθαι.
 
 παρέλαβε, Aor. of παραλαμβάνειν.
 
@@ -2692,7 +2662,7 @@ Aor, of παρέρχομαι.
 
 παρεσκευάζοντο, Past Impft. Mid. of παρασκευάζειν.
 
-παρεσκευάσαντο, Aor. Mid. of παρασκευάζειν.
+παρεσκευάσαντο, Aor. Mid. of παρασκευάζειν.
 
 πάρεστι, Pres. Ind. of παρεῖναι.
 
@@ -2712,22 +2682,22 @@ Aor, of παρέρχομαι.
 
 πάροδος (-ου), ἡ, pass, 28, 10.
 
-παρουσίᾱ (-ᾱς), ἡ, presence, 18, 11.
+παρουσίᾱ (-ᾱς), ἡ, presence, 18, 11.
 
 παρών, Pres. Part. of παρεῖναι.
 
 πᾶς, πᾶσα, πᾶν, all, every, 1, 18; ἐν παντὶ δὴ ἀταξίας εἶναι, to be in utter disorder, 9, 1; ἐν πᾶσιν ἀνθρώποις, among all men, 44, 18; πᾶν στράτευμα, every army, 80, 26.
 
-Πάσχα, τό, the Passover, 20, 14.
+Πάσχα, τό, the Passover, 20, 14.
 
-πάσχειν (Aor. ἔπαθον, Perf. πέπονθα), suffer, 8, 21; ἄνομα πάσχειν ὑπό (Gen.), to suffer illegally at the hands of, 8, 163; οὔτε οἷοί τ' ἔσονται βλάπτειν ἡμᾶς πλείω ἢ πάσχειν, nor will they be able to inflict more harm on us than they will suffer themselves, 86, 28.
+πάσχειν (Aor. ἔπαθον, Perf. πέπονθα), suffer, 8, 21; ἄνομα πάσχειν ὑπό (Gen.), to suffer illegally at the hands of, 8, 163; οὔτε οἷοί τ' ἔσονται βλάπτειν ἡμᾶς πλείω ἢ πάσχειν, nor will they be able to inflict more harm on us than they will suffer themselves, 86, 28.
 
 Πάτραι (-ῶν), αἱ, Patras, a town on S.
 side of the Corinthian Gulf, 40, .5.
 
 Πατριάρχης (-ου), ὁ, Patriarch, the head of the Greek Orthodox Church, 19, 28.
 
-πατρίς (-ίδος), ἡ, native country, 8, 29.
+πατρίς (-ίδος), ἡ, native country, 8, 29.
 
 παύειν, (i.) stop, quench, 28, 18. (ii.) Mid., cease, 27, 23; οὐκ ἐπαύσαντο μαχόμενοι, they did not cease fighting, 80, 8; παύεσθαι τοῦ πολέμου, to cease from hostilities, 86, 17.
 
@@ -2737,7 +2707,7 @@ side of the Corinthian Gulf, 40, .5.
 
 πεζομαχίᾱ (-ᾱς), ἡ, battle on land, 8, 29.
 
-πεζός, -ή, -όν, lit. on foot; οἱ πεζοί, the infantry, 89, 22; ναυσὶ καὶ πεζῷ, with fleet and army, 81, 15.
+πεζός, -ή, -όν, lit. on foot; οἱ πεζοί, the infantry, 89, 22; ναυσὶ καὶ πεζῷ, with fleet and army, 81, 15.
 
 πείθειν (Aor. Act. ἔπεισα, Pass. ἐπείσθην), persuade, (i.) Acc., 6, 11; (ii.) Acc. and Inf, 21, 25; (iii.) Acc. and ἐς, 22, 17. Comp. ἀνα-.
 
@@ -2771,14 +2741,14 @@ side of the Corinthian Gulf, 40, .5.
 
 πέπρακται, Perf. Pass. of πράσσειν.
 
-περί, Prep. with Gen. and Acc. (i) With Gen. (a) about, concerning; τὰ περὶ τῆς ξυνωμοσίας, the facts about the conspiracy, 1, 12; περὶ τῶν φόρων βουλεύειν, to deliberate about the taxes, 18, 16. (b) beyond; περὶ πλείστου ποιεῖσθαι, to value very highly (lit. above very much), 42, 20. (ii.) With Acc. (a) of place, around, near; περι Σάμον ὁρμεῖν, to lie at  anchor off Samos, 28, 27. (b) Of time, about; περὶ τοῦτον τὸν χρόνον, about this time, 29, 18. (c) Of things, about, concerning; περὶ τὰ πολιτικὰ ἄπειρος, inexperienced in politics, 23, 16; περὶ ταῦτα εἶναι, to be thus engaged, 48, 4; τὰ περὶ τὴν Κρήτην, events in Crete, 41, 80. In Comp. (a) around, περιέχειν, to surround; (b) denoting neglect, περιορᾶν, to overlook; (c) denoting excess, περιγίγνεσθαι, to prevail.
+περί, Prep. with Gen. and Acc. (i) With Gen. (a) about, concerning; τὰ περὶ τῆς ξυνωμοσίας, the facts about the conspiracy, 1, 12; περὶ τῶν φόρων βουλεύειν, to deliberate about the taxes, 18, 16. (b) beyond; περὶ πλείστου ποιεῖσθαι, to value very highly (lit. above very much), 42, 20. (ii.) With Acc. (a) of place, around, near; περι Σάμον ὁρμεῖν, to lie at  anchor off Samos, 28, 27. (b) Of time, about; περὶ τοῦτον τὸν χρόνον, about this time, 29, 18. (c) Of things, about, concerning; περὶ τὰ πολιτικὰ ἄπειρος, inexperienced in politics, 23, 16; περὶ ταῦτα εἶναι, to be thus engaged, 48, 4; τὰ περὶ τὴν Κρήτην, events in Crete, 41, 80. In Comp. (a) around, περιέχειν, to surround; (b) denoting neglect, περιορᾶν, to overlook; (c) denoting excess, περιγίγνεσθαι, to prevail.
 
 περιβάλλειν, throw all round, 13, 20.
 
 περιγίγνεσθαι (Aor. περιεγενόμην, Fut.
-περιγενήσομαι), survive, prevail, 88, 10; οἱ περιγενόμενοι, the survivors, 31, 19.
+περιγενήσομαι), survive, prevail, 88, 10; οἱ περιγενόμενοι, the survivors, 31, 19.
 
-περιγραπτός, -όν, confined, circumscribed, 86, 28.
+περιγραπτός, -όν, confined, circumscribed, 86, 28.
 
 περιέβαλλον, Past Impft. of περιβάλλειν.
 
@@ -2788,8 +2758,7 @@ side of the Corinthian Gulf, 40, .5.
 
 περιεῖχον, Past Impft. of περιέχειν.
 
-περιελθεῖν, go round, 48, 24. Str. Aor.
-of περιέρχομαι.
+περιελθεῖν, go round, 48, 24. Str. Aor. of περιέρχομαι.
 
 περιέπεμψε, Aor. of περιπέμπειν.
 
@@ -2799,13 +2768,13 @@ of περιέρχομαι.
 
 περιϊδεῖν, disregard, 8, 18. Str. Aor. of περιορᾶν.
 
-περιϊστάναι, (a) Act. (Wk. Aor. περιέστησα), place round, 49, 2. (b) Mid. (with Str. Aor. περιέστην), come round; πάντα αὐτοῖς ἐς τὸ ἐναντίον περιέστη, everything turned out contrary to their. expectations, 48, 19.
+περιϊστάναι, (a) Act. (Wk. Aor. περιέστησα), place round, 49, 2. (b) Mid. (with Str. Aor. περιέστην), come round; πάντα αὐτοῖς ἐς τὸ ἐναντίον περιέστη, everything turned out contrary to their. expectations, 48, 19.
 
 περιμένειν, wait, 54, 2.
 
 πέριξ, all round, 41, 16.
 
-περιοικίς (-ίδος), ἡ, neighbourhood, 8, 27.
+περιοικίς (-ίδος), ἡ, neighbourhood, 8, 27.
 
 περιορᾶν (Str. Aor. περιεῖδον), overlook, permit, 44, 9.
 
@@ -2819,18 +2788,17 @@ of περιέρχομαι.
 
 πεσεῖν, Str. Aor. of πίπτειν.
 
-Πέτα, τό, Peta, a town near the S.
-boundary of Albania, 38, 19.
+Πέτα, τό, Peta, a town near the S. boundary of Albania, 38, 19.
 
 πετρώδης, -ες, rocky, 81, 21.
 
-πεφένγᾱσι, Perf. of φεύγειν.
+πεφένγᾱσι, Perf. of φεύγειν.
 
 πηγή (-ῆς), ἡ, spring, source; πηγὰς ἔχειν, to rise, 8, 17,
 
 πιέζεσθαι, be weighed down, 46, 11.
 
-πιθανός, -ή, -όν, persuasive, influential with (Dat.), 30, 1.
+πιθανός, -ή, -όν, persuasive, influential with (Dat.), 30, 1.
 
 πῖλος (-ου), ὁ, helmet, 9, 11.
 
@@ -2838,7 +2806,7 @@ boundary of Albania, 38, 19.
 
 πιστεύειν, (a) trust (Dat.), 14, 17; (b) believe, 44, 3; (c) feel confidence, 36, 20.
 
-πιστός, -ή, -όν, trustworthy, loyal, 8, 23.
+πιστός, -ή, -όν, trustworthy, loyal, 8, 23.
 
 πλεῖν (Fut. πλεύσομαι, Aor. ἔπλευσα), sail, 14, 5. Comp. ἀπο-, ἐκ-, ἐσ-.
 κατα-, ξυμ-, παρα-, περι-, προσ-.
@@ -2851,11 +2819,11 @@ boundary of Albania, 38, 19.
 
 πλεῦσαι, Aor, Inf. of πλεῖν.
 
-πληγείς, -εῖσα, -έν, struck, wounded, 41, 12. Wk. Aor. Pass. Part. of πλήσσειν, the Pres. is not used in Attic Prose, cf, ἐκπλήσσειν.
+πληγείς, -εῖσα, -έν, struck, wounded, 41, 12. Wk. Aor. Pass. Part. of πλήσσειν, the Pres. is not used in Attic Prose, cf, ἐκπλήσσειν.
 
 πλῆθος (-ους), τό, number, force, 16, 28; πολλῷ πλήθει, with a large force, 82, 29.
 
-πλήν, (i.) Adv. except; πλὴν ὅσοι ἀπέφυγον, except those who escaped, 1, 27; (ii.) as Prep. with Gen. except, 3, 15.
+πλήν, (i.) Adv. except; πλὴν ὅσοι ἀπέφυγον, except those who escaped, 1, 27; (ii.) as Prep. with Gen. except, 3, 15.
 
 πλήρης, -ες, full, 38, 29.
 
@@ -2869,12 +2837,11 @@ boundary of Albania, 38, 19.
 
 πλοῦτος (-ου), ὁ, wealth, 8, 10.
 
-ποιεῖν, (i.) Act. (Aor. ἐποίησα, Perf.
-πεποίηκα), make, do; οὐκ ἐδόκει ταῦτα ποιεῖν, it did not seem good to do this, 18, 8; τὸ Πάσχα ποιεῖν, to celebrate the Passover, 20, 14; ἐκκλησίαν ποιεῖν, to hold an assembly, 21, 22; ἄδειαν ποιεῖν (Dat.), to grant a safe conduct, 14, 16; δύο μέρη τοῦ στρατεύματος ποιῆσαι, to make two divisions of the army, 38, 20. (ii.) Mid. (a) make; ἐκεχειρίαν ἐποιήσαντο, they made an armistice, 27, 7; χῶμα ποιεῖσθαι, to make a mound, 88, 14; very common with nouns as a periphrasis for the corresponding verbs, e.g., ἀπόβασιν ποιεῖσθαι (= ἀποβαίνειν, to land), 24, 20; ἁρπαγὴν π. (= ἁρπάζειν, to plunder), 40, 2; γνώμην π. (= γιγνώσκειν, to propose), 48, 30; δάνεισμα π. (= δανείζεσθαι, to borrow money), 46, 8; ἐνέδραν π. (= ἐνεδρεύειν, to lay an ambuscade), 38, 14; ἐπέξοδον π. (= ἐπεξιέναι, to sally out), 28, 18; ἐπίπλουν π. (= ἐπιπλεῖν, to attack), 48, 2; εὐχὰς π. (= εὔχεσθαι, to pray), 11, 7; ἔφοδον π. (= ἐπιέναι, to attack), 88, 12; λείαν π. (= λῄζεσθαι, to plunder), 11, 29; ξύμβασιν π. (= ξυμβαίνειν, to come to terms), 81, 28; ὁμολογίαν π. (= ὁμολογεῖν, to make terms with), 49, 22; πεῖραν π. (= πειρᾶσθαι, to make trial of), 16, 9; πλοῦν π. (= πλεῖν, to sail), 23, 6; προσβολὴν π. (= προσβάλλειν, to attack), 28, 16; σπονδὰς π. (= σπένδεσθαι, to make a truce), 17, 1; τάφον or ταφὰς π. (= θάπτειν, to bury), 21, 5, 41, 253; φυγὴν π. (= φεύγειν, to flee), 11, 30; φυλακὴν π. (= φυλάσσειν, guard), 28, 11. (b) With predicated adjective, τὰς ναῦς ἄπλους ἐποιήσαντο, they made the ships unseaworthy, 24, 22; τοὺς ἐπιχωρίους ἀναστάτους ἐποιεῖτο, he expelled the inhabitants from their homes, 41, 26. (c) regard, consider; ἐν ὀλιγωρίᾳ ποιεῖσθαι, to hold in contempt, 29, 12; περὶ πλείστου ποιεῖσθαι, to consider of the greatest importance, 42, 20. Comp. περι-, προσ-.
+ποιεῖν, (i.) Act. (Aor. ἐποίησα, Perf. πεποίηκα), make, do; οὐκ ἐδόκει ταῦτα ποιεῖν, it did not seem good to do this, 18, 8; τὸ Πάσχα ποιεῖν, to celebrate the Passover, 20, 14; ἐκκλησίαν ποιεῖν, to hold an assembly, 21, 22; ἄδειαν ποιεῖν (Dat.), to grant a safe conduct, 14, 16; δύο μέρη τοῦ στρατεύματος ποιῆσαι, to make two divisions of the army, 38, 20. (ii.) Mid. (a) make; ἐκεχειρίαν ἐποιήσαντο, they made an armistice, 27, 7; χῶμα ποιεῖσθαι, to make a mound, 88, 14; very common with nouns as a periphrasis for the corresponding verbs, e.g., ἀπόβασιν ποιεῖσθαι (= ἀποβαίνειν, to land), 24, 20; ἁρπαγὴν π. (= ἁρπάζειν, to plunder), 40, 2; γνώμην π. (= γιγνώσκειν, to propose), 48, 30; δάνεισμα π. (= δανείζεσθαι, to borrow money), 46, 8; ἐνέδραν π. (= ἐνεδρεύειν, to lay an ambuscade), 38, 14; ἐπέξοδον π. (= ἐπεξιέναι, to sally out), 28, 18; ἐπίπλουν π. (= ἐπιπλεῖν, to attack), 48, 2; εὐχὰς π. (= εὔχεσθαι, to pray), 11, 7; ἔφοδον π. (= ἐπιέναι, to attack), 88, 12; λείαν π. (= λῄζεσθαι, to plunder), 11, 29; ξύμβασιν π. (= ξυμβαίνειν, to come to terms), 81, 28; ὁμολογίαν π. (= ὁμολογεῖν, to make terms with), 49, 22; πεῖραν π. (= πειρᾶσθαι, to make trial of), 16, 9; πλοῦν π. (= πλεῖν, to sail), 23, 6; προσβολὴν π. (= προσβάλλειν, to attack), 28, 16; σπονδὰς π. (= σπένδεσθαι, to make a truce), 17, 1; τάφον or ταφὰς π. (= θάπτειν, to bury), 21, 5, 41, 253; φυγὴν π. (= φεύγειν, to flee), 11, 30; φυλακὴν π. (= φυλάσσειν, guard), 28, 11. (b) With predicated adjective, τὰς ναῦς ἄπλους ἐποιήσαντο, they made the ships unseaworthy, 24, 22; τοὺς ἐπιχωρίους ἀναστάτους ἐποιεῖτο, he expelled the inhabitants from their homes, 41, 26. (c) regard, consider; ἐν ὀλιγωρίᾳ ποιεῖσθαι, to hold in contempt, 29, 12; περὶ πλείστου ποιεῖσθαι, to consider of the greatest importance, 42, 20. Comp. περι-, προσ-.
 
 πολεμεῖν (Fut. πολεμήσω), make war, 18, 14. Comp. κατα-.
 
-πολεμικός, -ή, -όν, belonging to war; τὰ πολεμικά, military affairs, 82, 1.
+πολεμικός, -ή, -όν, belonging to war; τὰ πολεμικά, military affairs, 82, 1.
 
 πολέμιος, -ᾱ, -ον hostile; οἱ πολέμιοι, the enemy, 10, 9.
 
@@ -2890,17 +2857,17 @@ boundary of Albania, 38, 19.
 
 πολῑ́της (-ου), ὁ, citizen, 6, 18.
 
-πολῑτικός, -ή, όν, political; τὰ πολῑτικά, parties, 23, 16.
+πολῑτικός, -ή, όν, political; τὰ πολῑτικά, parties, 23, 16.
 
-πολύ, Neut. of πολύς; as Adv. far, 40, 22.
+πολύ, Neut. of πολύς; as Adv. far, 40, 22.
 
 πολυάνθρωπος, -ον, populous, 4, 23.
 
 πολύς, πολλή, πολύ, (a) of number, many, 21, 8; τὰ πολλά, most things, 36, 25; τὸ πολύ, 39, 28, or οἱ πολλοί, 40, 4, the majority. (b) Of size, degree, etc., much, great, 21, 17; πολὺς ἀριθμός, a large number, 30, 24. (c) Of space or time, far, long; οὐκ ἐπὶ πολὺ ἡ δίωξις ἐγένετο, they did not pursue far, 84, 11; ἐπὶ πολὺν χρόνον, for a long time, 31, 8. (4) Adverbially, πολὺ ἀπέχειν, to be far off, 40, 22; τοὺς Τούρκους πολλὰ ἔβλαπτον, they did the Turks much damage, 88, 10; πρὸς πολλῷ δυνατωτέρους ἀγωνίζεσθαι, to fight against a far more powerful enemy, 31, 3. See also πλείων, πλεῖστος.
 
-πολυτελής, -ές, expensive, 46, 80.
+πολυτελής, -ές, expensive, 46, 80.
 
-πομπεύς (-έως), ὁ, member of a procession, 21, 7.
+πομπεύς (-έως), ὁ, member of a procession, 21, 7.
 
 πομπή (-ῆς), ἡ, procession, 21, 5.
 
@@ -2910,7 +2877,7 @@ boundary of Albania, 38, 19.
 
 πορεύεσθαι (Aor. ἐπορεύθην), go, march, 15, 14; πορεύεσθαι τὴν ὁδόν, to march along the road, 38, 24.
 
-πορθμεύς (-έως), ὁ, ferryman, 20, 28.
+πορθμεύς (-έως), ὁ, ferryman, 20, 28.
 
 πορίζειν (Fut. ποριῶ), provide, 7, 6.
 
@@ -2920,7 +2887,7 @@ boundary of Albania, 38, 19.
 
 που (enclitic), anywhere; ἄλλοθί που, elsewhere, 31, 17.
 
-πρᾶγμα (-ατος), τό, thing, 19, 23; τὰ πράγματα, affairs, 18, 25.
+πρᾶγμα (-ατος), τό, thing, 19, 23; τὰ πράγματα, affairs, 18, 25.
 
 πράσσειν (Aor. ἔπραξα, Perf. Pass. πέπραγμαι), (i.) Act. (a) do, 8, 14, act, 9, 17; πράσσειν πρός (Acc.), to negotiate with, 1, 10; πράσσειν ὅπως (with Fut. Ind.), to arrange that, 48, 21. (b) With adverbs, fare, 81, 22; καλῶς πράσσειν, to be successful, 83, 27. (ii.) Mid. exact; φόρον πράσσεσθαι, to collect the taxes, 18, 14. Comp.
 ξυμ-.
@@ -2929,9 +2896,9 @@ boundary of Albania, 38, 19.
 
 πρεσβύτερος, -ᾱ, -ον, older, 31, 15.
 
-πρίν, (i.) adv. before, 82, 18; δίκην λαμβάνειν τῶν πρὶν παθημάτων, to take vengeance for their previous sufferings, 11, 31; τὸ πρίν, formerly, 8, 11. (ii.) As Conj. (a) with Inf. before, 15, 1; (b) when main verb is negatived, until, with Ind. of definite time, 50, 3; with Optat. of indefinite time, 49, 23.
+πρίν, (i.) adv. before, 82, 18; δίκην λαμβάνειν τῶν πρὶν παθημάτων, to take vengeance for their previous sufferings, 11, 31; τὸ πρίν, formerly, 8, 11. (ii.) As Conj. (a) with Inf. before, 15, 1; (b) when main verb is negatived, until, with Ind. of definite time, 50, 3; with Optat. of indefinite time, 49, 23.
 
-πρό, Prep. with Gen, before; πρὸ τῆς θύρας, before the door, 20, 19. In Comp. before, forward, προκαταλαμβάνειν, to seize in advance; προϊέναι, to go forward.
+πρό, Prep. with Gen, before; πρὸ τῆς θύρας, before the door, 20, 19. In Comp. before, forward, προκαταλαμβάνειν, to seize in advance; προϊέναι, to go forward.
 
 προάγειν, lead on, 8, 4.
 
@@ -2945,8 +2912,7 @@ boundary of Albania, 38, 19.
 
 προδότης (-ου), ὁ, traitor, 7, 11.
 
-προελθεῖν, advance, 11, 24. Str. Aor.
-of προέρχομαι.
+προελθεῖν, advance, 11, 24. Str. Aor. of προέρχομαι.
 
 προεστῶτες, Perf. Part. Nom Plur. of προίστασθαι.
 
@@ -2956,7 +2922,7 @@ of προέρχομαι.
 
 προθῡμεῖσθαι (Aor. προυθῡμήθην), be eager, 11, 21.
 
-προθῡμίᾱ (-ᾱς), ἡ, enthusiasm, 13, 23.
+προθῡμίᾱ (-ᾱς), ἡ, enthusiasm, 13, 23.
 
 πρόθῡμος, -ον, eager, enthusiastic, 8, 5.
 
@@ -2964,8 +2930,7 @@ of προέρχομαι.
 
 προϊέναι, go forward; καθ' ἡμέραν ἑκάστην προϊοῦσαν, as each day passed, 84, 11.
 
-προίστασθαι (with Perf. προέστηκα, Perf.
-Part. προεστώς), be leader; οἱ προεστῶτες, the leaders, 49, 15.
+προίστασθαι (with Perf. προέστηκα, Perf. Part. προεστώς), be leader; οἱ προεστῶτες, the leaders, 49, 15.
 
 προκαλεῖσθαι, invite, 30, 8.
 
@@ -2989,7 +2954,7 @@ Part. προεστώς), be leader; οἱ προεστῶτες, the leaders, 49
 
 προσβοηθεῖν, come to the assistance, 12, 8.
 
-προσβολή (-ῆς), ἡ, attack, 28, 16.
+προσβολή (-ῆς), ἡ, attack, 28, 16.
 
 προσδέχεσθαι, (a) expect, 38, 14; (b) await, 38, 5.
 
@@ -3003,7 +2968,7 @@ Part. προεστώς), be leader; οἱ προεστῶτες, the leaders, 49
 
 προσελθεῖν, approach, arrive at (ἐς with Acc.), 11, 2. Str. Aor. of προσέρχομαι.
 
-προσέμειξαν, Aor. of προσμειγνύναι.
+προσέμειξαν, Aor. of προσμειγνύναι.
 
 προσέπεσε, Aor. of προσπίπτειν.
 
@@ -3027,8 +2992,7 @@ Part. προεστώς), be leader; οἱ προεστῶτες, the leaders, 49
 
 προσκαλεῖν, summon, 10, 13.
 
-προσλαμβάνειν (Fut. προσλήψομαι, Perf.
-προσείληφα, Aor. προσέλαβον), obtain in addition, gain, 8, 11.
+προσλαμβάνειν (Fut. προσλήψομαι, Perf. προσείληφα, Aor. προσέλαβον), obtain in addition, gain, 8, 11.
 
 προσμειγνύναι (Aor. προσέμειξα), engage, come to close quarters, 86, 25.
 
@@ -3040,7 +3004,7 @@ Part. προεστώς), be leader; οἱ προεστῶτες, the leaders, 49
 
 προσποιεῖσθαι, pretend (Acc. and Inf. or ὅτι), 19, 4.
 
-προστάξᾱς, -ᾱσα, -αν, having appointed, 7, 15. Wk. Aor. Part. of προστάσσειν.
+προστάξᾱς, -ᾱσα, -αν, having appointed, 7, 15. Wk. Aor. Part. of προστάσσειν.
 
 προστάσσειν (Aor. προσέταξα), appoint, 8, 18.
 
@@ -3070,13 +3034,13 @@ Part. προεστώς), be leader; οἱ προεστῶτες, the leaders, 49
 
 προύφερε, Past Impft. προφέρειν.
 
-προυχώρουν, Past Impft. of προχωρεῖν.
+προυχώρουν, Past Impft. of προχωρεῖν.
 
 προφέρειν, bring forward, 10, 9; σπονδὰς προφέρειν, to offer terms, 27, 6; λόγον προφέρειν, to make proposals, 81, 27.
 
 προχωρεῖν, (Fut. προχωρήσω), (a) advance, 9, 30; οὐ προυχώρει αὐτοῖς τὰ πράγματα ᾗ ἐβούλοντο, matters did not proceed as they wished, 18, 25. (b) succeed; οὐ μέντοι προυχώρησέ γε, he was not however successful, 58, 6.
 
-προχωρήσᾱς, -ᾱσα, -αν, having advanced, 11, 25. Wk. Aor. Part. of προχωρεῖν.
+προχωρήσᾱς, -ᾱσα, -αν, having advanced, 11, 25. Wk. Aor. Part. of προχωρεῖν.
 
 πρῶτον, first, firstly, 28, 15; πρῶτον μέν... ἔπειτα, firstly... secondly, 8, 9.
 
@@ -3092,8 +3056,7 @@ Part. προεστώς), be leader; οἱ προεστῶτες, the leaders, 49
 
 πύργος (-ου), ὁ, tower, 1, 22.
 
-πυρῖτις (-ιδος), ἡ, gunpowder, 18, 28.
-Modern Greek word.
+πυρῖτις (-ιδος), ἡ, gunpowder, 18, 28. Modern Greek word.
 
 πωλεῖν, sell, 26, 22.
 
@@ -3105,11 +3068,11 @@ Modern Greek word.
 
 ῥᾳδίως [MACRON], easily, 8, 16.
 
-ῥᾷον, more easily, 81, 14. Compar. of ῥᾳδίως.
+ῥᾷον, more easily, 81, 14. Compar. of ῥᾳδίως.
 
 ῥεῖν, flow 11, 13.
 
-ῥητός, -ή, -όν, specified; ἐπὶ τῷ ῥητὸν ἀργύριον δέχεσθαι, on condition of receiving a stated sum of money, 26, 22.
+ῥητός, -ή, -όν, specified; ἐπὶ τῷ ῥητὸν ἀργύριον δέχεσθαι, on condition of receiving a stated sum of money, 26, 22.
 
 ῥίπτειν (Aor. ἔρριψα), throw, 20, 25.
 
@@ -3117,7 +3080,7 @@ Modern Greek word.
 
 Ῥωσσίᾱ (-ᾱς), ἡ, Russia, 6, 23.
 
-Ῥωσσικός, -ή, -όν, Russian, 6, 5.
+Ῥωσσικός, -ή, -όν, Russian, 6, 5.
 
 Ῥῶσσος (-ου), ὁ, Russian, 8, 25.
 
@@ -3149,7 +3112,7 @@ Modern Greek word.
 
 σκοπεῖν, (a) look at, 48, 8; τὰ ἑαντῶν μόνον σκοποῦντες, only regarding their own interests, 46, 10. (b) look for; καιρὸν σκοποῦντες, watching their opportunity, 82, 27. (c) consider, (i.) ὅτι, 36, 24; (ii) ὅπως with Fut. Ind., 18, 20; (iii.) ὅπως with Delib. Subj., 47, 5. Comp. δια-.
 
-σκοτεινός, -ή, -όν, dark, 41, 1.
+σκοτεινός, -ή, -όν, dark, 41, 1.
 
 Σκουλένιον (-ου), τό, Skuleni, a town in Moldavia on the Pruth, 18, 17.
 
@@ -3165,7 +3128,7 @@ Modern Greek word.
 
 σπένδεσθαι, (a) make a truce, 16, 17; (b) make terms, 26, 16.
 
-Στετσά (-ῶν), τά, Spetza, an island off E. coast of the Morea, 22, 16.
+Στετσά (-ῶν), τά, Spetza, an island off E. coast of the Morea, 22, 16.
 
 σπονδαί (-ῶν), αἱ, (a) truce, 16, 14; (b) terms, 21, 6.
 
@@ -3173,23 +3136,23 @@ Modern Greek word.
 
 σπουδή (-ῆς), ἡ, energy, 86, 2; κατὰ σπουδήν, hastily, 38, 4.
 
-στάδιον (-ου), τό, stade, a standard of length, about 200 yds. Plur. στάδιοι, 9, 29, or στάδια, 11, 18.
+στάδιον (-ου), τό, stade, a standard of length, about 200 yds. Plur. στάδιοι, 9, 29, or στάδια, 11, 18.
 
 στασιάζειν, quarrel, be at civil war, 81,
 
 στάσις (-εως), ἡ, civil war, 80, 12.
 
-στενός, -ή, -όν, narrow, 3, ὃ.
+στενός, -ή, -όν, narrow, 3, ὃ.
 
 στῆναι, Str. Aor. Inf. of ἱστάναι.
 
-στρατείᾱ (-ᾱς), ἡ, expedition, 9, 16.
+στρατείᾱ (-ᾱς), ἡ, expedition, 9, 16.
 
 στρατεύειν, make an expedition, march, 82, 18.
 
 στράτευμα (-ατος), τό, army, 26, 25.
 
-στρατεύσᾱς, -ᾱσα, -αν, having marched, 1, 22. Wk. Aor. Part. of στρατεύειν.
+στρατεύσᾱς, -ᾱσα, -αν, having marched, 1, 22. Wk. Aor. Part. of στρατεύειν.
 
 στρατηγεῖν, (a) be general, 18, 5; (b) be in command of (Gen.), 11, 5.
 
@@ -3201,7 +3164,7 @@ Modern Greek word.
 
 στρατιώτης (-ου), ὁ, soldier, 6, 29.
 
-στρατοπεδεύεσθαι (Aor. ἐστρατοπεδευσάμην, Perf. ἐστρτοπἐδευμαι), encamp, 28, 10. Comp. κατα-.
+στρατοπεδεύεσθαι (Aor. ἐστρατοπεδευσάμην, Perf. ἐστρτοπἐδευμαι), encamp, 28, 10. Comp. κατα-.
 
 στρατόπεδον (-ου), τό, camp, 8, 80.
 
@@ -3211,7 +3174,7 @@ Modern Greek word.
 
 Σφακτηρίᾱ (-ᾱς), ἡ Sphakteria, an island off W. coast of the Morea, 51, 13.
 
-σφεῖς (σφῶν), (a) Indirect Reflex. they, 81, 15; (b) in Oblique Cases, σφᾶς αὐτούς, (i.) Direct Reflex. themselves; σφᾶς αὐτοὺς παραδιδόναι, to surrender themselves, 83, 3; (ii.) as Reciproc. each other; ἐν σφίσιν αὐτοῖς ἐβουλεύοντο, they deliberated with one another, 81, 26.
+σφεῖς (σφῶν), (a) Indirect Reflex. they, 81, 15; (b) in Oblique Cases, σφᾶς αὐτούς, (i.) Direct Reflex. themselves; σφᾶς αὐτοὺς παραδιδόναι, to surrender themselves, 83, 3; (ii.) as Reciproc. each other; ἐν σφίσιν αὐτοῖς ἐβουλεύοντο, they deliberated with one another, 81, 26.
 
 σφέτερος, -ᾱ, -ον, Direct or Indirect Reflex. their own, their; with αὐτῶν, Direct Retlex., τὰ σφέτερα αὐτῶν λαβόντες, taking their own property, 87, 1.
 
@@ -3255,7 +3218,7 @@ Modern Greek word.
 
 τάχος (-ους), τό, speed; κατὰ τάχος, 17, 20, or ἐν τάχει, 22, 14, quickly, at once.
 
-τε (enclitic), (i.) τε... καί, both... and, 8, 9. (ii.) Joining sentences, and, 8, 7. (iii.) Attached to pronouns and pronominal words, see ὥστε, ἐφ' ᾧτε, οἷός τε.
+τε (enclitic), (i.) τε... καί, both... and, 8, 9. (ii.) Joining sentences, and, 8, 7. (iii.) Attached to pronouns and pronominal words, see ὥστε, ἐφ' ᾧτε, οἷός τε.
 
 τεθαρσηκότες, Perf. Part. of θαρσεῖν.
 
@@ -3297,9 +3260,9 @@ Modern Greek word.
 
 τῑμᾶν, honour, 48, 29.
 
-τῑμή (-ῆς), ἡ, honour, 42, 21.
+τῑμή (-ῆς), ἡ, honour, 42, 21.
 
-τῑμωρίᾱ (-ᾱς), ἡ, punishment, vengeance, 8, 6; τὴν τιμωρίαν τῶν ἀδικησάντων ἀναλαμβάνειν, to take vengeance on the guilty, 9, 21; τιμωρίαν ἀναλαβεῖν πάντων ὧν ἐπεπόνθεσαν, to take vengeance for their sufferings, 22, 13.
+τῑμωρίᾱ (-ᾱς), ἡ, punishment, vengeance, 8, 6; τὴν τιμωρίαν τῶν ἀδικησάντων ἀναλαμβάνειν, to take vengeance on the guilty, 9, 21; τιμωρίαν ἀναλαβεῖν πάντων ὧν ἐπεπόνθεσαν, to take vengeance for their sufferings, 22, 13.
 
 τις, τι (enclitic), Indef. Pronoun or Adj. any one, anything; some one, something; a certain one, εἴ τις ἄλλος, if any one else, 8, 23; μετὰ ἡμέρας τινάς, after some days, 8, 20; ἐγγὺς κώμης τινός, near a certain village, 9, 28; εἰ μὴ τειχιεῖ τις τὴν πόλιν, unless some one shall fortify the town, 48, 24; ἐς ὀκτακοσίους τινάς, to the number of some eight hundred, 11, 4; in apposition to οἱ μέν or οἱ δέ, οἱ δέ τινες ἐς τὰς Πάτρας ἀπεκομίσθησαν, but some few returned to Patras, 40, 5.
 
@@ -3319,7 +3282,7 @@ what? τίνα ἐλπίδα ἔχοντες ἢ τίνι γνώμῃ μέλλε
 
 τολμᾶν, venture, dare, 5, 14.
 
-τολμηρός, -ᾱ́, -όν, daring, venturesome, 8, 15.
+τολμηρός, -ᾱ́, -όν, daring, venturesome, 8, 15.
 
 τολμηρῶς, boldly, 12, 12.
 
@@ -3329,7 +3292,7 @@ what? τίνα ἐλπίδα ἔχοντες ἢ τίνι γνώμῃ μέλλε
 
 τοὐναντίον, see ἐναντίος.
 
-Τουρκικός, -ή, -όν, Turkish, 6, 29.
+Τουρκικός, -ή, -όν, Turkish, 6, 29.
 
 Τοῦρκος (-ου), ὁ, Turk, 4, 18.
 
@@ -3339,7 +3302,7 @@ what? τίνα ἐλπίδα ἔχοντες ἢ τίνι γνώμῃ μέλλε
 
 τούτου, Gen. of οὗτος.
 
-Τρανσιλβᾱνίᾱ (-ᾱς), ἡ, Transylvania, a district of Austria, adjoining Wallachia, 18, 6.
+Τρανσιλβᾱνίᾱ (-ᾱς), ἡ, Transylvania, a district of Austria, adjoining Wallachia, 18, 6.
 
 τραπέσθαι, Aor. Mid. of τρέπειν.
 
@@ -3371,17 +3334,17 @@ what? τίνα ἐλπίδα ἔχοντες ἢ τίνι γνώμῃ μέλλε
 
 τριῶν, Gen. of τρεῖς.
 
-τροπή (-ῆς), ἡ, rout, 88, 28.
+τροπή (-ῆς), ἡ, rout, 88, 28.
 
 τρόπος (-ου), ὁ, manner, 10, 19; παντὶ τρόπῳ, in every way, 18, 3.
 
 τροφή (-ῆς), ἡ, food, 26, 14; fodder, 36, 21; ἔχειν τὴν τροφήν, to maintain oneself 4, 29.
 
-Τσαβέλλας, ὁ, Tsavella, one of the Souliote leaders, 40, 27.
+Τσαβέλλας, ὁ, Tsavella, one of the Souliote leaders, 40, 27.
 
 τυγχάνειν (Aor. ἔτυχον), (a) meet with (Gen), 17, 26; (b) happen (with Part.); ἔτυχον εγγὺς παραστάντες, they happened to be standing near, 12, 11. Comp. ἐν-.
 
-τυραννίς (-ίδος), ἡ, tyranny, 8, 28.
+τυραννίς (-ίδος), ἡ, tyranny, 8, 28.
 
 τύραννος (-ου), ὁ, despot, autocrat, 1, 29.
 
@@ -3395,9 +3358,9 @@ what? τίνα ἐλπίδα ἔχοντες ἢ τίνι γνώμῃ μέλλε
 
 Ὑδρᾱ (-ᾱς), ἡ, Hydra, an island off E. coast of Morea, 22, 16.
 
-ὑετός [MACRON] (-ου), ὁ, rain, 8, 16.
+ὑετός [MACRON] (-ου), ὁ, rain, 8, 16.
 
-υἱός (-οῦ), ὁ, son, 7, 18.
+υἱός (-οῦ), ὁ, son, 7, 18.
 
 ὕλη [MACRON] (-ης), ἡ, wood, 89, 6.
 
@@ -3413,7 +3376,7 @@ what? τίνα ἐλπίδα ἔχοντες ἢ τίνι γνώμῃ μέλλε
 
 ὑπακούειν, listen, obey, (i.) Abs. 8, 14; (ii.) Dat. 8, 6; (iii.) Gen. 9, 6.
 
-ὑπάρχειν (Fut. ὑπάρξω (a) be, exist; οὔτε τροφὴ ἱκανὴ ὑπῆρχε, there were not sufficient supplies, 26, 15. (b) With Dat. ὑπάρχει μοι, I have; ἐν γῇ ἀλλοτρίᾳ καταφυγὴ ὑπῆρχεν αὐτοῖς, they found an asylum on foreign soil, 14, 2.
+ὑπάρχειν (Fut. ὑπάρξω) (a) be, exist; οὔτε τροφὴ ἱκανὴ ὑπῆρχε, there were not sufficient supplies, 26, 15. (b) With Dat. ὑπάρχει μοι, I have; ἐν γῇ ἀλλοτρίᾳ καταφυγὴ ὑπῆρχεν αὐτοῖς, they found an asylum on foreign soil, 14, 2.
 
 ὕπαρχος (-ου), ὁ, governor, 7, 1.
 
@@ -3457,13 +3420,13 @@ what? τίνα ἐλπίδα ἔχοντες ἢ τίνι γνώμῃ μέλλε
 
 ὑποσχόμενος, Aor. Part. of ὑπισχνεῖσθαι.
 
-ὑποτελής, -ές, liable to pay; ὑποτελὴς φόρου, tributary, 22, 19.
+ὑποτελής, -ές, liable to pay; ὑποτελὴς φόρου, tributary, 22, 19.
 
 ὑποφεύγειν (Aor. ὑπέφυγον), escape, 11, 10, οἱ ὑποφυγόντες, the fugitives, 55, 17.
 
 ὑποχωρεῖν, retreat, 10, 1.
 
-ὑποψίᾱ (-ᾱς), ἡ, suspicion, 9, 1; ἐν ὑποψίᾳ ἔχειν, to regard with suspicion, 19, 21.
+ὑποψίᾱ (-ᾱς), ἡ, suspicion, 9, 1; ἐν ὑποψίᾳ ἔχειν, to regard with suspicion, 19, 21.
 
 ὑπώπτενον, Past Impft. of ὑποπτεύειν.
 
@@ -3475,7 +3438,7 @@ what? τίνα ἐλπίδα ἔχοντες ἢ τίνι γνώμῃ μέλλε
 
 ὑφίστασθαι (with Str. Aor. ὑπέστην), undertake, 1, 17.
 
-ὑψηλός, -ή, -όν, high, 88, 3.
+ὑψηλός, -ή, -όν, high, 88, 3.
 
 Ὑψιλάντης (-ου), ὁ, (i.) Prince Alexander Hypsilantes, commander of the insurgent army in Roumania, 1, 14; (ii.) Prince Demetrius Hypsilantes, his brother, one of the leaders in Greece, 24, 29.
 
@@ -3502,11 +3465,11 @@ Adj. ἄριστον ἐφαίνετο αὐτοῖς, it appeared best to them,
 
 Φιλέλλην (-ηνος), ὁ, (a) lover of Greece, 83, 12; (b) Philhellene, the name given to the foreigners who fought for Greece, 82, 5.
 
-Φιλελληνικός, -ή, -όν, consisting of Philhellenes, 88, 7.
+Φιλελληνικός, -ή, -όν, consisting of Philhellenes, 88, 7.
 
 φιλία (-ᾱς), ἡ, friendship, 14, 9.
 
-φιλικός, -ή, -όν, consisting of friends; ἡ Φιλικὴ Ἑταιρία, the Association of Friends, 6, 14.
+φιλικός, -ή, -όν, consisting of friends; ἡ Φιλικὴ Ἑταιρία, the Association of Friends, 6, 14.
 
 φίλος (-ου), ὁ, friend, 4, 16.
 
@@ -3526,7 +3489,7 @@ Adj. ἄριστον ἐφαίνετο αὐτοῖς, it appeared best to them,
 
 φόρος (-ου), ὁ, tribute, tax, 18, 14; φόρον φέρειν, to pay tribute, 4, 26.
 
-φορτηγικός, -ή, -όν, carrying freight; φορτηγικὸν πλοῖον, merchantman, 48, 7.
+φορτηγικός, -ή, -όν, carrying freight; φορτηγικὸν πλοῖον, merchantman, 48, 7.
 
 φρουρᾱ́ (-ᾶς), ἡ, garrison, 11, 4.
 
@@ -3536,7 +3499,7 @@ Adj. ἄριστον ἐφαίνετο αὐτοῖς, it appeared best to them,
 
 φρουρός (-ου), ὁ, guard, 1, 1; οἱ φρουροί, the garrison, 1, 24.
 
-φυγάς (-άδος), ὁ, exile, 9, 7.
+φυγάς (-άδος), ὁ, exile, 9, 7.
 
 φυγεῖν, Aor. of φεύγειν.
 
@@ -3552,17 +3515,17 @@ Adj. ἄριστον ἐφαίνετο αὐτοῖς, it appeared best to them,
 
 φύσις (-εως), ἡ, nature; φύσει, naturally, 88, 1.
 
-χαλεπός, -ή, -όν, (a) rough, 4, 4; (b) dificult, 21, 18; τὰ χαλεπώτατα τῆς παρόδου, the most dificult points in the pass, 88, 15; (c) cruel, 36, 6; (d) unhealthy, 48, 27.
+χαλεπός, -ή, -όν, (a) rough, 4, 4; (b) dificult, 21, 18; τὰ χαλεπώτατα τῆς παρόδου, the most dificult points in the pass, 88, 15; (c) cruel, 36, 6; (d) unhealthy, 48, 27.
 
 χαλεπῶς, with difficulty, 11, 1; χαλεπῶς φέρειν, to be indignant at, (i.) Acc. 6, 8; (ii.) ὅτι, 49, 19.
 
-χαράδρᾱ (-ᾱς), ἡ, ravine, 4, 4.
+χαράδρᾱ (-ᾱς), ἡ, ravine, 4, 4.
 
 χάρις (-ιτος), ἡ, influence, 8, 27.
 
 χειμερινός, -ἡ, -όν, wintry, 8, 15.
 
-χειμών (-ῶνος), ὁ, winter, 80, 15.
+χειμών (-ῶνος), ὁ, winter, 80, 15.
 
 χείρ (χειρός), ἡ, hand; χεὶρ σιδηρᾶ, a grapnel, 24, 7; ἐς χείρας ἐλθεῖν, to come to close quarters, 28, 28: ἐν χερσί, at close quarters, 27,18; διὰ χιρὸς ἔχειν, to control, 47, 8.
 
@@ -3576,15 +3539,15 @@ Adj. ἄριστον ἐφαίνετο αὐτοῖς, it appeared best to them,
 
 χοῦς (-ου), ὁ, mound, 88, 17.
 
-χρή, properly a noun, necessity; used with ἐστί understood, it is necessary (Acc. and Inf.), 6, 17.
+χρή, properly a noun, necessity; used with ἐστί understood, it is necessary (Acc. and Inf.), 6, 17.
 
-χρήματα (-άτων), τά, property, money, 35, 20.
+χρήματα (-άτων), τά, property, money, 35, 20.
 
 χρῆσθαι, use (Dat.); προθυμίᾳ καὶ παρακελευσμῷ χρῆσθαι, to show enthusiasm and use words of encouragement, 45, 16; νομίμοις χρῆσθαι, to observe ceremonies, 46, 2.
 
 χρήσιμος, -η, -ον, useful, serviceable, 86, 21; seaworthy, 87, 6.
 
-Χριστιᾱνικός, -ή, -όν, Christian, 88, 23.
+Χριστιᾱνικός, -ή, -όν, Christian, 88, 23.
 
 Χριστιᾱνός (-οῦ), ὁ, Christian, 7, 1.
 
@@ -3602,11 +3565,11 @@ Adj. ἄριστον ἐφαίνετο αὐτοῖς, it appeared best to them,
 
 χωρίον (-ου), τό, place, 6, 6.
 
-Ψαρά (-ῶν), τά, Psara, an island lying N.W. of Chios, 21, 19.
+Ψαρά (-ῶν), τά, Psara, an island lying N.W. of Chios, 21, 19.
 
 Ψαριᾱνός (-οῦ), ὁ, Psariote, an inhabitant of Psara, 21, 24.
 
-ψευδής, -ές, false, 19, 3.
+ψευδής, -ές, false, 19, 3.
 
 ψῑλοί (-ῶν), οἱ, light-armed troops, irregulars, 82, 4.
 
@@ -3636,15 +3599,13 @@ Adj. ἄριστον ἐφαίνετο αὐτοῖς, it appeared best to them,
 
 ὠργίζετο, Past Impft. of ὀργίζεσθαι.
 
-ὡς, (i.) with nouns, as; τὴν ἀρχὴν λαβεῖν ὡς μισθὸν τῆς προδοσίας, to receive the government as the reward of his treachery, 10, 6. (ii.) Introducing clauses; (a) introducing relative clauses, as, how, ὡς γράφει ὁ Θουκυδίδης, as Thucydides writes, 8, 8; ἀπέφυγον ὡς ἕκαστοι ἐλπίδα εἶχον τῆς σωτηρίας, they fled as they severally had hopes of safety, 88, 29; ὡς οὔπω πρότερον, as never before, 21, 26; ἰδὼν ὡς εἶχε τὰ πράγματα, seeing how affairs stood, 89, 19. (b) Introducing noun clauses (= ὅτι), that; οὐδεμίαν εἶχον ἐλπίδα ὡς ἂν περιγένοιντο, they had no hope that they would prevail, 88, 18. (c) Introducing temporal or causal clauses (= ἐπειδή), when, since; ὡς εἶδον τὴν ἀξυνεσίαν τοῦ στρατηγοῦ, when they saw the folly of the general, 8, 5; ὡς οὐκ ἤθελον ἐκ τοῦ ἀγῶνος ἀπολείπειν, since they were unwilling to abandon the struggle, 18, 18. (iii.) With Infin.; Participles; Prepositional Phrases; Superl, of Adj. or Adv.; and Numerals; (a) with Infin. ὡς εἰπεῖν, so to speak, 12, 6. (b) With Partic. giving the motive of the subject or principal person in sentence; ὡς ἀδύνατον ὄν, since they felt it impossible, 16, 22; εὐχὰς ποιοῦνται πρὸς τοὺς θεοὺς ὡς αἰτίους ὄντας τῆς εὐτυχίας, they offer prayers to the gods whom they regarded as the authors of ther success, 11, 8; with Fut. Part.
-expressing Purpose; ξυνῆλθον ὡς περὶ τῶν φόρων βουλεύσοντες, they met with the intention of discussing the taxes, 18, 16. (c) Similarly with Prep. phrases; παρεσκευάζοντο ὡς ἐς πόλεμον, they prepared for war, 17, 20; ξυνέπλει πολὺς ἀριθμὸς ὡς ἐφ' ἁρπαγήν, a large number sailed with them to get plunder, 80, 25; (d) With Superl of Adj. and Adv.
-like Lat. quam; ναῦς ὡς πλείστας ἀποστέλλειν, to despatch as many ships as possible, 80, 21; ὡς τάχιστα, as soon as possible, 80, 24. (e) With numerals, about; ἐμβιβάσας ὁπλίτας ὡς ἑπτακοσίους, having embarked about seven hundred regulars, 32, 3.
+ὡς, (i.) with nouns, as; τὴν ἀρχὴν λαβεῖν ὡς μισθὸν τῆς προδοσίας, to receive the government as the reward of his treachery, 10, 6. (ii.) Introducing clauses; (a) introducing relative clauses, as, how, ὡς γράφει ὁ Θουκυδίδης, as Thucydides writes, 8, 8; ἀπέφυγον ὡς ἕκαστοι ἐλπίδα εἶχον τῆς σωτηρίας, they fled as they severally had hopes of safety, 88, 29; ὡς οὔπω πρότερον, as never before, 21, 26; ἰδὼν ὡς εἶχε τὰ πράγματα, seeing how affairs stood, 89, 19. (b) Introducing noun clauses (= ὅτι), that; οὐδεμίαν εἶχον ἐλπίδα ὡς ἂν περιγένοιντο, they had no hope that they would prevail, 88, 18. (c) Introducing temporal or causal clauses (= ἐπειδή), when, since; ὡς εἶδον τὴν ἀξυνεσίαν τοῦ στρατηγοῦ, when they saw the folly of the general, 8, 5; ὡς οὐκ ἤθελον ἐκ τοῦ ἀγῶνος ἀπολείπειν, since they were unwilling to abandon the struggle, 18, 18. (iii.) With Infin.; Participles; Prepositional Phrases; Superl, of Adj. or Adv.; and Numerals; (a) with Infin. ὡς εἰπεῖν, so to speak, 12, 6. (b) With Partic. giving the motive of the subject or principal person in sentence; ὡς ἀδύνατον ὄν, since they felt it impossible, 16, 22; εὐχὰς ποιοῦνται πρὸς τοὺς θεοὺς ὡς αἰτίους ὄντας τῆς εὐτυχίας, they offer prayers to the gods whom they regarded as the authors of ther success, 11, 8; with Fut. Part. expressing Purpose; ξυνῆλθον ὡς περὶ τῶν φόρων βουλεύσοντες, they met with the intention of discussing the taxes, 18, 16. (c) Similarly with Prep. phrases; παρεσκευάζοντο ὡς ἐς πόλεμον, they prepared for war, 17, 20; ξυνέπλει πολὺς ἀριθμὸς ὡς ἐφ' ἁρπαγήν, a large number sailed with them to get plunder, 80, 25; (d) With Superl of Adj. and Adv. like Lat. quam; ναῦς ὡς πλείστας ἀποστέλλειν, to despatch as many ships as possible, 80, 21; ὡς τάχιστα, as soon as possible, 80, 24. (e) With numerals, about; ἐμβιβάσας ὁπλίτας ὡς ἑπτακοσίους, having embarked about seven hundred regulars, 32, 3.
 
 ὥς, contracted form of οὕτως, thus, so; οὐδ' ὥς, not even so, 80, 15.
 
-ὥσπερ, Adv. of manner, as; δι' ἁρπαγῆς έχουσι τὴν τροφὴν ὥσπερ κλέπται, they maintain themselves by plunder as brigands, 4, 20; ὥσπερ καὶ πρότερον, as before, 26, 6; ὥσπερ θείᾳ τύχῃ, as it were providentially, 21, 4; ὥσπερ καὶ προσεδέχοντο, just as they expected, 38, 14.
+ὥσπερ, Adv. of manner, as; δι' ἁρπαγῆς έχουσι τὴν τροφὴν ὥσπερ κλέπται, they maintain themselves by plunder as brigands, 4, 20; ὥσπερ καὶ πρότερον, as before, 26, 6; ὥσπερ θείᾳ τύχῃ, as it were providentially, 21, 4; ὥσπερ καὶ προσεδέχοντο, just as they expected, 38, 14.
 
-ὥστε, Conj. (i) with Ind. giving actual result, so that, and so, 4, 5; οὕτω τολμηρῶς προσέβαλεν ὥστε ἀνέλαβε δύο τῶν μηχανῶν, he attacked so boldly that he recovered two of the guns, 12, 12. (ii.) With Infin. (a) giving probable or actual result, so as to, 18, 21; ἀσθενέστεροι ἦσαν ἢ ὥστε ἀμύνεσθαι, they were too weak to defend themselves, 81, 6. (b) Introducing the terms of an agreement, on condition that; ἐθέλουσι σπένδεσθαι ὥστε τοὺς Τούρκους ἄνευ ὅπλων ἐξελθεῖν, they were willing to make a truce on condition that the Turks marched out unarmed, 16, 17.
+ὥστε, Conj. (i) with Ind. giving actual result, so that, and so, 4, 5; οὕτω τολμηρῶς προσέβαλεν ὥστε ἀνέλαβε δύο τῶν μηχανῶν, he attacked so boldly that he recovered two of the guns, 12, 12. (ii.) With Infin. (a) giving probable or actual result, so as to, 18, 21; ἀσθενέστεροι ἦσαν ἢ ὥστε ἀμύνεσθαι, they were too weak to defend themselves, 81, 6. (b) Introducing the terms of an agreement, on condition that; ἐθέλουσι σπένδεσθαι ὥστε τοὺς Τούρκους ἄνευ ὅπλων ἐξελθεῖν, they were willing to make a truce on condition that the Turks marched out unarmed, 16, 17.
 
 ᾧτε, see ἐφ' ᾧτε.
 
