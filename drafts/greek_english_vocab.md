@@ -52,8 +52,7 @@
 
 Ἀθηναῖος, -ᾱ, -ον, Athenian.
 
-ἁθροίζειν, collect, muster. Comp.
-ξυν-.
+ἁθροίζειν, collect, muster. Comp. ξυν-.
 
 ἁθρόος, -ᾱ, -ον, collected together, in a body.
 
@@ -91,11 +90,9 @@
 
 ἀκολουθεῖν, follow (i.) Abs. (ii.) Dat. Comp. επ-, ξυν-.
 
-ἀκούειν (Aor. ἤκουσα), hear (i) Acc. (ii.) περί with Gen..
-(iii.) ὅτι. Comp. ὑπ-.
+ἀκούειν (Aor. ἤκουσα), hear (i) Acc. (ii.) περί with Gen. (iii.) ὅτι. Comp. ὑπ-.
 
-ἀκούσᾱς, -ᾱσα, -αν, having heard.
-Wk. Aor. Part. of ἀκούειν.
+ἀκούσᾱς, -ᾱσα, -αν, having heard. Wk. Aor. Part. of ἀκούειν.
 
 Ἀκράτα, ἡ, Acrata, a small port on south side of Corinthian Gulf.
 
@@ -668,8 +665,7 @@ Aor. of ἀπέρχομαι.
 
 δεδεγμένος, Perf. Part. Pass. of δέχεσθαι.
 
-δεῖ (Impersonal), it is necessary (Acc. and Inf.); ὅσα ἂν δέῃ, whatever is necessary; δέον, Acc.
-Abs., it being necessary.
+δεῖ (Impersonal), it is necessary (Acc. and Inf.); ὅσα ἂν δέῃ, whatever is necessary; δέον, Acc. Abs., it being necessary.
 
 δεῖν, (A) (Aor. ἔδησα), bind; imprison. Comp. ἀνα-.
 
@@ -1347,7 +1343,7 @@ Abs., it being necessary.
 
 ἐσέγραφε, Past Impft. of ἐσγράφειν.
 
-ἀσέδραμον, see ἐσδραμεῖν.
+ἐσέδραμον, see ἐσδραμεῖν.
 
 ἐσεκόμιζον, Past. Impft. of ἐσκομίζειν.
 
@@ -2649,15 +2645,13 @@ Abs., it being necessary.
 
 παρελήλυθα, Perf. of παρέρχομαι.
 
-παρελθεῖν, come forward. Str.
-Aor, of παρέρχομαι.
+παρελθεῖν, come forward. Str. Aor, of παρέρχομαι.
 
 παρέξειν, Fut. of παρέχειν.
 
 παρέπλεον, Past Impft. of παραπλεῖν.
 
-παρέρχομαι (Perf. παρελήλυθα, Aor.
-παρῆλθον), come forward; ἐν τῷ παρεληλυθότι χρόνῳ, in the past.
+παρέρχομαι (Perf. παρελήλυθα, Aor. παρῆλθον), come forward; ἐν τῷ παρεληλυθότι χρόνῳ, in the past.
 
 παρεσκευάζοντο, Past Impft. Mid. of παρασκευάζειν.
 
@@ -2691,8 +2685,7 @@ Aor, of παρέρχομαι.
 
 πάσχειν (Aor. ἔπαθον, Perf. πέπονθα), suffer; ἄνομα πάσχειν ὑπό (Gen.), to suffer illegally at the hands of; οὔτε οἷοί τ' ἔσονται βλάπτειν ἡμᾶς πλείω ἢ πάσχειν, nor will they be able to inflict more harm on us than they will suffer themselves.
 
-Πάτραι (-ῶν), αἱ, Patras, a town on S.
-side of the Corinthian Gulf.
+Πάτραι (-ῶν), αἱ, Patras, a town on S. side of the Corinthian Gulf.
 
 Πατριάρχης (-ου), ὁ, Patriarch, the head of the Greek Orthodox Church.
 
@@ -2807,8 +2800,7 @@ side of the Corinthian Gulf.
 
 πιστός, -ή, -όν, trustworthy, loyal.
 
-πλεῖν (Fut. πλεύσομαι, Aor. ἔπλευσα), sail. Comp. ἀπο-, ἐκ-, ἐσ-.
-κατα-, ξυμ-, παρα-, περι-, προσ-.
+πλεῖν (Fut. πλεύσομαι, Aor. ἔπλευσα), sail. Comp. ἀπο-, ἐκ-, ἐσ-, κατα-, ξυμ-, παρα-, περι-, προσ-.
 
 πλεῖστος, -η, -ον, most, greatest, very many; τὸ πλείστον, or οἱ πλεῖστοι, the great majority; περὶ πλείστου ποιεῖσθαι, to consider of greatest importance; πλεῖστα, as adv. most. Superl. of πολύς.
 
@@ -2888,8 +2880,7 @@ side of the Corinthian Gulf.
 
 πρᾶγμα (-ατος), τό, thing; τὰ πράγματα, affairs.
 
-πράσσειν (Aor. ἔπραξα, Perf. Pass. πέπραγμαι), (i.) Act. (a) do, act; πράσσειν πρός (Acc.), to negotiate with; πράσσειν ὅπως (with Fut. Ind.), to arrange that. (b) With adverbs, fare; καλῶς πράσσειν, to be successful. (ii.) Mid. exact; φόρον πράσσεσθαι, to collect the taxes. Comp.
-ξυμ-.
+πράσσειν (Aor. ἔπραξα, Perf. Pass. πέπραγμαι), (i.) Act. (a) do, act; πράσσειν πρός (Acc.), to negotiate with; πράσσειν ὅπως (with Fut. Ind.), to arrange that. (b) With adverbs, fare; καλῶς πράσσειν, to be successful. (ii.) Mid. exact; φόρον πράσσεσθαι, to collect the taxes. Comp. ξυμ-.
 
 πρέσβεις (-εων), οἱ, ambassadors; πρεσβευτής (-οῦ) is used for sing.
 
@@ -3439,8 +3430,7 @@ side of the Corinthian Gulf.
 
 Ὑψιλάντης (-ου), ὁ, (i.) Prince Alexander Hypsilantes, commander of the insurgent army in Roumania; (ii.) Prince Demetrius Hypsilantes, his brother, one of the leaders in Greece.
 
-φαίνεσθαι, seem, appear, (i.) with Pred.
-Adj. ἄριστον ἐφαίνετο αὐτοῖς, it appeared best to them; (ii.) with Part. ἐφαίνοντο παρασκευαζόμενοι, they were clearly making preparations. Comp. κατα-.
+φαίνεσθαι, seem, appear, (i.) with Pred. Adj. ἄριστον ἐφαίνετο αὐτοῖς, it appeared best to them; (ii.) with Part. ἐφαίνοντο παρασκευαζόμενοι, they were clearly making preparations. Comp. κατα-.
 
 φανερός, -ᾱ́, -όν, clear, manifest.
 
