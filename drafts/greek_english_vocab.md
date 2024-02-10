@@ -100,7 +100,7 @@
 
 ἀκροβολισμός (-οῦ), ὁ, skirmish.
 
-ἀκρόπολις (-εως), ἡ, citadel,
+ἀκρόπολις (-εως), ἡ, citadel.
 
 Ἀλβᾱνίᾱ (-ᾱς), ἡ, Albania, a Turkish province in N.W. Greece.
 
@@ -168,7 +168,7 @@
 
 ἀνάγκη (-ης), ἡ, necessity; ἀνάγκη ἐστίν, it is necessary.
 
-ἀναδεῖσθαι (Aor. ἀνεδησάμην), take in tow,
+ἀναδεῖσθαι (Aor. ἀνεδησάμην), take in tow.
 
 ἀναίτιος, -ον, innocent.
 
@@ -298,7 +298,7 @@
 
 ἀπάγχειν, hang.
 
-ἀπαραιτήτως, mercilessly,
+ἀπαραιτήτως, mercilessly.
 
 ἅπᾱς, -ᾱσα, -ᾱν, all; περὶ τῶν ἁπάντων ἀγωνίζεσθαι, to fight for one's all.
 
@@ -330,8 +330,7 @@
 
 ἀπέκτειναν, Aor. of ἀποκτείνειν.
 
-ἀπελθεῖν, depart, go away. Str.
-Aor. of ἀπέρχομαι.
+ἀπελθεῖν, depart, go away. Str. Aor. of ἀπέρχομαι.
 
 ἀπέπλευσαν, Aor. of ἀποπλεῖν.
 
@@ -545,7 +544,7 @@ Aor. of ἀπέρχομαι.
 
 βελτῑ́ων, -ον, better. Compar. of ἀγαθός.
 
-βίᾱͅ, by force; βίᾳ ἐσελθεῖν ἐς (Acc.), to force one's way into.
+βίᾱͅ, by force; βίᾳ ἐσελθεῖν ἐς (Acc.), to force one's way into.
 
 βιάζεσθαι (Aor. ἐβιασάμην), force one's way.
 
@@ -659,7 +658,7 @@ Aor. of ἀπέρχομαι.
 
 δαπάνη (-ἡς), ἡ; expense.
 
-δᾷς (δᾱͅδός), ἡ, torch; as collective noun pine-wood.
+δᾷς (δᾱͅδός), ἡ, torch; as collective noun pine-wood.
 
 δέ (enclitic), but; often answering to μέν; δ' οὖν resumes the narrative after a digression, so then.
 
@@ -683,7 +682,7 @@ Aor. of ἀπέρχομαι.
 
 δεξιός, -ᾱ́, -όν, right, opp. to ἀριστερός, left.
 
-δέον, Part. of δεῖ,
+δέον, Part. of δεῖ.
 
 δεσμός (-οῦ), ὁ, chain; δεσμοῖς φυλάσσειν, to guard in prison.
 
@@ -709,13 +708,13 @@ Aor. of ἀπέρχομαι.
 
 δῆμος (-ου), ὁ, people.
 
-δημοσίᾱͅ, publicly.
+δημοσίᾱͅ, publicly.
 
 δῆσαι, Aor. of δεῖν (A).
 
 δήσᾱς, -ᾱσα, -αν, having imprisoned. Wk. Aor. Part of δεῖν (A).
 
-δι'. See διά
+δι'. See διά.
 
 διά, Prep. with Gen. and Acc. (i.) With Gen. (a) of place through; φέρουσιν ὁδοὶ διὰ τῶν λόφων, roads through the hills; διὰ τῶν πολεμίων βιάζεσθαι, to force one's way through the enemy; διὰ χειρὸς ἔχειν, to control. (b) of time, denoting the interval; oυ διὰ μακροῦ, at no long interval of time. (c) of means; διὰ προδοτῶν ἔμαθον τὰ περὶ τῆς ξυνωμοσίας, they learnt about the conspiracy by means of traitors; δι' ἁρπαγῆς ἔχουσι τὴν τροφήν, they maintain themselues by plunder. (d) of circumstances; διὰ φόβου εἶναι, to be in a state of fear; διὰ μάχης ἰέναι τινί, to fight some one. (ii.) With Acc., on account of; διὰ τὸν πλοῦτον τιμὴν προσλαμβάνει, he wins honour on account of his wealth. In Comp. (a) through, διαβαίνειν, to cross; (b) denoting completeness, διαφθείρειν, to destroy utterly; (c) denoting separation, διατάσσειν, to arrange at intervals; (d) denoting reciprocity, διαλέγεσθαι, to converse.
 
@@ -1655,7 +1654,7 @@ Aor. of ἀπέρχομαι.
 
 ἰδεῖν, see, (i.) with Acc.; (ii.) Acc. and Part.; (iii.) ὅτι. Str. Aor. of δρᾶν.
 
-ἰδίᾱͅ, privately, in particular; individually; personally.
+ἰδίᾱͅ, privately, in particular; individually; personally.
 
 ἴδιος, -ᾱ, -ον, one's own; τὰ ἴδια, private property.
 
@@ -1753,7 +1752,7 @@ Aor. of ἀπέρχομαι.
 
 κατάβασις (-εως), ἡ, descent.
 
-καταδῡ́ειν (Trans. Wk. Aor. κατέδῡσα, Intrans. Str. Aor. κατέδῡν), sink, (i.) Trans.; (ii.) Intrans.
+καταδῡ́ειν (Trans. Wk. Aor. κατέδῡσα, Intrans. Str. Aor. κατέδῡν), sink, (i.) Trans.; (ii.) Intrans.
 
 καταίρειν (Aor. κατῆρα), put in to shore.
 
@@ -1867,7 +1866,7 @@ Aor. of ἀπέρχομαι.
 
 κενός, -ή, -όν, empty.
 
-κέρας (Gen. κέρως, Dat. κέρᾱͅ), wing (of army).
+κέρας (Gen. κέρως, Dat. κέρᾱͅ), wing (of army).
 
 Κέρκῡρα (-ᾱς), ἡ, Corcyra, now called Corfu, an island off the coast of Albania.
 
@@ -1957,13 +1956,13 @@ Aor. of ἀπέρχομαι.
 
 λαθεῖν, Aor. of λανθάνειν.
 
-λάθρᾱͅ, secretly.
+λάθρᾱͅ, secretly.
 
 Λακγάδα (-ης), ἡ, Langada, a village near S. boundary of Albania.
 
 λαμβάνειν (Fut. λήψομαι, Perf. εἴληφα, Aor. ἔλαβον, Aor. Pass. ἐλήφθην), take, seize, get; τὸν πλεῖστον τοῦ βίου λαμβάνειν, to get most of one's livelihood; δόξαν λαμβάνειν, to win honour; ὅπλα λαμβάνειν, to take up arms; πεῖραν λαμβάνειν, to gain experience; δίκην λαμβάνειν, to exact punishment; ἐσκόπουν ὅπως τὸ χωρίον λήψονται, they considered how they should capture the place; τὴν ἀρχὴν λαβεῖν, to receive the government; τὰ σφέτερα αὑτῶν λαβόντες, taking their property with them; θάρσος ἔλαβε πάντας τοὺς Ἕλληνας, all the Greeks became confident. Comp. ἀνα-, ἀντι-, ἀπο-, κατα-, ξυλ-, παρα-, προκατα-, προσ-.
 
-λαμπρῶς, conspicuously,
+λαμπρῶς, conspicuously.
 
 λανθάνειν (Acr. ἔλαθον), escape notice, (i.) with Acc. and Part. ἔλαθον τοὺς πολεμίους προσπλέοντες, they sailed up without the enemy observing them; (ii.) with Part. only ἔλαθον πωλοῦντες σῖτον, they sold corn secretly.
 
@@ -2163,7 +2162,7 @@ Aor. of ἀπέρχομαι.
 
 μόνος, -η, -ον, alone.
 
-Μορέᾱ (-ᾱς), ἡ, Morea, the part of Greece S. of the Isthmus of Corinth,
+Μορέᾱ (-ᾱς), ἡ, Morea, the part of Greece S. of the Isthmus of Corinth.
 
 μορέᾱ (-ᾱς), ἡ, mulberry-tree.
 
@@ -2191,7 +2190,7 @@ Aor. of ἀπέρχομαι.
 
 νεῖν, swim. Comp. ἐσ-.
 
-νεκρός (-οῦ), ὁ, corpse,
+νεκρός (-οῦ), ὁ, corpse.
 
 νέμειν, inhabit.
 
@@ -2463,7 +2462,7 @@ Aor. of ἀπέρχομαι.
 
 ὁρᾶν (Aor. εἶδον, Perf. ἑόρακα), see (i.) Acc.; (ii.) Acc. and Part.; (iii.) ὅτι. Comp. καθ-, περι-, προ-.
 
-ὀργή (-ῆς), ἡ, anger; ὑπ' ὀργῆς, angrily,
+ὀργή (-ῆς), ἡ, anger; ὑπ' ὀργῆς, angrily.
 
 ὀργίζεσθαι, be angry.
 
@@ -2487,7 +2486,7 @@ Aor. of ἀπέρχομαι.
 
 ὅσιος, -ᾱ, -ον, holy, religious.
 
-ὅσος, -η, -ον, Lat. quantus, (i) as much as, as many as, all who; ὅσους ἔπειθον ξυνάγουσιν ἐς τὴν ξυνωμοσίαν, they enrol in the conspiracy all whom they persuaded; the correlative is τοσοῦτος; ὅσον οὐ, almost. (ii.) ὅσος ἄν, with Subj., whoever, whatever; ὅσα ἂν δέῃ, whatever was necessary. (iii.) ὅσος, with Optat. after an historic tense, whoever, whatever; ὅσα χρήματα λάβοιεν ἐδαπάνων, they spent whatever money they got,
+ὅσος, -η, -ον, Lat. quantus, (i) as much as, as many as, all who; ὅσους ἔπειθον ξυνάγουσιν ἐς τὴν ξυνωμοσίαν, they enrol in the conspiracy all whom they persuaded; the correlative is τοσοῦτος; ὅσον οὐ, almost. (ii.) ὅσος ἄν, with Subj., whoever, whatever; ὅσα ἂν δέῃ, whatever was necessary. (iii.) ὅσος, with Optat. after an historic tense, whoever, whatever; ὅσα χρήματα λάβοιεν ἐδαπάνων, they spent whatever money they got.
 
 ὅσπερ, ἥπερ , ὅπερ, emphatic form of ὅς, ἥ, ὅ, the very one who, the very thing which.
 
@@ -2555,7 +2554,7 @@ Aor. of ἀπέρχομαι.
 
 παλαιός, -ᾱ́, -όν, ancient, old; οἱ παλαιοί, the ancients.
 
-πανοικεσίᾱͅ, with all one's family.
+πανοικεσίᾱͅ, with all one's family.
 
 Πανός (-οῦ), ὁ, Panos, the son of Colokotrones.
 
@@ -2569,7 +2568,7 @@ Aor. of ἀπέρχομαι.
 
 πάνυ, altogether.
 
-πανωλεθρίᾱͅ, with utter destruction.
+πανωλεθρίᾱͅ, with utter destruction.
 
 παρ'. See παρά.
 
@@ -2737,8 +2736,7 @@ Aor. of ἀπέρχομαι.
 
 περιβάλλειν, throw all round.
 
-περιγίγνεσθαι (Aor. περιεγενόμην, Fut.
-περιγενήσομαι), survive, prevail; οἱ περιγενόμενοι, the survivors.
+περιγίγνεσθαι (Aor. περιεγενόμην, Fut. περιγενήσομαι), survive, prevail; οἱ περιγενόμενοι, the survivors.
 
 περιγραπτός, -όν, confined, circumscribed.
 
@@ -2898,7 +2896,7 @@ Aor. of ἀπέρχομαι.
 
 πρόγονος (-ου), ὁ, ancestor.
 
-προδοσίᾱ (-ᾱς), ἡ, treachery; ἐπὶ προδοσίᾱͅ, on a charge of treachery; plur. προδοσίαι, acts of treachery.
+προδοσίᾱ (-ᾱς), ἡ, treachery; ἐπὶ προδοσίᾱͅ, on a charge of treachery; plur. προδοσίαι, acts of treachery.
 
 προδότης (-ου), ὁ, traitor.
 
@@ -3056,7 +3054,7 @@ Aor. of ἀπέρχομαι.
 
 ῥᾴ̄διος, -ᾱ, -ον, easy.
 
-ῥᾱͅδίως, easily.
+ῥᾱͅδίως, easily.
 
 ῥᾷον, more easily. Compar. of ῥᾳδίως.
 
