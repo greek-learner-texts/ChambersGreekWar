@@ -20,7 +20,7 @@ files_dir = (chambers_path / 'text\\').resolve()
 files_list = glob.glob(str(files_dir) + '*.txt')
 
 # normalize_file("C:/Users/Sarah McCuan/Documents/projects/ChambersGreekWar/drafts/chambers_ocr.md")
-normalize_file("C:/Users/Sarah McCuan/Documents/projects/ChambersGreekWar/drafts/greek-english-vocab.md")
+normalize_file("C:/Users/Sarah McCuan/Documents/projects/ChambersGreekWar/drafts/greek_english_vocab.md")
 
 # for file in files_list:
 #     normalize_file(file)
