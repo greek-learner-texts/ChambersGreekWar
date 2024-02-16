@@ -18,7 +18,7 @@ h1,h2,h3,h4,h5,h6 {
 body {
   font-family: 'Noto Serif', serif;
   display: flex;
-  justify-content: center;
+  /* justify-content: center; */
   max-width: 38rem;
   padding: 2rem;
   margin: auto;
@@ -62,6 +62,7 @@ ul {
 li {
   font-size: 1.2em;
   line-height: 1.5em;
+  padding-bottom: 1.2em;
 }
 
 .section {
@@ -133,7 +134,7 @@ li {
 } */
 
 
-.toc ul {
+/* .toc ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -141,7 +142,7 @@ li {
 
 .toc li {
   display: inline;
-}
+} */
 
 .title-page {
   
@@ -167,4 +168,9 @@ li {
 .jumpto {
   margin-top:2em;
   margin-bottom: 2em;
+}
+
+.dict-entry {
+  font-size: 1.1em;
+  font-weight: bold;
 }
