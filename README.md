@@ -30,7 +30,9 @@ To submit changes:
 - Run `scripts/normalize.py` and `scripts/gen_txt.py` to create the GTLP-formatted text files.
 - Run `scripts/validate.py` to validate the GLTP format. 
 - Run `build-html.py` to build the static site html.
-- Open a PR! 
+- Open a PR!
+
+There's also a docker image available at [https://hub.docker.com/repository/docker/salinthesouth/chambersgreekwar/general](https://hub.docker.com/repository/docker/salinthesouth/chambersgreekwar/general).
 
 If that sounds difficult, just open an issue in the project and I'll try to make the changes asap. 
 
