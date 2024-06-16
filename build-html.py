@@ -84,5 +84,5 @@ with open('text/chambers_w_headers.txt', 'r', encoding="utf-8") as f:
 print(body)
 html = '\n'.join([HEADER, body, FOOTER])
 
-with open('docs/index.html', 'w', encoding="utf-8") as f:
+with open('docs/greekwar.html', 'w', encoding="utf-8") as f:
     f.write(html)

@@ -1,0 +1,4 @@
+text_validator
+pathlib
+greek-normalisation
+markdown

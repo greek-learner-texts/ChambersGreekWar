@@ -15,14 +15,14 @@ def normalize_file(filename):
         print('Error: ' + str(sys.exc_info()[0]))
 
 # relative path logic
-chambers_path = Path(__file__).parent.parent
-files_dir = (chambers_path / 'text\\').resolve()
-files_list = glob.glob(str(files_dir) + '*.txt')
+# chambers_path = Path(__file__).parent.parent
+# files_dir = (chambers_path / 'text\\').resolve()
+# files_list = glob.glob(str(files_dir) + '*.txt')
 
-# normalize_file("C:/Users/Sarah McCuan/Documents/projects/ChambersGreekWar/drafts/chambers_ocr.md")
-normalize_file("C:/Users/Sarah McCuan/Documents/projects/ChambersGreekWar/drafts/greek_english_vocab.md")
+# instead of using the list above and potentially messing up in-progress files, 
+# it's easier to just individually specify what we want normalized: 
 
-# for file in files_list:
-#     normalize_file(file)
+files_list = ['text/chambers_w_headers.txt', 'text/chambers.txt', 'docs/greek_english_vocab.html', 'docs/greekwar.html', 'docs/index.html']
 
-# print(validate((chambers_path / 'text-validator.toml').resolve(), files_list))
+for file in files_list:
+    normalize_file(file)
