@@ -1,3 +1,3 @@
 from text_validator.main import validate
 
-validate("C:/Users/Sarah McCuan/Documents/projects/ChambersGreekWar/text-validator.toml", ["C:/Users/Sarah McCuan/Documents/projects/ChambersGreekWar/text/01.txt"])
+validate("text-validator.toml", ["text/chambers_w_headers.txt"])
