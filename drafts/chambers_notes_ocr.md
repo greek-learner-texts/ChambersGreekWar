@@ -14,44 +14,44 @@ Attention should be drawn to cognate words in English and Latin (*e.g.*, κόλ�
 As occasion arises, emphasis should be laid on (A) the connection between sentences, and (B) the uses of the Article. The rules are collected here for convenience, but, of course, only one or two points will be dealt with in any one lesson.
 
 ###### A. 
-(i.) Every sentence is connected with its predecessor by a conjunction or connecting particle; of these the commonest are καί *and* [REF]; δέ *but* , unemphatic [REF]; γάρ *for* [REF]; ἀλλά *but*, emphatic [REF]; οὖν *therefore* [REF]; τε *and* [REF]; μέντοι *however* [REF]; ἔπειτα *then* [REF]. Notice that δέ, γάρ, οὖν, τε, μέντοι, do not come first word in the sentence.
+(i.) Every sentence is connected with its predecessor by a conjunction or connecting particle; of these the commonest are καί *and* [01.01.02]; δέ *but* , unemphatic [01.01.03]; γάρ *for* [01.01.03]; ἀλλά *but*, emphatic [01.03.01]; οὖν *therefore* [03.02.02]; τε *and* [04.03.02]; μέντοι *however* [09.02.02]; ἔπειτα *then* [03.02.01]. Notice that δέ, γάρ, οὖν, τε, μέντοι, do not come first word in the sentence.
 
-(ii.) There is one exception to the above rule. When the demonstrative pronoun οὗτος *this*, or its derivatives οὕτω *thus*, τοιοῦτος *οf such a kind*, sum up what has already been stated, no conjunction is required [REF]; similarly, when the demonstrative pronoun ὅδε *this*, or its derivatives, ὧδε *thus*, τοιόσδε *of such a character*, look forward to what is coming, no conjunction is required with the following sentence [REF].
+(ii.) There is one exception to the above rule. When the demonstrative pronoun οὗτος *this*, or its derivatives οὕτω *thus*, τοιοῦτος *οf such a kind*, sum up what has already been stated, no conjunction is required [02.03.03]; similarly, when the demonstrative pronoun ὅδε *this*, or its derivatives, ὧδε *thus*, τοιόσδε *of such a character*, look forward to what is coming, no conjunction is required with the following sentence [03.01.02].
 
-(iii.) When two words or groups of words are parallel, they may be joined by τε ... καί ... [REF] or καί ... καί ... [REF], *both ... and ...*; in English we seldom use the word *both*, and therefore leave τε untranslated; this is necessarily the case when τε ... καί ... καί ... occurs [REF].
+(iii.) When two words or groups of words are parallel, they may be joined by τε ... καί ... [01.01.02] or καί ... καί ... [01.02.01], *both ... and ...*; in English we seldom use the word *both*, and therefore leave τε untranslated; this is necessarily the case when τε ... καί ... καί ... occurs [02.02.01].
 
-(iv.) When two clauses or sentences are contrasted, μέν ... δέ ..., *on the one hand ... but on the other ...*, are used. μέν (just like τε *both*) looks forward to something which is coming, but δέ connects with what has gone before, and means BUT *on the other hand*, not simply *on the other hand*. The contrast between the μέν clause and the δέ clause, is often so slight that we do not translate μέν at all, and translate δέ by *but*, or even by *and* [REF].
+(iv.) When two clauses or sentences are contrasted, μέν ... δέ ..., *on the one hand ... but on the other ...*, are used. μέν (just like τε *both*) looks forward to something which is coming, but δέ connects with what has gone before, and means BUT *on the other hand*, not simply *on the other hand*. The contrast between the μέν clause and the δέ clause, is often so slight that we do not translate μέν at all, and translate δέ by *but*, or even by *and* [01.01.01].
  
-πρῶτον μέν *firstly*, is habitually answered by ἔπειτα *secondly*, not by ἔπειτα δέ, as we should expect [REF].
+πρῶτον μέν *firstly*, is habitually answered by ἔπειτα *secondly*, not by ἔπειτα δέ, as we should expect [03.01.02].
 
 ###### B. The uses of the Article. 
 (See also headings to Ex. 1-6.)
 
-(i.) It is habitually used with the names of countries, islands and towns, ἡ Ἑλλάς *Greece* [REF]; ἡ Εὔβοια *Euboea* [REF]; αἱ Ἀθῆναι *Athens*; and with Proper Nouns, if the person is well known or has previously been mentioned, ὁ Πέλοψ *Pelops* [REF].
+(i.) It is habitually used with the names of countries, islands and towns, ἡ Ἑλλάς *Greece* [01.01.01]; ἡ Εὔβοια *Euboea* [01.04.02]; αἱ Ἀθῆναι *Athens*; and with Proper Nouns, if the person is well known or has previously been mentioned, ὁ Πέλοψ *Pelops* [01.01.02].
 
-(ii.) It is used as an unemphatic possessive pronoun, διὰ τὸν πλοῦτον *on account of his wealth* [REF]; τὰς πηγὰς ἔχει *has its springs* [REF].
+(ii.) It is used as an unemphatic possessive pronoun, διὰ τὸν πλοῦτον *on account of his wealth* [01.01.02]; τὰς πηγὰς ἔχει *has its springs* [01.02.01].
 
-(iii.) It is placed, as in English, before an attributive adjective, or may be repeated with the adjective after the noun, ὁ Κορίνθιος κόλπος *the Corinthian gulf* [REF]; ἐς τὸν κόλπον τὸν Ἰόνιον *into the Ionian gulf* [REF].
+(iii.) It is placed, as in English, before an attributive adjective, or may be repeated with the adjective after the noun, ὁ Κορίνθιος κόλπος *the Corinthian gulf* [01.01.01]; ἐς τὸν κόλπον τὸν Ἰόνιον *into the Ionian gulf* [01.02.01].
 
-(iv.) Instead of an adjective, the attribute may be a prepositional phrase, an adverb, or a genitive case, ἡ πρὸς Βορέαν μοῖρα lit. *the towards-north part*, i.e., *the northern part* [REF]; οἱ γεωργοὶ οἱ ἐν τῇ μεσογείᾳ *the farmers in the interior* [REF]; οἱ νῦν ἐπιχώριοι lit. *the now inhabitants*, i.e., *the present inhabitants* [REF]; ὁ Θουκυδίδης ὁ Ὀλόρου *Thucydides the (son) of Olorus* [REF].
+(iv.) Instead of an adjective, the attribute may be a prepositional phrase, an adverb, or a genitive case, ἡ πρὸς Βορέαν μοῖρα lit. *the towards-north part*, i.e., *the northern part* [01.01.02]; οἱ γεωργοὶ οἱ ἐν τῇ μεσογείᾳ *the farmers in the interior* [02.03.01]; οἱ νῦν ἐπιχώριοι lit. *the now inhabitants*, i.e., *the present inhabitants* [01.01.03]; ὁ Θουκυδίδης ὁ Ὀλόρου *Thucydides the (son) of Olorus* [01.01.02].
 
-(v.) It is used with abstract nouns, ἡ ἐπιμειξία *communication* [REF]; ὁ κίνδυνος *danger* [REF].
+(v.) It is used with abstract nouns, ἡ ἐπιμειξία *communication* [01.03.01]; ὁ κίνδυνος *danger* [02.03.02].
 
-(vi.) It is omitted with a predicated adjective or noun, τῶν νήσων μεγίστη ἐστὶν ἡ Εὔβοια *Euboea is the largest of the islands* [REF].
+(vi.) It is omitted with a predicated adjective or noun, τῶν νήσων μεγίστη ἐστὶν ἡ Εὔβοια *Euboea is the largest of the islands* [01.04.02].
 
-(vii.) It denotes a whole class, δύο αἰτίαι προάγουσι τοὺς ὑπηκόους ἐς τὸν πόλεμον *two causes lead subject peoples into war* [REF].
+(vii.) It denotes a whole class, δύο αἰτίαι προάγουσι τοὺς ὑπηκόους ἐς τὸν πόλεμον *two causes lead subject peoples into war* [03.01.01].
 
-(viii.) The Article was originally a demonstrative pronoun, and can be used, if accompanied by μέν or δέ, meaning *he*, *she*, *it* and *they*. This is especially common in expressions like οἱ μέν ... οἱ δέ ... *these ... but those ...*, *some ... but others ...*, οἱ μὲν φίλοι εἰσὶ τῷ Ἑλληνικῷ δήμῳ, οἱ δὲ ξύμμαχοί εἰσι τῶν Τούρκων *some are friendly to the Greek nation, but others are the allies of the Turks* [REF]; τὰ μὲν αἰσχύνην φέρει, ἐκ δὲ τῶν δόξαν λαμβάνουσι *some deeds bring disgrace, but from others they win honour* [REF]. Notice the order when a preposition is used.
+(viii.) The Article was originally a demonstrative pronoun, and can be used, if accompanied by μέν or δέ, meaning *he*, *she*, *it* and *they*. This is especially common in expressions like οἱ μέν ... οἱ δέ ... *these ... but those ...*, *some ... but others ...*, οἱ μὲν φίλοι εἰσὶ τῷ Ἑλληνικῷ δήμῳ, οἱ δὲ ξύμμαχοί εἰσι τῶν Τούρκων *some are friendly to the Greek nation, but others are the allies of the Turks* [02.01.01]; τὰ μὲν αἰσχύνην φέρει, ἐκ δὲ τῶν δόξαν λαμβάνουσι *some deeds bring disgrace, but from others they win honour* [03.03.01]. Notice the order when a preposition is used.
 
-oi δέ necessarily comes first in its clause, A. (iv.): oi μέν generally comes first, but may be preceded by a word or group of words which belongs to both clauses, see [REF]. It is not necessary that, when οἱ δέ is used, oi μέν should have preceded, but oi δέ must not refer to the subject of the previous sentence, see [REF].
+oi δέ necessarily comes first in its clause, A. (iv.): oi μέν generally comes first, but may be preceded by a word or group of words which belongs to both clauses, see [02.02.01, 03.03.01]. It is not necessary that, when οἱ δέ is used, oi μέν should have preceded, but oi δέ must not refer to the subject of the previous sentence, see [10.01.02].
 
-(ix.) The Article with an adjective, a prepositional phrase, an adverb, or a genitive case, forms a noun-equivalent, οἱ παλαιοί *the ancients* [REF]; ἡ παραθαλάσσιος *the coast* [REF]; τὸ δίκαιον *justice* [REF]; οἱ κάτω *those on the coast* [REF]; οἱ ἐν τῇ μεσογείᾳ *those in the interior* [REF]; οἱ κατ' ἤπειρον *those along the mainland* [REF]; οἱ ἐν τῇ ξυνωμοσίᾳ *the members of the conspiracy* [REF]; οἱ μετ' αὐτοῦ *his companions* [REF]; τὰ ἐν τῷ στρατοπέδῳ *the state of the camp* [REF]; τὰ περὶ τῆς ξυνωμοσίας *the facts about the conspiracy* [REF]; τὰ τῶν Τούρκων *the property of the Turks* [REF].
+(ix.) The Article with an adjective, a prepositional phrase, an adverb, or a genitive case, forms a noun-equivalent, οἱ παλαιοί *the ancients* [01.01.02]; ἡ παραθαλάσσιος *the coast* [02.02.02]; τὸ δίκαιον *justice* [03.02.01]; οἱ κάτω *those on the coast* [02.02.02]; οἱ ἐν τῇ μεσογείᾳ *those in the interior* [01.03.01]; οἱ κατ' ἤπειρον *those along the mainland* [04.01.02]; οἱ ἐν τῇ ξυνωμοσίᾳ *the members of the conspiracy* [04.01.02]; οἱ μετ' αὐτοῦ *his companions* [07.02.01]; τὰ ἐν τῷ στρατοπέδῳ *the state of the camp* [07.01.01]; τὰ περὶ τῆς ξυνωμοσίας *the facts about the conspiracy* [04.04.03]; τὰ τῶν Τούρκων *the property of the Turks* [02.03.01].
 
 ### Section 1. 
 
-ἡ μάχη, ὥρα, [REF]; ὁ δοῦλος, [REF]; στενός, μικρός (Masc. and Fem.), [REF].
+ἡ μάχη, ὥρα, [REFa1]; ὁ δοῦλος, [REFa1]; στενός, μικρός (Masc. and Fem.), [REFa1].
 
-Pres. Ind. of εἶναι, εἰμί ; of λύειν, λύω, [REF].
+Pres. Ind. of εἶναι, εἰμί ; of λύειν, λύω, [REFa1].
 
 1. έστι μέν, ἔχει δέ. Introd. Note A. (iv.).
 2. ἡ Ἑλλάς. ίντροδ. Νote B. (i.).
@@ -60,7 +60,7 @@ Pres. Ind. of εἶναι, εἰμί ; of λύειν, λύω, [REF].
 5. ἡ πρὸς Βορέαν μοῖρα. Introd. Note B. (iv.).
 6. χερσόνησος, lit. *dry-land-island*; νῆσος = *island*.
 7. ἡ πρὸς μεσημβρίαν *the southern*, μοῖρα is understood in Greek, as *part* is in English.
-8. οἱ μὲν παλαιοί. Introd. Note B. (ix.). μέν is answered by δέ in [REF]. 
+8. οἱ μὲν παλαιοί. Introd. Note B. (ix.). μέν is answered by δέ in [01.01.03]. 
 8. Πελοπόννησον, lit. *island of Pelops*. According to tradition Pelops, the son of Tantalus, came from Lydia and became King of Pisa in Elis; see *Mythological Dictionary*.
 9.  ἐκ τῆς Ἀσίας *from Asia*; prepositions meaning *from* take the Gen. in Greek, because the Gen. expresses separation, like the Latin Abl. of separation.
 10. αφικόμενος *having come*; Participles are given in the Vocab. as adjectives.
@@ -68,26 +68,25 @@ Pres. Ind. of εἶναι, εἰμί ; of λύειν, λύω, [REF].
 12. ὁ Ὀλόρου. Introd. Note B. (iv.).
 13. τε ... καί. Introd. Note A. (iii.).
 14. διὰ τὸν πλοῦτον *on account of his wealth*. Introd. Note B. (ii.). 
-15. οἱ νῦν ἐπιχώριοι *the present inhabitants*. Introd. Note B. (iv.). 
-16. For this use of an adverb for an adjective, compare 1 Tim. v. 23, *thine often infirmities*.
-17. καί ... καί. Introd. Note A. (iii.).
-18. The modern name of the Achelous is Aspropotamo, meaning White-river.
-19. τὰς πηγάς *its springs*, *cf*. [REFn].
-20. τὸν Ἰόνιον. Introd. Note B. (iii.).
-21. διά with Gen. means *through* (as here), or *by means of*; with Acc. it means *on account of*.
-22. ἡ ἐπιμειξία *communication*. Introd. Note B. (v.).
-23. τοῖς ... παραθαλασσίοις, the Article with a prepositional phrase or with an adjective is equivalent to a noun, *for those in the interior and on the coast*. Introd. Note B. (ix.).
-24. μεγίστη *the largest*; the Article is omitted with a *predicated* adjective in Greek. Introd. Note B. (vi.).
-25. τε ... καί ... καί. Introd. Note A. (iii.).
+15. οἱ νῦν ἐπιχώριοι *the present inhabitants*. Introd. Note B. (iv.). For this use of an adverb for an adjective, compare 1 Tim. v. 23, *thine often infirmities*.
+16. καί ... καί. Introd. Note A. (iii.).
+17. The modern name of the Achelous is Aspropotamo, meaning White-river.
+18. τὰς πηγάς *its springs*, *cf*. [REFn].
+19. τὸν Ἰόνιον. Introd. Note B. (iii.).
+20. διά with Gen. means *through* (as here), or *by means of*; with Acc. it means *on account of*.
+21. ἡ ἐπιμειξία *communication*. Introd. Note B. (v.).
+22. τοῖς ... παραθαλασσίοις, the Article with a prepositional phrase or with an adjective is equivalent to a noun, *for those in the interior and on the coast*. Introd. Note B. (ix.).
+23. μεγίστη *the largest*; the Article is omitted with a *predicated* adjective in Greek. Introd. Note B. (vi.).
+24. τε ... καί ... καί. Introd. Note A. (iii.).
 
 ### Section 2. 
 
-τὸ δῶρον, [REF] ; Neut. of στενός, μικρός, [REF]; δόξα, [REF]; ὅδε, [REF].
+τὸ δῶρον, [REFa1] ; Neut. of στενός, μικρός, [REFa1]; δόξα, [REFa1]; ὅδε, [REFa1].
 
 1. κατὰ τήν ἀρχήν *at the beginning*.
 2. ὅδε this is declined like the Article with δε added; when it is used with nouns, the Article must also be used immediately before the noun; ὁ πόλεμος ὅδε or ὅδε ὁ πόλεμος *this war*. For exception, see [REFn].
 3. οἱ μέν ... οἱ δέ. Introd. Note B. (viii.).
-4. κατὰ κώμας ἀτειχίστους *in unfortified villages*. Compound adjectives (ἀ-τείχιστος *un-walled*) have no separate form for the Fem. *Cf*. παραθαλάσσιος, πολυάνθρωπος [REF].
+4. κατὰ κώμας ἀτειχίστους *in unfortified villages*. Compound adjectives (ἀ-τείχιστος *un-walled*) have no separate form for the Fem. *Cf*. παραθαλάσσιος, πολυάνθρωπος [02.02.02].
 5. οἱ δὲ κάτω *but those on the coast*, the Article with an adverb forming the equivalent of a noun. Introd. Note B. (ix.).
 6. κάτω properly *down*. The Greeks spoke of "going *down* to the coast," "*up* into the interior," and "on the *high* seas," just as we do; the coast is regarded as the lowest point.
 7. τὸν πλεῖστον τοῦ βίου *the greater part of their livelihood*; the adjective is made to agree in gender with the noun in the (partitive) Genitive.
@@ -99,20 +98,20 @@ Pres. Ind. of εἶναι, εἰμί ; of λύειν, λύω, [REF].
 13. δι' ἁρπαγῆς, see [REFn].
 14. ὥσπερ κλέπται *as Clephts*. The Clephts (lit. robbers) were those Greeks, who in defiance of the Turkish authorities carried on a predatory warfare from the hills. Many of them were popular heroes, and their existence helped to keep alive the patriotism of the Greeks.
 15. τὰ τῶν Τούρκων *the property of the Turks*. Introd. Note B. (ix.).
-16. τῶν πρὶν φίλων, see [REF].
+16. τῶν πρὶν φίλων, see [01.01.03].
 17. ὁ κίνδυνος. Introd. Note B. (v.).
 18. οὕτω δή *in this way*. δή only emphasises οὕτω, which sums up what precedes. For omission of conjunction, see Introd. Note A. (ii.).
 
 ### Section 3.
 
-δεσπότης, [REF].
+δεσπότης, [REFa1].
 
-1. δύο αἰτίαι αἵδε *these two causes*. If a numeral is used, ὅδε does not require the Article to be inserted with the noun, contrary to the rule given on [REF].
+1. δύο αἰτίαι αἵδε *these two causes*. If a numeral is used, ὅδε does not require the Article to be inserted with the noun, contrary to the rule given on [02.01.01].
 2. τοὺς ὑπηκόους *subject peoples* (in general). The Article denotes a whole class. Introd. Note B. (vii.).
 3. ἡ τιμωρία τῶν ἀδικιῶν *vengeance for their wrongs*.
 4. πρός *against*.
 5. διὰ τάδε *for the following reasons*. For the omission of a conjunction in the following sentence, see Introd. Note A. (ii.).
-6. πρῶτον μέν is answered by ἔπειτα in [REF]. Introd. Note A. (iv.).
+6. πρῶτον μέν is answered by ἔπειτα in [03.02.01]. Introd. Note A. (iv.).
 7. ὅτι *that* introduces a noun-clause, after verbs of thinking, knowing, feeling, seeing, saying, etc.
 8. αὐτοί *(they) themselves*, cf. [REFn].
 9. έχουσι τούς δεσπότας ἀξυνέτους lit. *they have their masters ignorant*, i.e., *the masters they have are ignorant*. ἀξυνέτους is a predicated adjective, and so has no Article. This is the common idiom with ἔχειν
@@ -123,18 +122,18 @@ Pres. Ind. of εἶναι, εἰμί ; of λύειν, λύω, [REF].
 14. μετὰ δώρων... *they decide cases with gifts*, i.e., *under the influence of bribes*.
 15. εἰσί is understood with ἔμπειροι δέ from the previous clause. In general if a word or group of words is required with two clauses, it is inserted in the first clause and understood in the second.
 16. οὕτω. See [REFn].
-17. ὧν *of which*; the Rel. Pron. ὅς, ἥ, ὅ is declined in its other cases like the Article with a rough breathing instead of τ, [REF].
+17. ὧν *of which*; the Rel. Pron. ὅς, ἥ, ὅ is declined in its other cases like the Article with a rough breathing instead of τ, [REFa1].
 18. τὰ μὲν... ἐκ δὲ τῶν. Introd. Note Β. (viii.). 
 19. φέρει. Neut. Plurals in Greek take a Singular Verb. This arose from an original use of the Neut. Plur. as a singular collective noun.
 20. ἀθάνατον. See [REFn].
 
 ### Section 4. 
 
-Past Imperfect of εἶναι, ή; of λύειν, ἔλυον, [REF]. Syllabic Augment, [REF]; Strong Aorist, [REF].
+Past Imperfect of εἶναι, ή; of λύειν, ἔλυον, [REFa1]. Syllabic Augment, [REFa1]; Strong Aorist, [REFa1].
 
-1. κατά *at*, cf. [REF].
+1. κατά *at*, cf. [02.01.01].
 2. τοῖς παρά ... *those along the shore of the Black Sea*. Introd. Note B. (iv.). The name Euxine (*hospitable*) was given it to avoid the original ill-omened name of Ἄξενος (*inhospitable*).
-3. χαλεπῶς ἔφερον, like Lat. *aegre ferebant*, *were indignant at*. On augment, see [REF].
+3. χαλεπῶς ἔφερον, like Lat. *aegre ferebant*, *were indignant at*. On augment, see [REFa1].
 4. τὴν τῶν Τούρκων ἀρχήν. Introd. Note B. (iv.).
 5. ἀποστόλους, the envoys of the conspirators were called Apostles, i.e. messengers.
 6. ὅσους ἔπειθον *all whom they persuaded*; the suppressed antecedent of this clause is the object of ξυνάγουσιν.
