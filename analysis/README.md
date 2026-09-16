@@ -11,11 +11,14 @@ outputs can be compared. Scripts live in `scripts/lemmatize/`.
 | --- | --- | --- |
 | `tokens.txt` | – | `index ref form normalised`; the token list every run shares |
 | `lemmas-morpheus.txt` | [Morpheus](https://github.com/perseids-tools/morpheus-perseids-api) | no disambiguation: first of all possible analyses; every analysis is in `raw/morpheus.jsonl` |
-| `lemmas-cltk.txt` | [CLTK](https://github.com/cltk/cltk) 1.5 default Greek pipeline (OdyCy spaCy model) | contextual tagger |
+| `lemmas-cltk.txt` | [CLTK](https://github.com/cltk/cltk) 1.5 Greek pipeline with the OdyCy transformer model (`grc_odycy_joint_trf`) | contextual tagger |
+| `lemmas-cltk-grc_odycy_joint_sm.txt` | same, with CLTK's stock small OdyCy model | weaker; kept for comparison, not a default voter |
 | `lemmas-cltk-stanza.txt` | CLTK `GreekStanzaProcess` (Stanza, Perseus treebank) | contextual tagger |
+| `lemmas-cltk-stanza-proiel.txt` | same, PROIEL treebank (NT + Herodotus prose) | contextual tagger |
+| `lemmas-grecy.txt` | [GreCy](https://github.com/jmyerston/greCy) `grc_proiel_trf` 3.7.5 (spaCy) | contextual tagger; lemmatiser trained with Celano's extra lemma corpus |
 | `lemmas-dilemma.txt` | [Dilemma](https://github.com/open-greek/dilemma) 1.2 tagger + lemmatiser | contextual tagger |
 | `lemmas-compare.txt` | – | side by side lemma/POS per token, `Y`/`N` agreement flag |
-| `lemmas-majority.txt` | – | one row per token by majority vote over the four (ties → dilemma › cltk-stanza › morpheus › cltk); vote details in `raw/majority.jsonl` |
+| `lemmas-majority.txt` | – | one row per token by majority vote over six tools (ties → grecy › dilemma › cltk-stanza › cltk-stanza-proiel › cltk › morpheus); vote details in `raw/majority.jsonl` |
 | `raw/<tool>.jsonl` | – | the tool's own output per token (UD features, deprels, all Morpheus analyses…) |
 
 ### Format of `lemmas-<tool>.txt`
@@ -57,9 +60,12 @@ docker run -d --name morpheus -p 1500:1500 perseidsproject/morpheus-perseids-api
 cd scripts/lemmatize
 python make_tokens.py
 python run_morpheus.py                # caches API responses in analysis/raw/morpheus-cache.json
-python run_cltk.py                    # spaCy/OdyCy; see docstring for installing the model wheel
+python run_cltk.py                    # spaCy/OdyCy trf; see docstring for installing the model wheel
+python run_cltk.py spacy grc_odycy_joint_sm
 python run_cltk.py stanza             # downloads the Stanza grc model on first run
+python run_cltk.py stanza proiel
 python run_dilemma.py
+python run_grecy.py                   # model wheel: github.com/jmyerston/greCy/releases (not the dead HF path the installer uses)
 python compare.py --disagree 30
 python majority.py
 ```

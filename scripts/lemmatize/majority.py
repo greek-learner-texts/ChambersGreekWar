@@ -19,7 +19,7 @@ from collections import Counter, defaultdict
 
 from common import ANALYSIS, RAW, ROOT, tokens
 
-DEFAULT_TOOLS = "dilemma,cltk-stanza,morpheus,cltk"
+DEFAULT_TOOLS = "grecy,dilemma,cltk-stanza,cltk-stanza-proiel,cltk,morpheus"
 
 
 def load(tool):
