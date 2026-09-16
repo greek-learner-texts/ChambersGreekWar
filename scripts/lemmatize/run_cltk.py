@@ -1,19 +1,20 @@
 """Lemmatise + tag with CLTK (https://github.com/cltk/cltk).
 
-    python run_cltk.py            # CLTK's default Greek pipeline: OdyCy spaCy model
-    python run_cltk.py stanza     # CLTK's GreekStanzaProcess (Stanza, perseus treebank)
+    python run_cltk.py                          # spaCy, OdyCy trf model  -> lemmas-cltk.txt
+    python run_cltk.py spacy grc_odycy_joint_sm # spaCy, another model    -> lemmas-cltk-<model>.txt
+    python run_cltk.py stanza                   # Stanza, perseus treebank -> lemmas-cltk-stanza.txt
+    python run_cltk.py stanza proiel            # Stanza, proiel treebank  -> lemmas-cltk-stanza-proiel.txt
 
 Both run CLTK's GreekNormalizeProcess first (as the stock pipeline does),
 then the tagger; we read lemma/UPOS/feats straight off the spaCy or Stanza
 document CLTK keeps on its Doc.  The embeddings/stopword/NER processes of
 the stock pipeline are skipped - they add nothing for lemmatisation.
 
-The spaCy model is `grc_odycy_joint_sm`; newer pip rejects its wheel
-filename, so install it by hand:
-    curl -L -o grc_odycy_joint_sm-0.7.0-py3-none-any.whl \
-      https://huggingface.co/chcaa/grc_odycy_joint_sm/resolve/main/grc_odycy_joint_sm-any-py3-none-any.whl
-    pip install grc_odycy_joint_sm-0.7.0-py3-none-any.whl
-(check the version inside the wheel's METADATA if 0.7.0 is stale)
+CLTK's own default is the small OdyCy model (`grc_odycy_joint_sm`); the
+transformer one is markedly better, so it is the default here.  Install:
+    pip install "grc_odycy_joint_trf @ https://huggingface.co/chcaa/grc_odycy_joint_trf/resolve/main/grc_odycy_joint_trf-0.7.0-py3-none-any.whl"
+(the sm wheel has an unversioned filename newer pip rejects; download it,
+rename to grc_odycy_joint_sm-0.7.0-py3-none-any.whl, pip install the file)
 """
 import os
 import sys
@@ -30,6 +31,9 @@ from cltk.languages.utils import get_lang
 
 from common import (align, capitalise_like, parse_feats, sentences,
                     tagger_text, ud_to_parse, ud_to_pos, write_output)
+
+DEFAULT_SPACY_MODEL = "grc_odycy_joint_trf"
+DEFAULT_TREEBANK = "perseus"
 
 
 def spacy_tokens(doc):
@@ -48,14 +52,24 @@ def stanza_tokens(doc):
 def main():
     backend = sys.argv[1] if len(sys.argv) > 1 else "spacy"
     if backend == "spacy":
+        import spacy
         from cltk.dependency.processes import GreekSpacyProcess as Tagger
-        extract, tool = spacy_tokens, "cltk"
+        from cltk.dependency.spacy_wrapper import SpacyWrapper
+        model = sys.argv[2] if len(sys.argv) > 2 else DEFAULT_SPACY_MODEL
+        # CLTK hardcodes grc_odycy_joint_sm; hand it a preloaded model instead
+        SpacyWrapper.nlps["grc"] = SpacyWrapper(language="grc", nlp=spacy.load(model),
+                                                interactive=False, silent=True)
+        extract = spacy_tokens
+        tool = "cltk" if model == DEFAULT_SPACY_MODEL else f"cltk-{model}"
     elif backend == "stanza":
         from cltk.dependency.processes import GreekStanzaProcess as Tagger
         from cltk.dependency.stanza_wrapper import StanzaWrapper
+        treebank = sys.argv[2] if len(sys.argv) > 2 else DEFAULT_TREEBANK
         # CLTK would otherwise prompt on stdin before downloading the model
-        StanzaWrapper.nlps["grc"] = StanzaWrapper(language="grc", interactive=False, silent=True)
-        extract, tool = stanza_tokens, "cltk-stanza"
+        StanzaWrapper.nlps["grc"] = StanzaWrapper(language="grc", treebank=treebank,
+                                                  interactive=False, silent=True)
+        extract = stanza_tokens
+        tool = "cltk-stanza" if treebank == DEFAULT_TREEBANK else f"cltk-stanza-{treebank}"
     else:
         sys.exit("backend must be spacy or stanza")
 
