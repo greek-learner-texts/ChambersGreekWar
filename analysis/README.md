@@ -17,8 +17,9 @@ outputs can be compared. Scripts live in `scripts/lemmatize/`.
 | `lemmas-cltk-stanza-proiel.txt` | same, PROIEL treebank (NT + Herodotus prose) | contextual tagger |
 | `lemmas-grecy.txt` | [GreCy](https://github.com/jmyerston/greCy) `grc_proiel_trf` 3.7.5 (spaCy) | contextual tagger; lemmatiser trained with Celano's extra lemma corpus |
 | `lemmas-dilemma.txt` | [Dilemma](https://github.com/open-greek/dilemma) 1.2 tagger + lemmatiser | contextual tagger |
+| `lemmas-soter.txt` | [Sōtēr Megas](https://huggingface.co/Zual/soter-megas) (ByT5-base, distilled from LLM annotations), Perseus convention | contextual, lemma only (no POS/parse); ~4 h on CPU |
 | `lemmas-compare.txt` | – | side by side lemma/POS per token, `Y`/`N` agreement flag |
-| `lemmas-majority.txt` | – | one row per token by majority vote over six tools (ties → grecy › dilemma › cltk-stanza › cltk-stanza-proiel › cltk › morpheus); vote details in `raw/majority.jsonl` |
+| `lemmas-majority.txt` | – | one row per token by majority vote over seven tools (ties → grecy › dilemma › soter › cltk-stanza › cltk-stanza-proiel › cltk › morpheus); vote details in `raw/majority.jsonl` |
 | `raw/<tool>.jsonl` | – | the tool's own output per token (UD features, deprels, all Morpheus analyses…) |
 
 ### Format of `lemmas-<tool>.txt`
@@ -66,6 +67,7 @@ python run_cltk.py stanza             # downloads the Stanza grc model on first 
 python run_cltk.py stanza proiel
 python run_dilemma.py
 python run_grecy.py                   # model wheel: github.com/jmyerston/greCy/releases (not the dead HF path the installer uses)
+python run_soter.py                   # needs torch + transformers; ~2.3 GB model; resumable
 python compare.py --disagree 30
 python majority.py
 ```

@@ -1,3 +1,5 @@
 test_results.txt
 tokens-example.txt
 .venv/
+__pycache__/
+*.pyc
