@@ -6,9 +6,10 @@ over the lemmas-<tool>.txt outputs.
 Voting: lemmas are compared NFC-normalised, case-folded and with Morpheus's
 homograph digits stripped (ἤ1 == ἤ).  Ties go to the tool listed first in
 --tools (default order follows the pairwise agreement rates).  POS and
-parse come from the highest-priority tool that voted for the winning lemma,
-so the row is internally consistent.  Vote details for every token are in
-analysis/raw/majority.jsonl (winner, votes, whether it was a tie).
+parse come from the highest-priority tool that voted for the winning lemma
+and reports a POS (soter does not), so the row is internally consistent.
+Vote details for every token are in analysis/raw/majority.jsonl (winner,
+votes, whether it was a tie).
 """
 import argparse
 import json
@@ -19,7 +20,7 @@ from collections import Counter, defaultdict
 
 from common import ANALYSIS, RAW, ROOT, tokens
 
-DEFAULT_TOOLS = "grecy,dilemma,cltk-stanza,cltk-stanza-proiel,cltk,morpheus"
+DEFAULT_TOOLS = "grecy,dilemma,soter,cltk-stanza,cltk-stanza-proiel,cltk,morpheus"
 
 
 def load(tool):
@@ -66,7 +67,8 @@ def main():
         winners = [k for k, v in votes.items() if v == top]
         # tie-break: the candidate backed by the highest-priority tool
         best = min(winners, key=lambda k: tools.index(voters[k][0]))
-        src = voters[best][0]
+        # POS/parse from the first voter that has them (soter is lemma-only)
+        src = next((t for t in voters[best] if data[t][i][1] != "--"), voters[best][0])
         tnorm, pos, parse, lemma = data[src][i]
         rows.append((i, form, tnorm, pos, parse, "-------", lemma))
         raw.append({"index": i, "ref": ref, "form": form, "winner": lemma, "source": src,
